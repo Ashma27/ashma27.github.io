@@ -1,0 +1,676 @@
+@media(max-width:1199px){
+	.header .navbar ul li {
+        padding: 7px 4px 0px;
+    }
+    .header .navbar-nav li a{
+        font-size: 15px;
+        padding: 7px 12px;
+    }
+    .header .navbar-nav li a img {
+        margin-right: 10px;
+    }
+    .banner_inner ul li{
+        font-size: 15px;
+        padding-right: 20px;
+    }
+    .banner_inner ul li img{
+        margin-right: 10px;
+    }
+    .accumlate h1{
+        font-size: 30px;
+    }
+    .accum_img img{
+        height: 250px;
+    }
+    .accumlate {
+        width: 411px;
+    }
+    .year_anchor a{
+        padding: 5px 20px;
+        margin: 15px 5px 0px;
+    }
+    .accum_table tr td{
+        padding: 8px 0px;
+    }
+    .about ul li{
+        width: 80px;
+    }
+    .about_right h5{
+        font-size: 18px;
+    }
+    .about_right h3{
+        font-size: 24px;
+    }
+    .buy_body h2{
+        font-size: 40px;
+    }
+    .card{
+        width: 90px;
+        margin-top: 4px;
+    }
+    .slick_items .member-top{
+        padding: 20px;
+    }
+    .slick_items .member-top h5{
+        font-size: 15px;
+    }
+    .slick_items .member_bottom{
+        padding: 20px;
+    }
+    .buy_body button{
+        font-size: 20px;
+        padding: 10px 0px;
+    }
+    .point_data_top ul li{
+        width: 129px;
+        padding: 7px 0px;
+    }
+    .buy_body h2 span{
+        font-size: 14px;
+        padding: 8px;
+    }
+    .buy_body h2 span::before{
+        border-top: 23px solid transparent;
+    border-right: 30px solid #f10000;
+    border-bottom: 23px solid transparent;
+    }
+    .footer_inner ul li a{
+        font-size: 15px;
+        padding: 0px 12px;
+    }
+    .footer_inner ul li{
+        padding-right: 12px;
+    }
+    .benefit_inner p{
+        font-size: 16px;
+    }
+    .benefit_inner img{
+        width: 70px;
+    }
+    /* home page ends */
+
+    /* member page start */
+    .main_inner h2, .write_reviews h3{
+        font-size: 35px;
+    }
+   
+}
+
+@media(max-width:991px){
+    .navbar-brand>img{
+        width: 200px;
+    }
+    .header .navbar-nav li a img {
+        margin-right: 5px;
+    }
+    .header .navbar-nav li a {
+        font-size: 13px;
+        padding: 6px 9px;
+    }
+    .header .navbar ul li {
+        padding: 0px 2px 0px;
+    }
+    .banner, .main {
+        margin-top: 66px;
+    }
+    .banner_inner ul li img {
+        margin-right: 5px;
+        height: 18px;
+    }
+    .banner_inner ul li {
+        font-size: 13px;
+        padding-right: 10px;
+    }
+    .year_anchor a {
+        padding: 4px 12px;
+        margin: 15px 4px 0px;
+        font-size: 13px;
+    }
+    .accumalate_tip h5{
+        font-size: 16px;
+    }
+    .accum_img img {
+        height: 200px;
+    }
+    .accumlate h1 {
+        font-size: 25px;
+    }
+    .accumlate {
+        width: 326px;
+    }
+    .accumlate p {
+        font-size: 13px;
+        padding-top: 10px;
+    }
+    .accum_table tr th{
+        font-size: 11px;
+        padding: 6px 0px;
+    }
+    .accum_table tr td, .accum_table tr td:last-child{
+        font-size: 12px;
+    }
+    .about_right h5 {
+        font-size: 16px;
+    }
+    .about_right h5 span{
+        font-size: 14px;
+    }
+    .about_right h3 {
+        font-size: 20px;
+    }
+    .about_botttom p{
+        font-size: 14px;
+    }
+    .about ul li {
+        width: 60px;
+    }
+    .point_data_top ul li {
+        width: 93px;
+        padding: 5px 0px;
+        font-size: 14px;
+    }
+    .point_data_top ul li span{
+        font-size: 18px;
+    }
+    .point_data_top ul li.green{
+        font-size: 20px;
+        padding: 13px 0px;
+    }
+    .match_head ul{
+        padding: 10px 10px;
+    }
+    .match_body ul{
+        padding: 10px 10px;
+    }
+    .match_body ul li{
+        font-size: 11px;
+    }
+    .match_body ul li img {
+        height: 13px;
+    }
+    .width32 {
+        width: 34%;
+    }
+    .width35 {
+        width: 32%;
+    }
+    .width18 {
+        width: 21%;
+    }
+    .width12 {
+        width: 10%;
+    }
+    .total_score p{
+        font-size: 16px;
+    }
+    .total_score p span{
+        font-size: 20px;
+    }
+    .buy_head h4{
+        font-size: 18px;
+    }
+    .buy_body h2 {
+        font-size: 30px;
+    }
+    .buy_body h2 sup{
+        font-size: 14px;
+        top: 9px;
+    }
+    .buy_body h2 span {
+        font-size: 11px;
+        padding: 4px;
+    }
+    .buy_body h2 span::before {
+        border-top: 16px solid transparent;
+        border-right: 25px solid #f10000;
+        border-bottom: 16px solid transparent;
+        left: -24px;
+    }
+    .check_div .checkmark{
+        height: 15px;
+        width: 15px;
+        top: 3px;
+    }
+    .check_div .checkmark:after{
+        height: 4px;
+        left: 2px;
+        top: 3px;
+        width: 7px;
+    }
+    .check_div .radiobox{
+        padding: 10px;
+    }
+    .check_div .pay_inner{
+        font-size: 14px;
+        padding-left: 20px;
+    }
+    .card {
+        width: 60px;
+        margin-top: 7px;
+    }
+    .buy_body button {
+        font-size: 16px;
+        padding: 6px 0px;
+    }
+    .benefit_inner img {
+        width: 60px;
+    }
+    .benefit_inner p {
+        font-size: 14px;
+    }
+    .slick_items .member-top {
+        padding: 10px;
+    }
+    .slick_items .member-top h5 {
+        font-size: 12px;
+    }
+    .slick_items .member-top h5 img{
+        width: 55px;
+        margin-top: 2px;
+    }
+    .slick_items .member_bottom {
+        padding: 10px;
+    }
+    .slick_items .member_bottom p{
+        font-size: 12px;
+    }
+    .slick_items {
+        min-height: 193px;
+    }
+    .load a{
+        font-size: 15px;
+        padding: 10px 25px;
+    }
+    .footer_inner ul li {
+        padding-right: 4px;
+    }
+    .footer_inner ul li a {
+        font-size: 13px;
+        padding: 0px 9px;
+    }
+    /* home page ends */
+
+    /* member page start */
+    .main_inner h2, .write_reviews h3 {
+        font-size: 30px;
+    }
+    .your_reviews .member-top{
+        padding: 15px;
+    }
+    .your_reviews .member-top h5{
+        font-size: 15px;
+    }
+    .your_reviews .member-top h5 img{
+        width: 70px;
+    }
+    .your_reviews .member_bottom {
+        padding: 15px;
+    }
+    .rating > label:before {
+        margin: 2px;
+    }
+    .rate_startbox span{
+        font-size: 15px;
+    }
+    .contact_form .form-control {
+        height: 45px;
+        padding: 10px 15px;
+        font-size: 15px;
+    }
+    .rate_startbox{
+        height: 45px;
+    }
+    .contact_form textarea.form-control {
+        height: 169px;
+        resize: none;
+    }
+    .contact_form button {
+        padding: 13px 0px;
+        font-size: 18px;
+    }
+    .success p {
+        font-size: 17px;
+    }
+    .help_head {
+        padding: 15px;
+    }
+    .help_content {
+        padding: 15px;
+    }
+    .help_head h5{
+        font-size: 16px;
+    }
+    .term_mid {
+        padding-top: 20px;
+    }
+    .term_inner h4{
+        font-size: 20px;
+    }
+    .slick-dots{
+        bottom: -55px;
+    }
+}
+
+@media(max-width:767px){
+   .header .hamburger{
+        display: block;
+    }
+    .rtable {
+        display: block;
+    }
+    .accum_record{
+        margin-top: 0px;
+    }
+    .accum .col-sm-8 {
+        float: left;
+        width: 100%
+    }
+    .accum_img{
+        right: 0px;
+        display: none;
+    }
+    .accumlate{
+        width: 100%;
+    }
+    .accumlate h1{
+        font-size: 30px;
+    }
+    .accumlate p{
+        font-size: 15px;
+    }
+    .banner_inner ul li {
+        font-size: 16px;
+        /* padding-right: 66px; */
+        width: 49%;
+    }
+    .accumalate_tip h5 {
+        font-size: 20px;
+    }
+    .year_anchor a {
+        padding: 5px 20px;
+        margin: 15px 9px 0px;
+        font-size: 16px;
+    }
+    .accum_table tr th {
+        font-size: 14px;
+        padding: 6px 0px;
+    }
+    .accum_table tr td, .accum_table tr td:last-child {
+        font-size: 14px;
+    }
+    .about ul{
+        text-align: center;
+        padding-top: 25px;
+    }
+    .about ul li{
+        width: initial;
+    }
+    .about_right h5 {
+        font-size: 18px;
+    }
+    .about_right h5 span {
+        font-size: 16px;
+    }
+    .about_right h3 {
+        font-size: 22px;
+    }
+    .about_right {
+        padding-left: 15px;
+    }
+    .about_inner {
+        padding: 0px 15px;
+    }
+    .about_botttom {
+        padding: 15px 0px;
+    }
+    .about_botttom p {
+        font-size: 15px;
+    }
+    .point_data_top ul li {
+        width: 22%;
+    }
+    .buy_head h4 {
+        font-size: 22px;
+    }
+    .buy_body h2 {
+        font-size: 40px;
+    }
+    .buy_body h2 sup {
+        font-size: 20px;
+        top: 9px;
+    }
+    .buy_body h2 span {
+        font-size: 14px;
+        padding: 7px;
+    }
+    .buy_body h2 span::before {
+        border-top: 22px solid transparent;
+        border-right: 25px solid #f10000;
+        border-bottom: 22px solid transparent;
+    }
+    .card {
+        width: initial;
+        margin-top: 0;
+    }
+    .buy_body button {
+        font-size: 20px;
+        padding: 8px 0px;
+    }
+    .benefit_inner p {
+        font-size: 18px;
+    }
+    .slick_items .member-top h5 {
+        font-size: 20px;
+    }
+    .slick_items .member-top h5 img {
+        width: inherit;
+        margin-top: 0px;
+    }
+    .slick_items .member_bottom p {
+        font-size: 18px;
+    }
+    .slick_items {
+        min-height: 166px;
+    }
+    .slick-dots {
+        bottom: -40px;
+    }
+    .footer_inner ul li {
+        padding-right: 25px;
+    }
+    .footer_inner ul li a {
+        font-size: 15px;
+        padding: 0px 15px;
+    }
+    /* home page ends */
+
+    /* member page start */
+    .your_reviews .member-top h5 {
+        font-size: 18px;
+    }
+    .your_reviews .member-top h5 img {
+        width: initial;
+    }
+    .form_left {
+        margin-bottom: 17px;
+    }
+    .contact_form textarea.form-control {
+        height: 120px;
+        resize: none;
+    }
+    .help_head h5{
+        font-size: 18px;
+    }
+    .match_table{
+        display: none;
+    }
+    .responsive_table{
+        display: block;
+    }
+}
+@media(max-width:560px){
+    .accumlate h1 {
+        font-size: 25px;
+    }
+    .banner_inner ul li img {
+        margin-right: 10px;
+    }
+    .about_right h5 {
+        font-size: 15px;
+    }
+    .about_right h5 span {
+        font-size: 14px;
+    }
+    .about_right h3 {
+        font-size: 18px;
+    }
+    .point_data_top ul li {
+        width: 46%;
+        margin-top: 10px;
+    }
+    .point_data_top ul li:nth-child(2){
+        margin-right: 0px;
+    }
+    .poin_data{
+        padding: 10px;
+    }
+    .buy_body h2 {
+        font-size: 30px;
+    }
+    .buy_body h2 sup {
+        font-size: 18px;
+        top: 9px;
+    }
+    .slick_items {
+        min-height: 176px;
+    }
+    .slick_items .member_bottom p {
+        font-size: 16px;
+    }
+    .footer_inner ul li {
+        padding-right: 7px;
+    }
+    .footer_inner ul li a {
+        font-size: 14px;
+        padding: 0px 12px;
+    }
+    /* home page ends */
+    /* member page start */
+    .main_inner h2, .write_reviews h3 {
+        font-size: 28px;
+    }
+    .success p {
+        font-size: 15px;
+    }
+    .banner_inner ul li {
+        font-size: 16px;
+        width: 100%;
+    }
+    .respons_inner img {
+        float: right;
+        width: 20px;
+    }
+    .total_score p{
+        padding-right: 40px;
+    }
+    
+}
+@media(max-width:414px){
+	.accumlate h1 {
+        font-size: 22px;
+    }
+    .year_anchor a {
+        padding: 5px 18px;
+        margin: 15px 9px 0px;
+        font-size: 15px;
+    }
+    .accum_table tr th {
+        font-size: 13px;
+    }
+    .accum_table tr td, .accum_table tr td:last-child {
+        font-size: 13px;
+    }
+    .about ul li{
+        padding-right: 30px;
+    }
+    .about_right h5 {
+        font-size: 15px;
+        float: left;
+    }
+    .about_right h5 span {
+        font-size: 14px;
+        display: block;
+        float: left;
+        padding-top: 5px;
+    }
+    .about_botttom p {
+        font-size: 14px;
+    }
+    .point_head h5{
+        font-size: 16px;
+    }
+    .point_head h5 img {
+        float: left;
+        margin-right: 10px;
+    }
+    .point_head{
+        padding: 15px;
+    }
+    .card {
+        width: 115px;
+        margin-top: 3px;
+    }
+    .buy_body button {
+        font-size: 18px;
+        padding: 6px 0px;
+    }
+    .benefit_inner p {
+        font-size: 16px;
+    }
+    .slick_items .member-top h5 {
+        font-size: 16px;
+    }
+    .slick_items .member_bottom p {
+        font-size: 14px;
+    }
+    .slick_items {
+        min-height: 181px;
+    }
+    .footer_inner ul li a {
+        font-size: 14px;
+        padding: 0px 8px;
+    }
+    .main_inner h2, .write_reviews h3 {
+        font-size: 24px;
+    }
+    .success p {
+        font-size: 13px;
+    }
+    .term_inner h4{
+        font-size: 16px;
+    }
+    .term_inner p{
+        font-size: 14px;
+        padding-top: 10px;
+    }
+    .term_inner p.dot::before{
+        top: 17px;
+    }
+    .term_inner p.dot {
+        padding-left: 15px;
+    }
+    .respons_inner p{
+        font-size: 11px;
+    }
+    .respons_inner img {
+        float: right;
+        width: 15px;
+    }
+    .total_score p{
+        padding-right: 20px;
+    }
+}
+@media(max-width:320px){
+
+}
+
