@@ -1,0 +1,1264 @@
+@media (max-width:1920px) {
+    .banner {
+        background-size: 55% 112%;
+        padding: 200px 0 160px;
+    }
+    .banner .container, .header .container {
+        max-width: 1660px;
+    }
+    .roadmap .roadmapInner {
+        background-size: 100% 98%;
+        padding: 0px 0 0px 550px;
+    }
+    .header .navbar-light .navbar-nav .nav-link {
+        font-size: 20px;
+    }
+    .banner h1 {
+        font-size: 43px;
+    }
+    .banner p, .banner .subscribe label {
+        font-size: 25px;
+    }
+    .banner .presale p {
+        font-size: 26px;
+    }
+    .banner .presale {
+        padding: 35px 40px 45px;
+    }
+    .banner .presale #timer .count {
+        font-size: 45px;
+    }
+    .banner .presale #timer span {
+        font-size: 18px;   
+    }
+    .banner .btns {
+        width: 225px;
+        font-size: 24px;
+        padding: 12px;
+        border-radius: 30px;
+    }
+    .banner .btns.live {
+        margin: 0 50px 0 0;
+    }
+    .banner .bannerBtns {
+        margin: -30px 0 0 130px;
+    }
+    .banner .input-group .form-control {
+        border-radius: 30px 0 0 30px;
+        font-size: 24px;
+        height: 63px;
+    }
+    .banner .input-group .input-group-append .btn.btns {
+        border-radius: 0 30px 30px 0;
+        width: 190px;
+    }
+}
+@media (max-width:1680px) {
+    .banner .container, .header .container {
+        max-width: 1340px;
+    }
+    .roadmap .roadmapInner {
+        background-size: 100% 98%;
+        padding: 0px 0 0px 460px;
+    }
+    .banner {
+        padding: 170px 0 110px;
+    }
+    .banner h1 {
+        font-size: 35px;
+    }
+    .banner p, .banner .subscribe label, .banner .btns, .banner .input-group .form-control {
+        font-size: 20px;
+    }
+    .banner .presale p {
+        font-size: 22px;
+    }
+    .banner .bannerBtns {
+        margin: -30px 0 0 68px;
+    }
+}
+@media (max-width:1600px) {
+    .roadmap .roadmapInner {
+        background-size: 100% 96%;
+        padding: 0px 0 0px 430px;
+    }
+}
+@media (max-width:1440px) {
+    .roadmap .roadmapInner {
+        background-size: 100% 90%;
+        padding: 0px 0 0px 415px;
+    }
+    .banner {
+        padding: 150px 0 40px;
+    }
+    .header .navbar-light .navbar-nav .nav-link {
+        font-size: 17px; 
+    }
+    .banner h1 {
+        font-size: 34px;
+    }
+    .banner .presale {
+        padding: 25px 40px 30px;
+    }
+    .banner .presale #timer .count {
+        font-size: 30px;
+    }
+    .banner .presale #timer span {
+        font-size: 14px;   
+    }
+    .banner .btns.live {
+        margin: 0 15px 0 0;
+    }
+    .banner .bannerBtns {
+        margin: -20px 0 0 50px;
+    }
+    .banner .btns {
+        width: 185px;
+        font-size: 19px;
+        padding: 7px;
+        border-radius: 25px;
+    }
+    .banner .subscribe label {
+        font-size: 18px;
+    }
+    .banner .input-group .form-control {
+        border-radius: 25px 0 0 25px;
+        font-size: 15px;
+        height: 45px;
+    }
+    .banner .input-group .input-group-append .btn.btns {
+        border-radius: 0 25px 25px 0;
+        width: 145px;
+    }
+}
+@media (max-width:1366px) {
+    .banner .container, .header .container {
+        max-width: 1140px;
+    }
+    .banner {
+        padding: 140px 0 0px;
+        background-size: 55% 105%;
+    }
+}
+@media (max-width:1199px) {
+    .banner .container, .header .container {
+        max-width: 960px;
+    }
+    .use_sdk p span{
+        display: inline;
+    }
+    .use_sdk p {
+        padding: 55px 0px;
+        font-size: 16px;
+        line-height: 29px;
+    }
+    .use_sdk {
+        padding: 71px 0px 20px 0px;
+    }
+    .use_sdk .application p {
+        line-height: 29px;
+        font-size: 16px;
+        padding: 8px 0px 0px 0px;
+    }
+    .use_sdk .application {
+        padding: 48px 0px 0px 79px;
+    }
+    .merchant h1 {
+        font-size: 28px;
+        line-height: 42px;
+        padding-bottom: 45px;
+    }
+    .merchant .pricing a {
+        padding: 10px 64px;
+        font-size: 16px;
+        margin-right: 0px;
+    }
+    .merchant .cases a{
+        padding: 10px 55px;
+        font-size: 16px;
+        margin-left: 0px; 
+    }
+    .network_token h1 {
+        font-size: 28px;
+        line-height: 21px;
+    }
+    .network_token p {
+        font-size: 16px;
+        line-height: 29px;
+        padding: 38px 0px 47px 0px;
+    }
+    .network_token .right a {
+        padding: 12px 50px;
+        font-size: 16px;
+    }
+    .network_token .right {
+        padding: 45px 0px 0px 0px;
+    }
+    .competition {
+        padding: 70px 0px;
+    }
+    .competition p {
+        font-size: 16px;
+        line-height: 29px;
+        padding: 35px 0px;
+    }
+    .competition table tr td {
+        padding: 18px 0px;
+        font-size: 16px;
+    }
+    .token_sale p {
+        font-size: 16px;
+        line-height: 29px;
+        padding: 36px 0px 36px 0px;
+    }
+    .token_sale table tr td {
+        padding: 11px 0px;
+        font-size: 16px;
+    }
+    .banner h1 .ecoRanker .ecoInner {
+        padding: 0 0px 0 0;
+    }
+    .HowItWorks .workDesc h1 {
+        padding: 0 0px 10px 0;
+    }
+    .banner .presale {
+        padding: 25px 24px 30px;
+    }
+    .banner .input-group .input-group-append .btn.btns {
+        width: 120px;
+    }
+    .heading h1 {
+        font-size: 27px;
+    }
+    .features .featureImg .iphone .girl {
+        width: 90%;
+    }
+    .features .featureImg .iphone .girl {
+        width: 31%;
+        padding: 300px 0 0;
+    }
+    .topImg {
+        top: -149px;
+        right: -97px;
+    }
+    .banner h1 {
+        padding: 0;
+    }
+    .use_sdk .left_phone img, .use_sdk .right_phone img {
+        width: 70%;
+    }
+    .features .featureImg .screen1 {
+        top: -665px;
+    }
+    .features:nth-child(odd) .featureImg .screen1 {
+        top: -654px;
+    }
+    .sublime {
+        max-width: 750px;
+    }
+    .cryptocurrency .coinImg {
+        margin-top: -275px;
+    }
+    .smart_contract {
+        padding-bottom: 320px;
+    }
+    .banner p {
+        padding: 20px 0px 30px 0;
+    }
+    .banner .presale p {
+        font-size: 20px;
+    }
+    .banner .bannerBtns {
+        margin: -20px 0 0 30px;
+    }
+    .banner p {
+        font-size: 17px;
+    }
+    .banner h1 {
+        font-size: 30px;
+    }
+    .banner .subscribe label, .banner .btns {
+        font-size: 16px;
+    }
+    .gittxt p {
+        width: 712px;
+    }
+}
+@media (max-width:1189px) {
+    .roadmap .roadmapInner {
+        background-size: 100% 82%;
+        padding: 0px 0 0px 335px;
+    }
+}
+@media (max-width:1079px) {
+    .roadmap .roadmapInner {
+        background-size: 100% 77%;
+        padding: 0px 0 0px 300px;
+    }
+    .roadmap .roadmapInner .road {
+        width: 302px;
+    }
+}
+@media (max-width:991px) and (min-width:768px) {
+    .cryptocurrency .Donuts h2 {
+        font-size: 25px; 
+    }
+    .donut_footer h2 {
+        font-size: 25px; 
+    }
+    .donut_footer p {
+        font-size: 16px;
+    }
+    .right_donut p {
+        font-size: 16px;
+    }
+    .donut_footer .input-group {
+        width: 88%;
+    }
+    .main-menu ul li a {
+        font-size: 16px;
+    }
+    .main-menu ul li {
+        margin-left: 30px;
+    }
+}
+@media (max-width:991px) {
+    .banner .container, .header .container {
+        max-width: 720px;
+    }
+    .use_sdk .left_phone img {
+        float: right;
+        width: 85%;
+        padding-right: 10px;
+    }
+    .use_sdk .right_phone img{
+        padding-left: 10px;
+        width: 85%;
+    }
+    .network_token p {
+        padding: 30px 0px 39px 0px;
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .network_token {
+        padding: 50px 0px 60px;
+    }
+    .use_sdk p {
+        padding: 33px 0px;
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .use_sdk .application h2 {
+        color: #464646;
+        line-height: 39px;
+        font-size: 16px;
+    }
+    .merchant h1 {
+        font-size: 26px;
+        line-height: 37px;
+        padding-bottom: 35px;
+    }
+    .merchant {
+        padding: 38px 0px 0px 0px;
+    }
+    .use_sdk .application p {
+        line-height: 24px;
+        font-size: 14px;
+        padding: 0px 0px 0px 0px;
+    }
+    .merchant .pricing a {
+        padding: 8px 46px;
+        font-size: 14px;
+    }
+    .merchant .cases a{
+        padding: 8px 36px;
+        font-size: 14px;
+    }
+    .merchant h1 {
+        font-size: 22px;
+        line-height: 32px;
+        padding-bottom: 28px;
+    }
+    .network_token h1 {
+        font-size: 23px;
+        line-height: 6px;
+    }
+    .network_token .right {
+        padding: 20px 0px 0px 0px;
+    }
+    .network_token .right a {
+        padding: 10px 35px;
+        font-size: 14px;
+    }
+    .competition p span{
+        display: inline;
+    }
+    .competition p {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 26px 0px;
+    }
+    .competition table tr td {
+        padding: 13px 0px;
+        font-size: 14px;
+    }
+    .token_sale p span{
+        display: inline;
+    }
+    .token_sale p {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 24px 0px 22px 0px;
+    }
+    .token_sale table tr td {
+        padding: 9px 0px;
+        font-size: 14px;
+    }
+    .header #navbarSupportedContent {
+        display: inline-block;
+        flex-basis: 76%;
+    }
+    .header .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .header .navbar-light .navbar-nav .nav-item {
+        float: left;
+    }
+    .header .navbar-light .navbar-nav {
+        display: block;
+    }
+    .banner .presale {
+        display: none;
+    }
+    .banner .bannerBtns {
+        margin: 0;
+        padding: 150px 0 0;
+    }
+    .banner {
+        background: url(../img/banner.jpg) no-repeat top right -480px;
+        background-size: 128% 98.3%;
+        padding: 140px 0 200px;
+    }
+    .ecoRanker {
+        padding: 25px 0 100px;
+    }
+    .ecoRanker .ecoInner .eco h1 {
+        font-size: 38px;
+    }
+    .banner .input-group .input-group-append .btn.btns {
+        width: 100px;
+    }
+    .ecoRanker {
+        padding: 10px 0 80px;
+    }
+    .heading h1 {
+        font-size: 20px;
+    }
+    .circle {
+        height: 65px;
+        width: 65px;
+    }
+    .features .feature .points h1, .HowItWorks .workDesc h1 {
+        font-size: 18px;
+    }
+    .features .feature .points p {
+        font-size: 14px;
+    }
+    .HowItWorks .workDesc {
+        padding: 20px;
+    }
+    .features .heading {
+        padding: 0 0 55px;
+    }
+    .features .featureImg .iphone .phone {
+        width: 70%;
+    }
+    .features .featureImg .screen1 {
+        width: 61%;
+        top: -498px;
+        right: 17px;
+    }
+    .features:nth-child(odd) .featureImg .screen1 {
+        top: -521px;
+        width: 62%;
+    }
+    .features .feature .points {
+        padding: 10px 0;
+    }
+    .features .featureImg .iphone .girl {
+        width: 30%;
+        padding: 240px 0 0;
+    }
+    .use_sdk .application {
+        padding: 40px 0px 0px 0px;
+    }
+    .header .navbar-light .navbar-nav .nav-item:last-child .nav-link {
+        display: none;
+    }
+    .HowItWorks {
+        padding: 50px 0 100px;
+    }
+    .features {
+        padding: 90px 0 45px;
+        margin-top: -30px;
+    }
+    .features:nth-child(odd) {
+        padding: 45px 0 0;
+    }
+    .features:nth-child(odd) .heading {
+        padding: 0 0 95px;
+    }
+    .features:nth-child(odd) .featureImg .iphone .girl {
+        padding: 275px 0 0;
+    }
+    .topImg {
+        top: -91px;
+        right: -71px;
+    }
+    .use_sdk .sdkInner {
+        background: url(../img/img3.png) no-repeat left bottom -95px;
+        background-size: 36%;
+        padding: 0 0 170px;
+    }
+    .token .percent h2 {
+        padding: 0 0 5px 10px;
+    }
+    .btns, .whitepaper p, .banner .subscribe label, .banner .btns, .token .percent h2, .main-menu ul li a, .right_donut p, .donut_footer p, .cryptocurrency .Donuts p, .team .member p, .bounty p, .HowItWorks .workDesc p, .donut_footer .btn {
+        font-size: 15px;
+    }
+    .whitepaper h2 {
+        font-size: 20px;
+    }
+    .whitepaper .whiteInner {
+        padding: 0;
+    }
+    .whitepaper a.btns {
+        width: 172px;
+    }
+    .token {
+        padding: 30px 0;
+    }
+    .token .tokenImg {
+        padding: 60px 0;
+    }
+    .token .tokenImg img {
+        width: 50%;
+    }
+    .bounty p {
+        padding: 60px 0px 50px;
+    }
+    .whitepaper {
+        padding: 30px 0;
+    }
+    .roadmap .heading {
+        padding: 0 0 20px;
+    }
+    .roadmap {
+        padding: 70px 0 40px;
+    }
+    .teamSection {
+        margin-top: 70px;
+    }
+    .member {
+        margin-top: 50px;
+    }
+    .member img {
+        width: 70%;
+    }
+    .partners {
+        margin-top: 80px;
+    }
+    .inNews .news.rounded_img {
+        width: 25%;
+    }
+    .cryptocurrency .coinImg {
+        margin-top: -220px;
+    }
+    .smart_contract {
+        padding: 65px 0 240px;
+    }
+    .footer .donut_footer {
+        padding: 0 115px 0 0;
+    }
+    .donut_footer .btn {
+        padding: 0px 10px;
+    }
+    .footer .donut_icon {
+        width: 40px;
+        height: 40px;
+        margin: 0px 10px;
+    }
+    .footer {
+        padding: 80px 0px 0px;
+    }
+    .footerInner {
+        padding-top: 60px;
+    }
+    .footer .footerBg {
+        padding: 0 0 15px;
+    }
+    .main-menu ul {
+        padding-top: 110px;
+    }
+    .ecoRanker .ecoInner {
+        padding: 0;
+    }
+    .features .featureDetail .col-sm-5 {
+        flex: 0 0 45.666667%;
+        max-width: 45.666667%;
+    }
+    .donut_footer h2 {
+        font-size: 24px;
+    }
+    .sublime {
+        max-width: 530px;
+        border-top: 15px solid #fff;
+        border-left: 15px solid #fff;
+        border-right: 15px solid #fff;
+        border-bottom: 40px solid #fff;
+        margin: 50px auto 0;
+    }
+    .sublime-project .sublime-inner {
+        height: 325px;
+    }
+    .capsule {
+        width: 50px;
+    }
+    .cryptocurrency .Donuts p {
+        padding-top: 20px;
+    }
+    .gittxt p {
+        width: 500px;
+    }
+    .gittxt {
+        margin: -32px auto 0;
+    }
+}
+@media (max-width:900px) {
+    .roadmap .roadmapInner {
+        background-size: 100% 75%;
+        padding: 0px 0 0px 260px;
+    }
+    .roadmap .roadmapInner .road {
+        width: 240px;
+        min-height: 230px;
+        padding: 35px 20px 20px;
+    }
+    .roadmap .roadmapInner .road ul li {
+        font-size: 15px;
+        padding: 15px 0 0 10px;
+    }
+    .roadmap .roadmapInner .road h2 {
+        padding: 12px 42px;
+    }
+}
+@media (max-width:800px) {
+    .roadmap .roadmapInner {
+        background-size: 100% 65%;
+        padding: 0px 0 0px 230px;
+    }
+    .bems-scroller #scrolling-container {
+        padding: 3em 0 4em;
+    }
+}
+@media (max-width:767px) {
+    .banner .container, .header .container {
+        max-width: 540px;
+    }
+    .use_sdk .application {
+        padding: 48px 0px 0px 46px;
+    }
+    .banner {
+        background: none;
+        padding: 130px 0 40px;
+    }
+    .header #navbarSupportedContent {
+        display: none;
+    }
+    .banner .bannerBtns {
+        padding: 0;
+    }
+    .banner .btns {
+        display: block;
+    }
+    .banner .btns.live {
+        margin: 0 15px 15px 0;
+    }
+    .header .container {
+        max-width: 100%;
+    }
+    .eco {
+        padding: 0 0 30px;
+    }
+    .inNews .news {
+        width: 33.33%;
+    }
+    .HowItWorks .workVideo {
+        height: 300px;
+        margin: 0 0 30px;
+    }
+    .features {
+        padding: 90px 0 110px;
+    }
+    #big, #big1, #big2 {
+        margin-top: -150%;
+    }
+    .features .featureImg .screen1 {
+        position: static;
+        margin: 24% 4% 0 auto;
+        width: 53%;
+    }
+    .features .heading, .features:nth-child(odd) .heading {
+        padding: 30px 0 20px 50px;
+    }
+    .features .featureImg .iphone .phonediv {
+        padding: 40px 0 0;
+    }
+    .features .featureImg .iphone .phone {
+        width: 60%;
+    }
+    .features .feature .slider {
+        display: none;
+    }
+    .features .feature .points {
+        padding: 40px 0 0;
+    }
+    .features:nth-child(odd) {
+        padding: 0 0 25px;
+        margin-top: -20px;
+    }
+    .features:nth-child(odd) .featureImg .screen1 {
+        margin: 21% auto 0 4%;
+    }
+    .features .feature .points h1, .features .feature .points p {
+        color: #fff;
+    }
+    .topImg {
+        top: -142px;
+        right: -83px;
+        width: 50%;
+    }
+    .use_sdk {
+        padding: 15px 0px 20px 0px;
+    }
+    .use_sdk .sdkInner {
+        background: url(../img/img3.png) no-repeat left bottom -70px;
+        background-size: 36%;
+    }
+    .network_token {
+        padding: 105px 0px 140px;
+        margin-top: -100px;
+        text-align: center;
+    }
+    .network_token .right {
+        padding: 50px 0px 0px 0px;
+    }
+    .deskhide {
+        display: table;
+    }
+    .mobhide {
+        display: none;
+    }
+    .competition table tr.tableComp td {
+        width: 33.33%;
+    }
+    .competition table tr {
+        border-bottom: 0;
+    }
+    .token .percent {
+        width: 100%;
+    }
+    .token .percent .color, .token .percent:first-child .color, .token .percent:nth-child(5) .color {
+        border-radius: 25px;
+    }
+    .token .percent:first-child .color {
+        width: 100%;
+    }
+    .token .percent:nth-child(2) .color {
+        width: 70%;
+    }
+    .token .percent:nth-child(3) .color {
+        width: 60%;
+    }
+    .token .percent:nth-child(4) .color {
+        width: 50%;
+    }
+    .token .percent:nth-child(5) .color {
+        width: 20%;
+    }
+    .whitepaper .rightWh {
+        text-align: center;
+    }
+    .whitepaper .rightWh img {
+        width: 50%;
+    }
+    .inNews .news.rounded_img {
+        width: 50%;
+    }
+    .cryptocurrency {
+        padding: 100px 0px 150px;
+    }
+    .footer {
+        margin-top: -90px;
+    }
+    .donut_footer .input-group {
+        width: 100%;
+    }
+    .footer .right_donut {
+        padding: 40px 0 0;
+    }
+    .main-menu ul li {
+        width: 100%;
+        margin: 0;
+        padding: 0 0 5px;
+    }
+    .footer .footerBg {
+        background-size: 60%;
+    }
+    .banner .btns {
+        width: 185px;
+    }
+    .btns {
+        padding: 13px;
+    }
+    .banner .input-group {
+        width: 100%;
+    }
+    .footer .donut_footer {
+        padding: 0;
+    }
+    .donut_footer .btn {
+        padding: 0px 35px;
+    }
+    .features:nth-child(odd) .featureImg .screen1 {
+        width: 53%;
+    }
+    .features, .network_token, .cryptocurrency {
+        background-size: cover;
+    }
+    .network_token img {
+        float: unset;
+        width: 65%;
+    }
+    .cryptocurrency .Donuts p {
+        padding-top: 20px;
+    }
+    .coinImg {
+        text-align: center;
+    }
+    .coinImg img {
+        width: 80%;
+    }
+    .bounty {
+        padding: 50px 0;
+    }
+    .features:nth-child(odd) .feature .points h1, .features:nth-child(odd) .feature .points p {
+        color: #1700d6;
+    }
+    .banner .btns.play span {
+        top: 25%;
+    }
+    .merchant h1 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .competition table tr td:nth-child(2) {
+        background-color: transparent;
+    }
+    .token .percent h2, .token .percent:last-child h2 {
+        padding: 15px 0 0px 10px;
+    }
+    .token .percent .color {
+        text-align: left;
+        padding: 5px 20px;
+    }
+    .features .progress {
+        display: none;
+    }
+    .roadmap .roadmapInner {
+        background-size: 250% 54%;
+        padding: 0;
+    }
+    .sublime {
+        max-width: 420px;
+    }
+    .sublime-project .sublime-inner {
+        height: 255px;
+    }
+    .capsule {
+        width: 35px;
+    }
+    .pr10 {
+        padding-right: 15px;
+    }
+    .pl10 {
+        padding-left: 15px;
+    }
+    .gittxt p {
+        width: 390px;
+    }
+}
+@media (max-width:575px) {
+    .banner .container, .header .container {
+        max-width: 100%;
+    }
+    .cryptocurrency .Donuts h2 {
+        font-size: 25px; 
+    }
+    .donut_footer h2 {
+        font-size: 25px; 
+    }
+    .donut_footer .input-group {
+        width: 88%;
+    }
+    .features .featureImg .screen1 {
+        margin: 27.5% 17% 0 auto;
+        width: 37.5%;
+    }
+    .features:nth-child(odd) .featureImg .screen1 {
+        margin: 14.5% auto 0 17%;
+        width: 38%;
+    }
+    .features {
+        padding: 90px 0 110px;
+        margin-top: -25px;
+    }
+    .HowItWorks {
+        padding: 50px 0 40px;
+    }
+    .network_token {
+        margin-top: -110px;
+    }
+    .ecoRanker {
+        padding: 10px 0 35px;
+    }
+    .competition {
+        padding: 0px 0px 100px;
+    }
+    .token .tokenImg img {
+        width: 60%;
+    }
+    .smart_contract {
+        margin-top: 40px;
+    }
+    .inNews .newsHead {
+        padding: 0 0 30px;
+    }
+    .coinImg img {
+        width: 60%;
+    }
+    .cryptocurrency {
+        padding: 100px 0px 90px;
+        text-align: center;
+    }
+    .roadmap {
+        padding: 60px 0 30px;
+    }
+    .use_sdk .application {
+        padding: 30px 0px 0px 0px;
+    }
+    .right_donut p {
+        font-size: 12px;
+    }
+    .main-menu ul {
+        padding-top: 70px;
+    }
+    .features .featureImg .iphone .phonediv {
+        padding: 40px 80px 0;
+    }
+    .features .featureImg .iphone .girl {
+        width: 20%;
+        padding: 190px 0 0;
+    }
+    #big, #big1, #big2 {
+        margin-top: -115%;
+    }
+    .topImg {
+        top: -137px;
+        right: -1px;
+        width: 45%;
+    }
+    .HowItWorks .workVideo a {
+        height: 60px;
+        width: 60px;
+        padding: 15px 0 0 9px;
+    }
+    .HowItWorks .workVideo a img {
+        width: 50%;
+    }
+    .capsuleL2 {
+        left: 0px;
+    }
+    .capsuleR2 {
+        right: 0;
+    }
+    .capsuleL1, .capsuleL3 {
+        left: 15px;
+    }
+    .capsuleR1, .capsuleR3 {
+        right: 15px;
+    }
+    .rangeslider,
+    input::-webkit-slider-thumb {
+        height: 30px;
+        width: 55px;
+    }
+    .bems-scroller li {
+        margin: 0 0 0 1em;
+    }
+    .bems-scroller li:last-child {
+        padding: 0 1em 0 0;
+    }
+    .bems-scroller #scrolling-container {
+        padding: 3em 0 2em;
+    }
+    .roadmap .roadmapInner .road {
+        box-shadow: 0 10px 50px 0 rgba(0, 0, 0, 0.13);
+    }
+    .competition table tr th:first-child img {
+        margin: 0 auto 0 0;
+    }
+    .competition table tr th:last-child img {
+        margin: 0 0 0 auto;
+    }
+    .competition table tr.tableComp td:first-child img {
+        margin: 0 auto 0 5%;
+    }
+    .competition table tr.tableComp td:last-child img {
+        margin: 0 5% 0 auto;
+    }
+}
+@media (max-width:560px) {
+    .features .featureImg .screen1 {
+        margin: 30.5% 18% 0 auto;
+        width: 36.5%;
+    }
+    .features:nth-child(odd) .featureImg .screen1 {
+        margin: 33.5% auto 0 17%;
+    }
+    .whitepaper a.btns, .merchant .merbtns a {
+        width: 132px;
+        margin: 0 5px;
+    }
+    .token .heading h1 .circle {
+        left: -4px;
+    }
+    .use_sdk .sdkInner {
+        background-size: 50%;
+    }
+    .features .featureImg .iphone .girl, .features:nth-child(odd) .featureImg .iphone .girl {
+        padding: 170px 0 0;
+    }
+    .donut_footer .btn {
+        padding: 0px 20px;
+    }
+    .features .featureImg .iphone .phone {
+        border-radius: 20px;
+    }
+    .topImg {
+        top: -86px;
+        right: 23px;
+    }
+    .sublime {
+        max-width: 270px;
+        border-top: 10px solid #fff;
+        border-left: 10px solid #fff;
+        border-right: 10px solid #fff;
+        border-bottom: 30px solid #fff;
+        border-radius: 15px;
+    }
+    .sublime-project .sublime-inner {
+        height: 195px;
+    }
+    .sublime-project {
+        padding: 10px 5px 0px;
+    }
+    .gittxt {
+        font-size: 12px;
+        margin: -25px auto 0;
+    }
+    .cryptocurrency {
+        padding: 145px 0px 90px;
+    }
+    .gittxt p {
+        width: 250px;
+    }
+}
+@media (max-width:414px) {
+    .inNews .news {
+        width: 50%;
+    }
+    .features .featureImg .iphone .girl, .features:nth-child(odd) .featureImg .iphone .girl {
+        padding: 85px 0 0;
+    }
+    .features .featureImg .screen1 {
+        margin: 40.5% 23% 0 auto;
+        width: 30.5%;
+    }
+    .features:nth-child(odd) .featureImg .screen1 {
+        margin: 43% auto 0 22%;
+        width: 32%;
+    }
+    .use_sdk .left_phone img, .use_sdk .right_phone img {
+        padding: 0;
+    }
+    .inNews .news:last-child {
+        text-align: center;
+        float: unset;
+        margin: 0 auto;
+    }
+    .banner p {
+        font-size: 14px;
+    }
+    .banner h1 {
+        font-size: 22px;
+    }
+    .banner .subscribe {
+        padding: 40px 0 0;
+    }
+    .HowItWorks .workVideo {
+        height: 240px;
+    }
+    .footer .donut_icon {
+        width: 35px;
+        height: 35px;
+        margin: 0px 4px;
+        padding: 8px;
+    }
+    .donut_footer .input-group {
+        width: 100%;
+    }
+    .footer .footerBg {
+        background: url(../img/footerBgImg.png) no-repeat right -38px bottom;
+        background-size: 65%;
+    }
+    .donut_footer h2 {
+        font-size: 20px;
+    }
+    .footerInner {
+        padding-top: 40px;
+    }
+    .donut_footer p {
+        padding-top: 25px;
+    }
+    .community_members p {
+        padding-top: 0px; 
+    }
+    .inNews .news.rounded_img:last-child {
+        float: left;
+    }
+    .partners {
+        margin-top: 50px;
+    }
+    .team .member p {
+        padding: 20px 0 5px;
+    }
+    .member img {
+        width: 80%;
+    }
+    .features .feature .points {
+        padding: 25px 0 0;
+    }
+    .features .heading, .features:nth-child(odd) .heading {
+        padding: 30px 50px 0px 50px;
+    }
+    .token .tokenImg img {
+        width: 80%;
+    }
+    .token .tokenImg {
+        padding: 30px 0;
+    }
+    .token_sale table tr td:first-child {
+        width: 42%;
+    }
+    .smart_contract {
+        padding: 55px 0 145px;
+    }
+    .cryptocurrency {
+        padding: 175px 0px 90px;
+    }
+    .cryptocurrency .Donuts h2 {
+        font-size: 20px;
+    }
+    .competition table tr th img {
+        width: 65%;
+    }
+}
+@media (max-width:375px) {
+    .features .featureImg .screen1 {
+        margin: 68.5% 16% 0 auto;
+        width: 38.5%;
+    }
+    .features:nth-child(odd) .featureImg .screen1 {
+        margin: 68% auto 0 15%;
+        width: 40%;
+    }
+    #big, #big1, #big2 {
+        margin-top: -155%;
+    }
+    .features .featureImg .iphone .phonediv {
+        padding: 40px 45px 0;
+    }
+    .topImg {
+        top: -73px;
+        right: -6px;
+    }
+    .use_sdk .sdkInner {
+        background: url(../img/img3.png) no-repeat left bottom -30px;
+        background-size: 50%;
+    }
+    .sublime {
+        max-width: 240px;
+    }
+    .sublime-project .sublime-inner {
+        height: 120px;
+    }
+    .capsule {
+        width: 20px;
+    }
+    .capsuleL1, .capsuleL3 {
+        left: 0px;
+    }
+    .capsuleR1, .capsuleR3 {
+        right: 0;
+    }
+    .capsuleL1, .capsuleR1 {
+        top: 30%;
+    }
+    .capsuleL2, .capsuleR2 {
+        top: 58%;
+    }
+    .capsuleL3, .capsuleR3 {
+        top: 84%;
+    }
+    .capsuleL2 {
+        left: -10px;
+    }
+    .capsuleR2 {
+        right: -10px;
+    }
+    .coinImg img {
+        width: 70%;
+    }
+    .gittxt p {
+        width: 223px;
+    }
+}
+@media (max-width:320px) {
+    #big, #big1, #big2 {
+        margin-top: -169%;
+    }
+    .features .featureImg .screen1 {
+        margin: 86.5% 18% 0 auto;
+        width: 36.5%;
+    }
+    .features:nth-child(odd) .featureImg .screen1 {
+        margin: 89% auto 0 18%;
+        width: 36%;
+    }
+    .topImg {
+        top: -56px;
+        right: 2px;
+    }
+}
+

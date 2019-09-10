@@ -1,0 +1,235 @@
+@media(max-width:1200px){
+    .container1{
+        width:1170px;
+        padding: 0;
+    }	
+    .tech .container1, .works .container1{
+        width:100%;
+    }
+    .unique .technology_list {
+    padding: 0 92px 0 198px;
+}
+/*slideshow*/
+.b-projects-details__image-slideshow {
+  /* padding: 500px 0px;*/
+}
+}
+@media screen and (min-width: 992px) and (max-width: 1199px) { 
+.unique .technology_list {
+    padding: 0 120px 0 114px;
+}
+   .container1{
+        width:970px;
+   }
+   .user_map .container{
+    width: 970px;
+}
+/*.maping .user_map .user_map_inner {
+    width: 96px;
+    height: 100px;
+}*/
+} 
+@media(max-width:991px){
+    .bannerimgs img{
+        width: 265px;
+    }
+    .bannerimgs {
+    width: 90%;
+    }
+    .bannerimgs .centerimg{
+            left: 30%;
+    }
+    .container2 {
+    width: 700px;
+}
+/*.maping .user_map .user_map_inner {
+    margin: 12px 12px;
+    width: 78px;
+    height: 80px;
+}
+.maping .user_map .user_map_inner p {
+    font-size: 13px;
+}*/
+   .user_map .container{
+    width: 750px;
+}
+.tech_item {
+    min-height: 180px;
+}
+.container1 {
+    width: 750px;
+    padding: 0;
+}
+.unique .technology_list {
+    padding: 0 40px 0 60px;
+}
+.bannerimgs {
+    margin-top: 100px;
+}
+/*slideshow*/
+.b-projects-details__image-slideshow {
+   /*padding: 500px 0px;*/
+}
+}
+@media screen and (min-width: 768px) and (max-width: 991px) { 
+
+}
+@media(max-width:768px){
+    
+}
+@media(max-width:767px){
+   .header .hamburger{
+        display: block;
+    }   
+.bannerimgs img {
+    width: 220px;
+}
+.bannerbg {
+    height: 440px;
+}
+.paddings {
+    padding: 140px 0px 50px;
+}
+.container2, .container1 {
+    width: 100%;
+}
+.user_map .container {
+    width:100%;
+}
+.maping .user_map .user_map_inner p {
+    font-size: 15px;
+}
+.maping .user_map .user_map_inner {
+    margin: 15px;
+    width: 100px;
+    height: 100px;
+}
+.unique .technology_list {
+    padding: 0 15px 0 15px;
+}
+#customers-testimonials .owl-item.active.last, #customers-testimonials .owl-item.active.last1 {
+    padding-top: 0;
+}
+.problem_boxs .noleft, .problem h2{
+    padding-left:15px;
+}
+.problem_boxs .noright{
+    padding-right: 15px;
+}
+.problem_boxs_inner {
+margin-bottom: 20px;
+    width: 100%;
+        padding: 0px 12px 0 12px;
+}
+.problem_boxs{
+    padding-bottom: 0;
+}
+.maping {
+    padding: 20px 0;
+}
+.user_map .problem_boxs .user_map_inner:nth-child(n+8):nth-child(-n+12):after, .user_map .problem_boxs .user_map_inner:nth-child(-n+6) :after, .user_map .problem_boxs .user_map_inner:nth-child(n+13) :after, .user_map .problem_boxs .user_map_inner:nth-child(7) :after, .user_map .problem_boxs .user_map_inner:nth-child(8) :after{
+    content: none;
+}
+.user_map .problem_boxs .user_map_inner:nth-child(-n+3):after, .user_map .problem_boxs .user_map_inner:nth-child(-n+9) :after {
+    content: '';
+    background: url(../img/right.png) no-repeat 50% 50%;
+    background-size: contain;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: 40%;
+    left: 116%;
+    transform: translateX(-50%);
+}
+.user_map .problem_boxs .user_map_inner:nth-child(n+4) :after, .user_map .problem_boxs .user_map_inner:nth-child(n+12) :after {
+    content: '';
+    background: url(../img/left.png) no-repeat 50% 50%;
+    background-size: contain;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: 40%;
+    left: 116%;
+    transform: translateX(-50%);
+}
+.user_map .problem_boxs .user_map_inner:nth-child(3n) :after{
+    content: '';
+    background: url(../img/down.png) no-repeat 50% 50%;
+    background-size: contain;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: -23%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+}
+@media(max-width:560px){
+   .bannerimgs img {
+    width: 160px;
+}
+.paddings {
+    padding: 107px 0px 0px;
+}
+.potential_user {
+    display: block;
+}
+.about_ceo{
+    padding-top: 50px;
+}
+.features .feature p {
+    font-size: 15px;
+}
+.unique {
+    padding: 15px 0;
+}
+.feature_inner .features{
+    padding-right: 0;
+}
+.technology_list {
+    margin: 0 0 50px;
+}
+.design .colors, .user_map .container {
+    width: 100%;
+}
+.experience .slider_exp {
+    padding: 50px 0 60px;
+}
+}
+@media(max-width:414px){
+.bannerimgs img {
+    width: 118px;
+}
+.bannerbg {
+    height: 350px;
+}
+#customers-testimonials .item{
+        padding: 30px 10%;
+}
+.tech_item {
+    min-height: 200px;
+        padding-bottom: 0;
+}
+.tech_item p {
+    font-size: 15px;
+}
+.technology_list h2 {
+    padding: 30px 0;
+}
+.technology_list ul li {
+    font-size: 16px;
+}
+.design .colors .color_item .color_box {
+    width: 44px;
+    height: 44px;
+}
+.design .colors .color_item p {
+    padding: 0 0 0 7px;
+}
+.interface{
+    margin: 0;
+}
+}
+@media(max-width:320px){
+
+}

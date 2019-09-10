@@ -1,0 +1,275 @@
+@media(max-width:1400px){
+    section43 .owners {
+        padding: 25px;
+        margin-top: 19px;
+    }
+    .fp-controlArrow.fp-next, .fp-controlArrow.fp-prev{
+        height: 75px;
+        width: 25px;
+    }
+    .section41 .sbox{
+        margin-top: 20px;
+    }
+    .section42 .gallery {
+        height: 185px;
+    }
+    .section43 .owners {
+        padding: 24px;
+        margin-top: 20px;
+    }
+    .section22 .item {
+        padding: 13px;
+        margin-top: 17px;
+    }
+    .section2 .section21 p{
+        font-size: 31px;
+    }
+    .section31 h1 {
+        font-size: 29px;
+    }
+    .section31 h4{
+        margin: 30px auto 0;
+    }
+} 
+@media(max-width:1298px){
+    .container{
+        padding: 0 30px;
+    }
+    .header .container{
+        padding: 0;
+    }
+    .section5 .team {
+        margin-top: 50px;
+    }
+} 
+@media(max-width:1198px){
+
+} 
+@media(max-width:991px){
+    .container{
+        padding: 0 15px;
+        width: 100%;
+    }
+    .header .hamburger{
+        display: block; 
+    }
+    .header .collapse {
+        display: none !important;
+    }
+    .navbar-header{
+        width: 100%;
+    }
+    .height1{
+        height: auto;
+        padding: 70px 0 30px;
+    }
+    .header .container{
+        padding: 0 15px;
+    }
+    .section1 {
+        padding: 50px 0 120px;
+    }
+    .section1 .down{
+        bottom: 20px;
+    }
+    .header{
+        display: none;
+    }
+    .fixed_header{
+        display: block;
+    }
+    .section32{
+        min-height: 500px;
+    }
+    .section33{
+        padding-bottom: 420px;
+    }
+    .section33 .items{
+        padding: 15px 7px;
+    }
+    .section33 .items p{
+        padding-left: 55px;
+    }
+    .section33 .items p span{
+        left: 7px;
+        top:-7px;
+    }
+    .section41 .rbox {
+        height: 260px;
+        width: 260px;
+    }
+    .header{
+        padding: 10px 0;
+    }
+    .section1 h1{
+        font-size: 60px;
+    }
+    .section1 .msg{
+        width: 445px;
+    }
+    .section33 .items p br{
+        display: none;
+    }
+}
+@media(max-width:768px){
+
+}
+@media(max-width:767px){
+    .noleft, .noright{
+        padding: 0;
+    }
+    .section42 .gallery {
+        height: 200px;
+    }
+    .section1 .pgirl{
+        position: static;
+        margin: 0 auto;
+        display: block;
+        width: 70%;
+    }
+    .section1 .right{
+        float: left;
+        width: 100%;
+    }
+    .section1{
+        padding-top: 0;
+    }
+    .section1 .msg{
+        margin: 0 auto;
+        float: unset;
+    }
+    .section41 .sbox, .section41 .noright .sbox{
+        float: unset;
+        margin: 20px auto 0;
+    }
+    .section41 .rbox{
+        margin-top: 20px;
+    }
+    .section5 h1{
+        margin-top: 0;
+    }
+    .section5{
+        text-align: center;
+    }
+    .section5 .team .imgbox{
+        min-height: auto;
+        padding-bottom: 10px;
+    }
+    .section5 .team h3{
+        margin-top: 5px;
+    }
+    .section22 .nail{
+        display: none;
+    }
+}
+@media(max-width:640px){
+
+}
+@media(max-width:560px){
+    .section1 .msg{
+        width: 100%;
+        text-align: center;
+        padding: 20px;
+        margin-top: 20px;
+    }
+    .section1 h1 {
+        font-size: 35px;
+    }
+    .section2 .section21 p {
+        font-size: 21px;
+    }
+    .section2 .section21 p br, .section22 h1 br, .section31 h1 br,.section31 h4 br,  .section31 p br{
+        display: none;
+    }
+    .section22 h1, .section22 .item h2, .section31 h1{
+        font-size: 22px;
+    }
+    .section31 h4{
+        font-size: 20px;
+    }
+    .section31 p {
+        font-size: 17px;
+    }
+    .section32 {
+        min-height: 450px;
+    }
+    .section32 .des{
+        padding: 20px;
+        font-size: 17px;
+    }
+    .section33 h1,.section41 h1, .section43 h1{
+        font-size: 26px;
+        margin-top: 0;
+    }
+    .section33 .col-sm-4, .section42 .col-sm-4{
+        width: 100%;
+    }
+    .section33 .items p span{
+        top:-19px;
+    }
+    .section42 .gallery{
+        margin-top: 15px;
+    }
+    .section43 h1 span, .section43 .owners h2{
+        font-size: 17px;
+    }
+    .section5 h1{
+        font-size: 28px;
+        margin: 0;
+    }
+    .section5 .team h2{
+        font-size: 19px;
+    }
+    .footer .top .question{
+        padding: 0;
+        text-align: center;
+    }
+    .footer .top .question .que{
+        position: static;
+    }
+    .footer .top .question h1{
+        font-size: 22px;
+        margin-top: 0;
+    }
+    .footer .top .question p {
+        font-size: 16px;
+    }
+    .footer .top, .footer .bottom {
+        padding: 20px 0;
+    }
+    .section41 .rbox img{
+        width: 80%;
+    }
+    .header .navbar-brand span {
+        font-size: 14px;
+        padding: 0px 10px;
+        margin-top: -4px;
+        position: absolute;
+        bottom: -6px;
+        left: 0;
+        margin: 0;
+    }
+    .header .navbar-brand{
+        padding-top: 0;
+        font-size: 20px;
+        padding: 0;
+    }
+    .header .navbar-brand span::before {
+        content: url('../img/arrowleft.png');
+        left: 7px;
+        top: -14px;
+        transform: rotate(91deg);
+    }
+    .navbar-header{
+        margin: 0 !important;
+    }
+    .footer .top .question .que{
+        font-size: 95px;
+    }
+}
+@media(max-width:414px){
+
+}
+@media(max-width:320px){
+
+}

@@ -1,0 +1,387 @@
+@font-face{
+    font-family:"segoeui";
+    src:url('../fonts/SEGOEUI.TTF');
+}
+@font-face{
+    font-family:"segoeuil";
+    src:url('../fonts/segoeuil.ttf');
+}
+
+* {
+    outline: medium none !important;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
+a, a:hover, button, a:focus, button:hover {
+    text-decoration: none;
+    transition: all 0.35s ease 0s;
+}
+button:focus {
+    outline: 0px;
+    transition: all 0.35s ease 0s;
+}
+.btn:focus {
+    box-shadow: none;
+}
+.noleft {
+    padding-left: 0;
+}
+.noright {
+    padding-right: 0;
+}
+.nopadding {
+    padding: 0;
+}
+.box {
+    float: left;
+    width: 100%;
+}
+.heading {
+    font-family: "segoeuil";
+    font-size: 40px;
+    color: #3a0000;
+}
+.fixed_header {
+    position:fixed;
+    background: #fff;
+    -webkit-box-shadow: 0 8px 6px -6px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0 8px 6px -6px rgba(0,0,0,0.2);
+    box-shadow: 0 8px 6px -6px rgba(0,0,0,0.2);
+}
+.fixed_header .top {
+    display:none;
+    border:none;
+}
+.fixed_header .bottom {
+    padding:10px 0;
+}
+.header .navbar-default {
+    background-color: transparent;
+    border: none;
+    min-height: auto;
+    margin: 0;
+}
+.header .navbar-default .navbar-brand {
+    padding: 0;
+    height: auto;
+    margin: 0;
+}
+.header .navbar-light .navbar-brand img {
+    height: 45px;
+    width: 150px;
+}
+.header .navbar-light .navbar-nav .nav-link, .header .dropdown-item {
+    font-size: 14px;
+    color: #3a0000;
+    font-family: segoeui;
+}
+.header .navbar-light .navbar-nav .nav-link span {
+    padding: 0 5px 0 0;
+}
+.header .dropdown-toggle::after {
+    margin-left: 1.255em;
+}
+.header .navbar {
+    padding: 0;
+}
+.header {
+    padding: 12px 0;
+    position: fixed;
+    background: #fff;
+    z-index: 5;
+}
+.banner {
+    background: rgba(229,1,0,0.5);
+    position: relative;
+    text-align: center;
+    padding: 80px 0;
+    z-index: 1;
+    margin: 79px 0 0px;
+    color: #fff;
+}
+.bannero {
+    background: url('../img/web.png') no-repeat center center;
+    background-size: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.3;
+}
+.banner h2 {
+    font-size: 42px;
+    padding: 30px 0 25px;
+    //font-family: segoeui;
+    font-weight: lighter;
+    color: #fff;
+}
+.banner h3 {
+    font-size: 28px;
+    font-family: segoeuil;
+}
+.premium {
+    padding: 80px 0;
+    text-align: center;
+}
+.premium p {
+    font-size: 22px;
+    font-family:"segoeuil";
+}
+.premium p span {
+    display: block;
+}
+.premium img {
+    padding: 40px 0;
+}
+.suits {
+    background: rgba(229,1,0,0.5);
+    text-align: center;
+    padding: 80px 0;
+    position: relative;
+    z-index: 1;
+    color: #fff;
+}
+.suitso{
+    background: url('../img/abstract_light_blue.svg') no-repeat center center fixed ;
+    background-size: cover;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top:0;
+    z-index: -1;
+    left: 0;
+    opacity: 0.4;
+}
+.suits h1 {
+    font-family:"segoeuil";
+    color: #fff;
+}
+.suits .info h1 {
+    font-size: 24px;
+}
+.suits .info h1 span {
+    height: 65px;
+    width: 65px;
+    border-radius: 50%;
+    display: block;
+    border: 1px solid #fff;
+    padding: 15px;
+    margin: 0 auto;
+}
+.suits h2 {
+    font-size: 20px;
+    padding: 20px 0;
+    font-family:"segoeui";
+}
+.suits p {
+    font-size: 16px;
+    font-family:"segoeui";
+}
+.suits p a, .inventory .invent p a {
+    color: #008cb7;
+    text-decoration: underline;
+    display: inline-block;
+}
+.suits .info {
+    padding: 50px 30px 0;
+}
+.networks {
+    padding: 80px 0;
+    text-align: center;
+}
+.networks .wd20 {
+    width: 20%;
+    float: left;
+}
+.networks .wd20 h1 {
+    font-size: 20px;
+    font-family:"segoeui";
+}
+.networks .wd20 h1 span {
+    display: block;
+}
+.networks .wd20 .netwimg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 230px;
+}
+.inventory {
+    background: rgba(229,1,0,0.5);
+    padding: 80px 0;
+    position: relative;
+    z-index: 1;
+    color: #fff;
+}
+.inventory .invent.inventright {
+    padding: 0 0 0 37px;
+}
+.inventory .invent.inventleft {
+    padding: 0 37px 0 0;
+}
+.inventory .invent h1 {
+    font-size: 31px;
+    font-family:"segoeuil";
+}
+.inventory .invent h2 {
+    font-size: 20px;
+    padding: 30px 0;
+    font-family:"segoeui";
+}
+.inventory .invent p {
+    font-size: 16px;
+    padding: 0 0 10px;
+}
+.inventory .inventbdr {
+    border-right: 1px solid #fff;
+}
+.monetize {
+    padding: 80px 0;
+    background: #fbfbfb;
+}
+.monetize .moneyimg {
+    padding: 0 50px 0 0;
+}
+.monetize .moneytxt h1 {
+    font-size: 31px;
+    padding: 0 0 30px;
+    font-family:"segoeuil";
+}
+.monetize .moneytxt p {
+    font-size: 19px;
+    font-family:"segoeui";
+}
+.networks.guaranteed .wd20 h1 {
+    font-size: 16px;
+}
+.monetize .moneytxt h2 {
+    font-size: 16px;
+    padding: 10px 0 0;
+    font-family:"segoeui";
+}
+.pricing {
+    background: #d7b453;
+    color: #fff;
+}
+.technology {
+    padding: 80px 0;
+    background: #fbfbfb;
+    text-align: center;
+}
+.technology h1 {
+    padding: 0 0 30px;
+}
+.technology h2 {
+    font-size: 19px;
+    padding: 0 0 10px;
+    font-family:"segoeui";
+}
+.contact {
+    background: #8fdaf8 url('../img/network.png') no-repeat center bottom;
+    padding: 80px 0;
+}
+.contact h1 {
+    color: #fff;
+}
+.contact form {
+    padding: 60px 0 0;
+}
+.contact .input-group:focus label {
+    top: -35px;
+}
+.contact .input-group label {
+    position: absolute;
+    z-index: 1;
+    top: 18px;
+    left: 30px;
+    font-size: 13px;
+    font-family:"segoeuil";
+    transition: all 0.35s ease 0s;
+    font-weight: 700;
+}
+.contact .input-group .texts.active {
+    top: -35px;
+    z-index: 3;
+    transition: all 0.35s ease 0s;
+}
+.contact .form-control {
+    height: 60px;
+    border-radius: 50px;
+    padding: .375rem 1.75rem;
+    border: 0;
+    position: relative;
+}
+.contact .input-group>.form-control:not(:first-child) {
+    border-radius: 50px;
+}
+.contact .form-control:focus {
+    box-shadow: none;
+}
+.contact .sendbtn {
+    padding: 0 0 0 30px;
+}
+.contact button {
+    width: 100%;
+    border-radius: 50px;
+    border: 0;
+    padding: 18px 30px;
+    background: rgba(229,1,0,1) url('../img/right_arrow.svg') no-repeat right 8% center;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: left;
+    cursor: pointer;
+}
+.footer {
+    background: #000000;
+    padding: 80px 0 45px;
+    color: white;
+}
+.footer ul {
+    padding: 0 20px;
+}
+.footer ul li {
+    list-style: none;
+}
+.footer ul li:first-child {
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 0 0 10px;
+}
+.footer ul li a, .footer ul li {
+    font-size: 14px;
+    color: #fff;
+}
+.contact .input-group label sup {
+    font-size: 10px;
+    color: #f64142;
+}
+.footer ul.social li:first-child {
+    padding: 0 0 10px 15px;
+}
+.footer .copyright {
+    padding: 60px 0 0;
+    font-size: 12px;
+}
+.footer .footerlogo {
+	padding: 0 60px 0 0;
+}
+label.error{
+    color: #ef333f;
+    font-weight: normal;
+    margin-top: 45px;
+    z-index: 5;
+    font-size: 19px;
+    font-family:"segoeui" !important;
+}
+.msgs {     
+    padding: 20px 10px 0;    
+    text-align: center;
+    display: none;
+    color: #003b60;
+    float: left;
+    font-size: 13px;
+    font-family:"segoeuil";
+}

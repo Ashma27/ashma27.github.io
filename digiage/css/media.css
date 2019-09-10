@@ -1,0 +1,172 @@
+@media (max-width:1920px) and (min-width:1500px) {
+
+}
+@media (max-width:1199px) {
+.footer .footerlogo {
+    padding: 0 0px 0 0;
+}
+}
+@media (max-width:1023px) {
+
+}
+@media (max-width:991px) and (min-width:768px) {
+
+}
+@media (max-width:991px) {
+    .premium p {
+        font-size: 18px;
+    }
+    .suits .info {
+        padding: 50px 0px 0;
+    }
+    .suits p, .inventory .invent p {
+        font-size: 14px;
+    }
+    .networks .wd20 {
+        width: 33.33%;
+    }
+    .inventory .invent.inventleft, .inventory .invent.inventright, .monetize .moneyimg, .footer ul {
+        padding: 0;
+    }
+    .inventory .invent h1 {
+        font-size: 25px;
+    }
+    .inventory .invent h2, .suits h2, .networks .wd20 h1 {
+        font-size: 16px;
+    }
+    .monetize .moneytxt h1 {
+        font-size: 24px;
+    }
+    .monetize .moneytxt p, .technology h2 {
+        font-size: 15px;
+    }
+    .heading {
+        font-size: 30px;
+    }
+    .contact .form-control {
+        height: 45px;
+        font-size: 12px;
+    }
+    .contact button {
+        font-size: 12px;
+        padding: 13px 20px;
+    }
+    .monetize, .premium, .suits, .networks, .inventory, .networks, .technology, .contact {
+        padding: 60px 0;
+    }
+    .footer {
+        padding: 60px 0 20px;
+    }
+    .footer .copyright {
+        padding: 30px 0 0;
+    }
+    .navbar-collapse {
+        flex-basis: 75%;
+    }
+    .header .navbar-nav {
+        float: right;
+        display: inline-block;
+    }
+    .header .navbar-nav .dropdown-menu {
+        position: absolute;
+    }
+    .footer ul li a, .footer ul li {
+    font-size: 12px;
+}
+.contact form {
+    padding: 30px 0 0;
+}
+.contact .input-group label {
+    top: 13px;
+    left: 18px;
+    font-size: 12px;
+    }
+}
+@media (max-width:767px) {
+    .networks .wd20 {
+        width: 50%;
+        min-height: 270px;
+    }
+    .networks .wd20 .netwimg {
+        min-height: 190px;
+    }
+    .inventory .inventbdr {
+        border-bottom: 1px solid #fff;
+        border-right: 0;
+        padding: 0 15px 30px;
+        margin: 0 0 30px;
+    }
+    .navbar-collapse {
+        flex-basis: 67%;
+    }
+    .banner h2 {
+        font-size: 32px;
+    }
+    .banner h3 {
+        font-size: 20px;
+    }
+    .banner h1 {
+        font-size: 14px;
+    }
+    .banner {
+        padding: 50px 0;
+    }
+    .monetize .moneytxt h1 {
+        padding: 0 0 15px;
+    }
+    .contact .input-group {
+        margin: 0 0 30px;
+    }
+    .contact .sendbtn, .footer ul.social li:first-child {
+        padding: 0;
+    }
+    .footer {
+        text-align: center;
+    }
+    .footer .business {
+        padding: 30px 0;
+    }
+    .footer .footerlogo, .footer ul.social {
+        padding: 0 60px;
+    }
+    .contact form {
+    padding: 60px 0 0;
+}
+}
+@media (max-width:575px) {
+    .noleft, .noright {
+        padding: 0;
+    }
+    .contact h1, .monetize, .monetize .moneyimg {
+        text-align: center;
+    }
+    .monetize .moneyimg img {
+        width: 50%;
+    }
+    .contact .input-group {
+        margin: 0 0 15px;
+    }
+    .monetize .moneyimg {
+        padding: 0 0 20px 0;
+    }
+    .bannero {
+    background-size: cover;
+    }
+}
+@media (max-width:560px) {
+    .navbar-collapse {
+        flex-basis: 42%;
+    }
+}
+@media (max-width:414px) {
+    .networks .wd20 {
+        width: 100%;
+    }
+    .monetize, .premium, .suits, .networks, .inventory, .networks, .technology, .contact {
+        padding: 25px 0;
+    }
+    .contact form {
+        padding: 30px 0 0;
+    }
+}
+

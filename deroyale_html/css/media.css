@@ -1,0 +1,643 @@
+@media(max-width:1366px){
+    .container{
+        width: 1100px;
+    }
+    .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+        margin-left: -15px;
+        width: 79%;
+    }
+    .navbar-brand>img {
+        display: block;
+        width: 100%;
+    }
+    .shape img {
+        width: 750px;
+    }
+    .header .navbar-nav > li > a {
+        font-size: 16px;
+    }
+    .premium-car {
+        margin: 70px 0 80px;
+    }
+    .premium-car h1 {
+        font-size: 27px;
+        margin: 50px 0;
+    }
+    .premium-car h2 {
+        font-size: 20px;
+        margin: 25px 0;
+    }
+    .premium-car p {
+        font-size: 14px;
+    }
+    .about {
+        padding: 188px 0 128px;
+    }
+    .about h1 {
+        font-size: 28px;
+    }
+    .about p {
+        font-size: 20px;
+    }
+    .about a {
+        font-size: 18px;
+        padding: 12px 26px;
+    }
+    .contact h1 {
+        font-size: 32px;
+    }
+    .contact a {
+        width: 200px;
+    }
+    footer .contact-info a, footer .contact-info p {
+        padding: 5px 0 7px 90px;
+    }
+    footer {
+        padding: 80px 0;
+    }
+    .contact p {
+        font-size: 20px;
+        margin: 40px 0 30px;
+    }
+    .location h1 {
+        font-size: 33px;
+        margin-bottom: 40px;
+    }
+    .location p, .location a {
+        font-size: 20px;
+        margin-bottom: 40px;
+        line-height: 24px;
+    }
+    .location a{
+        margin-bottom: 0;
+    }
+    .location .loc-roadmap p {
+        margin-bottom: 40px;
+    }
+    .header .navbar-nav > li {
+        padding: 12px 2px;
+    }
+    .fleet h1 {
+        font-size: 32px;
+        margin-bottom: 24px;
+    }
+    .fleet p {
+        font-size: 23px;
+        margin-bottom: 50px;
+    }
+    .fleet .circle img {
+        width: 140px;
+    }
+    .fleet .circle {
+        min-height: 174px;
+    }
+    .fleet h2 {
+        font-size: 22px;
+        padding: 0px 0 20px;
+    }
+    .contact .noright {
+        margin-top: 9%;
+    }
+    footer h1 {
+        font-size: 27px;
+    }
+    footer p, footer a {
+        font-size: 15px;
+    }
+    footer .contact-info a i, footer .contact-info p i {
+        font-size: 15px;
+        height: 25px;
+        width: 25px;
+    }
+    .fa-phone:before {
+        top: 5px;
+        left: 7px;
+    }
+    .fa-fax:before {
+        top: 4px;
+        left: 5px;
+    }
+    .fa-clock-o:before {
+        top: 5px;
+        left: 6px;
+    }
+    .footer p {
+        font-size: 14px;
+    }
+    .footer a {
+        font-size: 15px;
+    }
+    .footer ul li a {
+        font-size: 14px;
+    }
+    .footer ul{
+        margin-top: 15px;
+    }
+    footer input{
+        font-size: 15px;
+    }
+    footer button{
+        font-size: 14px;
+    }
+    .book {
+        font-size: 17px;
+        right: -66px;
+    }
+    .form-set form h1 {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+    .form-set form label {
+        font-size: 15px;
+    }
+    .form-set form input {
+        height: 35px;
+        margin: 5px 0 10px;
+    }
+    .form-set form button, .form-set form .next, .form-set form .backbt {
+        font-size: 17px;
+        padding: 5px 28px;
+        margin-top: 10px;
+        bottom: -68px;
+    }
+    .form-set form .next{
+        bottom: -40px;
+    }
+    .form-set form label.cars-check, .form-set form label.cars-check1 {
+        font-size: 15px;
+        margin-bottom: 10px;
+        padding-left: 25px;
+    }
+    .rediotwo [type="radio"]:checked + label.cars-check:before, .rediotwo [type="radio"]:not(:checked) + label.cars-check:before, .redioone [type="radio"]:checked + label.cars-check1:before, .redioone [type="radio"]:not(:checked) + label.cars-check1:before{
+        top: 2px;
+        width: 15px;
+        height: 15px;
+    }
+}
+@media(max-width:1199px){
+    .container{
+        width: 940px;
+    }
+    .navbar-brand>img {
+        width: 100%;
+    }
+    .header .navbar-header {
+        width: 30%;
+    }
+    .header .navbar-nav > li > a {
+        font-size: 15px;
+        padding: 8px;
+    }
+    .header .navbar-nav > li {
+        padding: 19px 2px;
+    }
+    .premium-car {
+        margin: 45px 0 80px;
+    }
+    .premium-car h1 {
+        font-size: 25px;
+    }
+    .premium-car h2 {
+        font-size: 17px;
+    }
+    .premium-car p {
+        font-size: 13px;
+    }
+    .about h1 {
+        font-size: 29px;
+        margin-bottom: 35px;
+    }
+    .about p {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+    .about a {
+        font-size: 18px;
+    }
+    .about {
+        padding: 202px 0 85px;
+    }
+    .contact h1 {
+        font-size: 30px;
+        margin-bottom: 50px;
+    }
+    .contact p {
+        font-size: 16px;
+        margin-top: 100px;
+    }
+    .location p {
+        font-size: 16px;
+    }
+    .fleet p {
+        font-size: 19px;
+    }
+    .fleet .circle img {
+        width: 140px;
+    }
+    .fleet .circle {
+        min-height: 200px;
+    }
+    .fleet h2 {
+        font-size: 16px;
+    }
+    .fleet {
+        padding: 80px 0 100px;
+    }
+    footer {
+        padding: 90px 0;
+    }
+    footer h1 {
+        font-size: 26px;
+    }
+    footer .contact-info a, footer .contact-info p {
+        padding-left: 39px;
+    }
+    footer .contact-info a i, footer .contact-info p i {
+        left: 2px;
+    }
+    .footer p {
+        font-size: 13px;
+    }
+    .footer a {
+        font-size: 16px;
+    }
+    .footer ul li{
+        padding-left: 25px;
+    }
+    .footer ul li a {
+        font-size: 14px;
+    }
+    .form-set form label {
+        font-size: 14px;
+    }
+    .form-set form {
+        padding: 40px 20px 60px;
+    }
+    footer .col-sm-4 {
+        padding: 0 25px;
+    }
+    footer button {
+        font-size: 13px;
+        padding: 8px 0px;
+        width: 37%;
+    }
+} 
+@media(max-width:991px){
+    .container{
+        width: 750px;
+    }
+    .header .navbar-nav > li {
+        padding: 7px 3px;
+    }
+    .premium-car h2 {
+        font-size: 13px;
+    }
+    .premium-car p {
+        font-size: 10px;
+    }
+    .about p:nth-child(3) {
+        margin-bottom: 55px;
+    }
+    .about {
+        padding: 122px 0 85px;
+    }
+    .contact a {
+        width: 140px;
+    }
+    .contact p {
+        font-size: 13px;
+        margin-top: 65px;
+        margin-bottom: 35px;
+    }
+    .contact h1 {
+        font-size: 26px;
+        margin-bottom: 40px;
+    }
+    .location {
+        padding: 50px 0 10px;
+    }
+    .location p {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .location .loc-roadmap p {
+        margin-bottom: 20px;
+    }
+    .location a {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .fleet h1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .fleet p {
+        font-size: 15px;
+    }
+    .fleet .circle {
+        min-height: 135px;
+        padding-top: 27px;
+    }
+    .fleet {
+        padding: 65px 0 50px;
+    }
+    .fleet h2 {
+        font-size: 13px;
+    }
+    .fleet .circle img {
+        width: 100px;
+    }
+    footer h1 {
+        font-size: 20px;
+    }
+    footer .col-sm-4 {
+        padding: 0 30px;
+    }
+    footer p, footer a {
+        font-size: 12px;
+    }
+    .footer p {
+        font-size: 10px;
+    }
+    .footer a {
+        font-size: 12px;
+    }
+    .footer ul li a {
+        font-size: 12px;
+    }
+    .footer ul li {
+        padding-left: 17px;
+    }
+    .footer ul li:last-child a:first-child {
+        padding-right: 14px;
+    }
+    .footer ul li:last-child a:first-child:before {
+        right: 5px;
+        top: -2px;
+    }
+    .footer ul {
+        margin-top: 11px;
+    }
+    .res-box{
+        float: left;
+        width: 100%;
+    }
+    .book {
+        padding: 12px 30px;
+    }
+    footer button {
+        font-size: 13px;
+        float: unset;
+        width: 130px;
+        margin: 0 auto;
+    }
+    footer input {
+        font-size: 13px;
+        height: 30px;
+        width: 100%;
+    }
+    .shape img {
+        width: 400px;
+    }
+    .location .col-sm-4 {
+        margin-bottom: 40px;
+    }
+}
+@media(max-width:767px){
+    .header .hamburger {
+        display: block;
+    }  
+    .container{
+        width: 100% !important;
+    }
+    .set-scrool-res{
+        position: relative;
+        padding-bottom: 90px;
+    }
+    .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand{
+        width: auto;
+    }
+    .book {
+        padding: 9px 30px;
+        font-size: 20px;
+    }
+    .form-set{
+        width: 100%;
+        top: 0;
+    }
+    .form-close{
+        display: block;
+    }
+    .about p{
+        padding: 0 15px;
+    }
+    .location .loc-roadmap .noleft p:after{
+        display: none;
+    }
+    .header .navbar-header {
+        width: 100%;
+        margin: 0;
+    }
+    .fleet .row{
+        margin: 0;
+    }
+    .header .navbar-brand {
+        width: 240px;
+    }
+    .premium-car h1 {
+        font-size: 18px;
+    }
+    .premium-car h2 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .premium-car p {
+        font-size: 13px;
+        margin-bottom: 35px;
+    }
+    .premium-car {
+        margin: 45px 0 0px;
+    }
+    .header .navbar-brand>img {
+        width: 210px;
+    }
+    .contact h1{
+        margin-bottom: 25px;
+    }
+    .contact {
+        padding: 175px 0 15px;
+    }
+    .contact p {
+        font-size: 15px;
+        margin-top: 30px;
+    }
+    .contact a {
+        margin-bottom: 35px;
+    }
+    .location .loc-roadmap .noleft p, .location .loc-roadmap .noright p {
+        padding: 0;
+        margin-bottom: 50px;
+    }
+    .noleft, .noright{
+        padding: 0;
+        float: left;
+        width: 100%;
+    }
+    .location a {
+        font-size: 15px;
+    }
+    .location {
+        padding: 60px 0 40px;
+    }
+    .fleet .circle {
+        min-height: 182px;
+        width: 200px;
+        padding-top: 0px;
+        margin: 0 auto;
+        float: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .fleet .car-name {
+        width: 100%;
+        margin: 0px auto;
+        float: none;
+    }
+    .fleet .circle img {
+        width: 125px;
+    }
+    .fleet h2 {
+        font-size: 16px;
+    }
+    .fleet {
+        padding: 60px 0 30px;
+    }
+    footer h1 {
+        font-size: 20px;
+        float: left;
+        width: 100%;
+        padding-bottom: 15px;
+    }
+    footer p{
+        margin-bottom: 20px;
+    }
+    footer .contact-info{
+        float: left;
+        width: 100%;
+    }
+    footer .contact-info a, footer .contact-info p {
+        width: 194px;
+        font-size: 14px;
+        float: none;
+        display: block;
+        margin: 0 auto;
+    }
+    footer .contact-info a:nth-child(2) i{
+        top: 39px;
+    }
+    footer .contact-info a {
+        padding-bottom: 15px;
+    }
+    footer .contact-info p{
+        margin-bottom: 20px;
+    }
+    footer {
+        padding: 55px 0;
+    }
+    .footer {
+        text-align: center;
+    }
+    .footer p {
+        font-size: 14px;
+        text-align: center;
+    }
+    .footer ul {
+        margin-top: 22px;
+        float: none;
+        margin-bottom: 0;
+    }
+    .footer a {
+        font-size: 18px;
+    }
+    .footer ul li a {
+        font-size: 14px;
+    }
+    .premium-car img.logo2{
+        width: 150px;
+    }
+    .form-set form p {
+        font-size: 18px;
+        float: left;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .form-set form label.cars-check,  .form-set form label.cars-check1 {
+        margin-bottom: 20px;
+    }
+    .shape img {
+        width: 70%;
+        left: 15%;
+    }
+    .book {
+        right: -69px;
+    }
+    .firstbook, .secondbook{
+        overflow: scroll;
+    }
+    .form-set form button, .form-set form .next, .form-set form .backbt{
+        bottom: 54px;
+    }
+    .form-set form .next {
+        bottom: 55px;
+    }
+}
+@media(max-width:560px){
+    .footer ul li {
+        padding-left: 8px;
+    }
+    .footer ul li:first-child{
+        padding-left: 0;
+    }
+    .form-set form h1 {
+        font-size: 28px;
+        margin-bottom: 30px;
+    }
+}
+@media(max-width:414px){
+    .header .navbar-brand {
+        width: 190px;
+    }
+    .header .hamburger {
+        padding: 13px 10px 10px 9px;
+    }
+    .about p {
+        font-size: 14px;
+    }
+    .footer ul li {
+        width: 50%;
+        padding: 0;
+    }
+    .premium-car img.logo2 {
+        width: 120px;
+    }
+    .location a {
+        padding: 15px 0 15px;
+    }
+    .secondbook {
+        right: -102%;
+    }
+    .contact a {
+        width: 119px;
+    }
+    .location .col-xs-4{
+        width: 100%;
+        margin-bottom: 0px;
+    }
+    .location .borderset{
+        border: none;
+    }
+    .location .loc-roadmap p{
+        margin-top: 10px;
+    }
+}

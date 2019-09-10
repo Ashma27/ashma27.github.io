@@ -1,0 +1,2151 @@
+
+@media(min-width:1500px){
+    .navbar-nav > li > .dropdown-menu {
+        padding: 10px 15% 40px !important;
+    }
+    .fixed_header .navbar-nav > li > .dropdown-menu{
+        padding: 10px 28% 40px !important;
+        padding-right: 38% !important;
+    }
+}
+@media(min-width:1700px){
+    .navbar-nav > li > .dropdown-menu {
+        padding: 10px 20% 40px !important;
+    }
+    .fixed_header .navbar-nav > li > .dropdown-menu{
+        padding: 10px 40% 40px !important;
+        padding-right: 50% !important;
+    }
+}
+@media(min-width:2000px){
+    .navbar-nav > li > .dropdown-menu {
+        padding: 10px 27% 40px !important;
+    }
+    .fixed_header .navbar-nav > li > .dropdown-menu{
+        padding: 10px 50% 40px !important;
+        padding-right: 60% !important;
+    }
+}
+@media(max-width:1265px){
+    .fixed_header .bottom .navbar-default li a {
+        margin: 0 10px;
+        font-size: 15px;
+    }
+    .orderbottom .orderleft ul li.active i, .orderbottom .orderleft ul li:hover i{
+        right: 12px;
+    }
+}
+@media(max-width:1199px){
+    .wishlist .wishlistimg {
+        min-height: 187px;
+    }
+    .wishlist p{
+        text-align: center;
+    }
+    /*    step2*/
+    .ringdet h6 {
+        font-size: 14px;
+    }
+    .selectring .ringdet h5 {
+        font-size: 16px;
+    }
+    .selectring .ringpic {
+        min-height: 162px;
+    }
+    .completering .compmid .compcart a {
+        width: 65px;
+    }
+    .completering .compdesign .models .heart {
+        right: 175px;
+        top: 3px;
+    }
+    .completering .compmid .compship p {
+        font-size: 12px;
+    }
+    .completering .compdesign .models .moblist a {
+        width: 130px;
+    }
+    .similar .simi .similarp .models {
+        margin: 0 5px;
+    }
+    .completering .compdesign .models .moblist h5 {
+        margin-bottom: 5px;
+        font-size: 16px;
+    }
+    .completering .compmid .compshiptop .compship p {
+        padding-left: 10px;
+        padding-right: 20px;
+    }
+}
+@media(max-width:1198px){
+    .header .container{
+        width: 97%;
+    }
+    .fixed_header .bottom{
+        left: 16%;
+    }
+    .fixed_header .bottom .navbar-default li a, .header .bottom .navbar-default li a {
+        margin: 0 13px;
+        font-size: 16px;
+    }
+    .fixed_header .navbar-nav > li > .dropdown-menu{
+        left: -32% !important;
+    }
+    .orderbottom .orderleft a, .orderright p, .productpricingtop h6, .productpricingtop .quantity{
+        font-size: 15px;
+    }
+    .padd-cart {
+        padding-left: 30px !important;
+    }
+    .productpricingtop .cart-button{
+        width: 60px;
+    }
+    .total-p span {
+        width: 24%;
+    }
+    .heart-favv {
+        right: 17%;
+    }
+    .created .mnav li .tdiv.edit {
+        padding: 12px 8px;
+    }
+    .filters .mystyle{
+        width: 12.5%;
+    }
+    .filters .label1 {
+        font-size: 13px;
+    }
+    .sproducts .plists .item{
+        padding: 15px 20px;
+    }
+    .wid12 h6 .choose.last{
+        margin-left: 42px;
+    }
+    .filters .mystyle{
+        margin-right: 1%;
+        width: 11.5%;
+    }
+    .filters .left {
+        padding-right: 20px;
+    }
+    .filters .right {
+        padding-left: 20px;
+        padding-right: 0;
+    }
+    .ringdet .imgs .imgbox {
+        width: 22%;
+        margin: 0 5%;
+        min-height: 45px;
+        padding: 4px;
+    }
+    #before3 .bktext {
+        width: 55%;
+    }
+    .completering .compmid .compcheckout a {
+        width: 140px;
+    }
+
+    /*gurwinder*/
+    .shiphead .shipdettop-creat1 {
+        width: 100%;
+        margin-left: 0%;
+        padding: 15px;
+    }
+    .ring-edit ul li a {
+        padding: 7px 11px;
+        margin-right: 10px;
+    }
+    .create-inline-ringslide .flex-control-thumbs li {
+        margin: 0px !important;
+        margin-right: 4.728px !important;
+    }
+    .completering .compmid .compshiptop .compship a{
+        width: 75px;
+    }
+} 
+@media(max-width:1050px){
+    .fixed_header .bottom .navbar-default li a, .header .bottom .navbar-default li a {
+        margin: 0 9px;
+    }
+    .filters {
+        padding: 0 25px 30px;
+    }
+}
+@media(max-width:991px){
+    .container{
+        width: 100% !important;
+        padding: 0 15px;
+    }
+    .header .top .noleft {
+        display: none;
+    }
+    .footer .top .container1 {
+        padding: 0 15px;
+    }
+    .box1{
+        padding-top: 0;
+    }
+    .box1 .noleft .gring{
+        margin: 0 auto;
+        display: block;
+    }
+    .box1 .left{
+        text-align: center;
+        padding: 0;
+    }
+    .box1 .right{
+        padding: 0;
+    }
+    .box6 .rings h1{
+        font-size: 25px;
+    }
+    .box1 h1{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .box2 .special {
+        margin-top: 15px;
+    }
+    .box4 .item{
+        padding: 0 8%;
+    }
+    .header .hamburger{
+        display: block;
+
+    }
+    .header .top .logo{
+        float: left;
+        margin-top: 8px;
+    }
+    .header .bottom .navbar{
+        display: none;
+    }
+    .header .bottom {
+        padding: 0;
+    }
+    .header .bottom .hidd{
+        display: block;
+    }
+    .fixed_header .bottom{
+        position: unset;
+        width: 100%;
+    }
+    .fixed_header{
+        position: absolute;
+    }
+    .fixed_header .top{
+        position: fixed;
+        background: #fff;
+    }
+    .topmenu{
+        display: none;
+    }
+    .header{
+        top: 0;
+    }
+    .header .top{
+        padding: 10px 0;
+    }
+    .main{
+        margin-top: 140px;
+    }
+    .header .top .noright .link span, .header .top .noright .link:first-child {
+        display: none;
+    }
+    .orderbottom .orderleft ul li.active i, .orderbottom .orderleft ul li:hover i{
+        right: 6px;
+        top:20px;
+    }
+    .padd-cart p span.shape {
+        width: 39%;
+    }
+    .border p {
+        font-size: 13px !important;
+    }
+    .padd-cart.totl-padd-cart .discont-cart{
+        font-size: 16px !important;
+    }
+    #before3 .apply {
+        padding: 7px;
+        width: 110px;
+    }
+    #before3 input {
+        height: 37px;
+    }
+    .cart-checkout .productpricingtop .cart-button {
+        padding: 7px;
+    }
+    .total-cart .productpricingtop p {
+        font-size: 22px;
+    }
+    .padd-cart.totl-padd-cart .discont-cart span {
+        width: 100%;
+        margin-right: 0;
+        font-size: 17px;
+    }
+    .payment-cart, .payment-cart1{
+        width: 200px !important;
+    }
+    .nopaad1 .padd-cart{
+        padding-left: 0px !important;
+    }
+    .login .logindiv .logleft {
+        padding-right: 27px;
+    }
+    .login .logindiv .logright {
+        padding-left: 0;
+        padding-right: 0px;
+    }
+    .wid60 {
+        padding-right: 30px;
+    }
+    .wishlist .wishlistimg {
+        min-height: auto;
+    }
+    .wishlist .forboxshadow{
+        min-height: 418px;
+    }
+    .heart-favv {
+        right: 20%;
+    }
+    .login .logindiv{
+        padding: 30px 50px;
+    }
+    .filters .item .lab{
+        width: 17%;
+        font-size: 13px;
+    }
+    .created .mnav li .tdiv span{
+        display: none;
+    }
+    .sproducts .plists .item .pquantity .btns{
+        margin-left: 0;
+    }
+    .sproducts .plists .item .pquantity{
+        margin-top: 0;
+    }
+    /*    step2*/
+    .stepstop p {
+        font-size: 13px;
+    }
+    .certified .certifiedinner {
+        padding: 10px 5px 5px;
+    }
+    .ringdet {
+        padding: 5px 5px;
+    }
+
+
+    .buyrings {
+        padding: 0px 0;
+    }
+
+    .filters .left, .filters .right{
+        width: 100%;
+        padding: 15px;
+        border: none;
+    }
+    .selectring .ringpic {
+        min-height: 119px;
+    }
+    .created .mnav li .tdiv img{
+        display: none;
+    }
+    .created .mnav li .tdiv{
+        font-size: 16px;
+        padding: 27px 20px;
+    }
+    .created .mnav li .tdiv.edit {
+        padding: 26px 20px;
+    }
+    .created .mnav li .tdiv.first{
+        padding: 15px 39px;
+    }
+    .created .mnav li .tdiv.first1{
+        padding: 16px 39px;
+    }
+    .filters .mystyle {
+        width: 11.5%;
+    }
+    .filters .mystyle img{
+        width: 90%;
+    }
+    .filters .myshap {
+        width: 8.5%;
+    }
+    .filters .item .lab {
+        width: 12%;
+        height: 67px;
+    }
+    .listviewouter .models .heart{
+        right: 10px;
+    }
+    .selectring .ringpic {
+        min-height: 160px;
+    }
+    .pdrrbk{
+        padding: 0px 25px;
+    }
+    /*    swastika*/
+    .completering .compmid h1 {
+        font-size: 18px;
+    }
+    .completering .compdesign h1 {
+        font-size: 16px;
+        margin: 0;
+    }
+    .completering .compdesign .models .heart {
+        right: 60%;
+    }
+    .completering .compdesign .models .heart a {
+        font-size: 16px;
+    }
+    .completering .compdesign .models {
+        margin: 10px 0;
+    }
+    .completering .compdesign .models .moblist h5 {
+        margin-bottom: 3px;
+        font-size: 12px;
+    }
+    .completering .compdesign .models .moblist .ringdet p {
+        font-size: 11px;
+        margin: 0;
+    }
+    .completering .compdesign .setprice p {
+        margin: 5px 0 10px;
+        font-size: 11px;
+    }
+    .completering .compdesign .models .moblist p span {
+        font-size: 16px;
+    }
+    .completering .compdesign .models .moblist a {
+        width: 105px;
+        font-size: 11px;
+        padding: 5px 0px 3px;
+    }
+    .completering .compdesign {
+        padding-bottom: 0;
+    }
+    .completering .compdesigntop {
+        margin-bottom: 10px;
+    }
+    .completering .compdesignbtm .compdesign .models .moblist .ringdet p {
+        line-height: 14px;
+    }
+    .completering .compmid p {
+        font-size: 12px;
+    }
+    .completering .compmid .orderprice p .doller {
+        font-size: 18px;
+    }
+    .completering .compmid .orderprice {
+        margin-bottom: 10px;
+    }
+
+
+    .completering .compmid .compshiptop .compship {
+        margin-top: 10px;
+        padding: 5px;
+    }
+
+    .completering .compmid .compship p, .completering .compmid .compship h2 {
+        padding-left: 2px;
+    }
+    .completering .compmid .compship h2 {
+        font-size: 14px;
+    }
+    .completering .compmid .compship p {
+        font-size: 12px;
+    }
+    .completering .compmid .compshiptop .compship a {
+        width: 57px;
+        padding: 5px 10px 3px;
+        font-size: 11px;
+    }
+    .completering .compmid .compship {
+        padding: 5px;
+    }
+    .completering .compmid .compship p {
+        margin-bottom: 5px;
+    }
+    .shippingdet .shipdetbtm .shipdetmid p {
+        font-size: 12px;
+    }
+    .shippingdet .shipdetbtm h1 {
+        font-size: 16px;
+        padding-bottom: 30px;
+    }
+    .similar .simi .similarp .models .ringdet p {
+        font-size: 12px;
+    }
+    .similar .simi .similarp .models .ringdet p span {
+        font-size: 16px;
+    }
+    .similar .simi .similarp .models .ringdet h5 {
+        font-size: 14px;
+    }
+    .similar .simi .similarp .models .ringdet h6 {
+        font-size: 12px;
+    }
+    .similar .simi .similarp .models .ringdet p {
+        font-size: 10px;
+    }
+    .similar .simi .similarp .models .ringdet {
+        padding: 5px 0px;
+    }
+    .models .heart {
+        top: 5px;
+        right: 9px;
+    }
+    .models .heart a {
+        font-size: 15px;
+    }
+    .completering .compmid .compcheckout a {
+        width: 110px;
+    }
+    .completering .compmid .compcart a {
+        width: 54px;
+    } 
+    .completering .flexslider .slides > li {
+        min-height: 325px;
+    }
+    .completering .compmid .compship .comptruck .fa {
+        height: 35px;
+        width: 35px;
+        text-align: center;
+        font-size: 14px;
+    }
+
+    /*gurwinder*/
+    .ring-edit ul li a {
+        padding: 7px 12px;
+        margin-right: 10px;
+    }
+    .basicdet-creat-ring ul li {
+        font-size: 10px;
+        min-height: 56px;
+        width: 24%;
+    }
+    .basicdet-creat-ring p {
+        font-size: 12px;
+    }
+    .create-inline-ringslide .flex-control-thumbs li {
+        margin: 0px !important;
+        margin-right: 3.56px !important;
+    }
+    .create-inline-ringslide .flex-control-thumbs img {
+        width: 90%;
+    }
+    .shiphead .shipdettop-creat1 {
+        padding: 15px 0px;
+    }
+}
+@media(max-width:991px) and (min-width:768px){
+    .orderbottom .orderleft a, .orderright p, .productpricingtop h6, .productpricingtop .quantity {
+        font-size: 15px;
+    }
+    .productpricingtop .pdl{
+        padding: 0px;
+    }
+    .productpricingtop h6{
+        margin-bottom: 10px;
+    }
+    .ringdet h5 {
+        font-size: 15px;
+        margin: 7px 0;
+    }
+    .ringdet h6 {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .ringdet h4 {
+        font-size: 20px;
+        margin-top: 5px;
+        margin-bottom: 2px;
+    }
+    .listview .listbtm .btns {
+        width: 100px;
+    }
+    .listview {
+        padding: 0px 0 30px;
+    }
+    .wid12 h6 .choose {
+        margin-left: 20px;
+    }
+    .listview .listtop {
+        padding: 10px 0;
+    }
+    .listview ul li {
+        padding: 10px 0;
+    }
+
+
+}
+@media(max-width:767px){
+    .noleft, .noright{
+        padding: 0;
+    }
+    .header .top .noright .link span{
+        display: none;
+    }
+    .topmenu{
+        display: none;
+    }
+    .header .top{
+        padding: 3px 0 0px;
+        position: fixed;
+        border: none;
+        z-index: 9999;
+        background: #fff;
+        box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.2);
+    }
+    .header .bottom{
+        border: none;
+        padding: 0;
+        margin-top: 62px;
+    }
+    .header .bottom a,.box1 .bottom::before, .box1 .bottom p.first::before, .box1 .bottom .noright .item:first-child h3::before{
+        display: none;
+    }
+    .header .bottom .hidd{
+        display: block;
+    }
+    .main{
+        background: url('../img/bg1_mobile.png') no-repeat center left;
+        background-size: cover;
+    }
+    .main a{
+        background: #fff;
+        display: block;
+    }
+    .box1 .btns{
+        display: block;
+        margin:15px auto;
+    }
+    #before1{
+        margin: 30px 0px 15px 0px;
+    }
+    .box1{
+        text-align: center;
+    }
+    .box1 .bottom img{
+        margin-left: 0;
+    }
+    .box1 .bottom h3 .rtext{
+        position: unset;
+    }
+    .box1 .bottom h3, .box1 .bottom p{
+        padding: 0;
+        margin-top: 0;
+    }
+    .box1 .bottom .item, .box1 .bottom .noright .item:first-child{
+        margin-top: 20px;
+    }
+    .box1 .bottom h3 i{
+        display: unset;
+    }
+    .box1{
+        padding-bottom: 20px;
+    }
+    .box2{
+        padding: 30px 0;
+        text-align: center;
+    }
+    .box2 .special, .box4 .slick{
+        margin-top: 30px;
+    }
+    .box4, .box6, .sbox{
+        padding: 40px 0;
+    }
+    .box5 .shap{
+        width: 25%;
+    }
+    .box5 .shapsm{
+        margin-left: 25%;
+    }
+    .box6{
+        text-align: center;
+    }
+    .box6 .col-sm-6{
+        float: left;
+        width: 100%;
+        padding: 0;
+    }
+    .box6 .rings h1{
+        margin-top: 20px;
+    }
+    .box6 .rings{
+        margin-top: 55px;
+    }
+    .box7 .story{
+        width: 33.33%;
+    }
+    .box7 .story:nth-child(7), .box7 .story:nth-child(8), .box7 .story:nth-child(9), .box7 .story:nth-child(10){
+        display: none;
+    }
+    .box7 .stories{
+        margin-top: 30px;
+    }
+    .footer .top .divs{
+        width: 50% !important;
+    }
+    .footer .top{
+        padding-top: 0;
+    }
+    .footer .top h4{
+        margin-top: 30px;
+    }
+    .footer .top .social span{
+        width: 14.28%;
+    }
+    .footer .top ul{
+        margin-top: 13px;
+    }
+    .footer .top{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .header .top .noright .link{
+        margin-top:17px;
+    }
+    .sbox  .col-sm-8{
+        padding:0;
+    }
+    .sbox .input-group input{
+        font-size:14px;
+        padding:10px 12px;
+        padding-left: 30px;
+    }
+    .main{
+        margin-top: 122px;
+        padding: 80px 0px;
+    }
+    .sidenav{
+        top:62px;
+        padding-top: 25px;
+    }
+    .box5{
+        margin-top: 20px;
+    }
+    .footer .top .card{
+        margin: 40px auto 10px auto;
+    }
+    .footer .bottom a{
+        margin: 0px 15px;
+    }
+    .orderbottom .orderleft ul li{
+        float: left;
+        list-style: none;
+        width: 25%;
+        margin: 0px!important;
+        //padding: 15px 0px;
+    }
+    .orderbottom .orderleft ul li a span,.desnone{
+        display: none;
+    }
+    .orderbottom .orderleft a, .orderright p, .productpricingtop h6, .productpricingtop .quantity{
+        font-size: 16px;
+    }
+    .productsection .ordertext{
+        float: left;
+        width: 100%;
+        padding: 10px 0px;
+        border: 1px solid #f8f3f2;
+        border-left:none;
+        margin-bottom: 0;
+        border-right: none;
+    }
+    .productsection .ordertext span{
+        margin-bottom: 0px;
+        margin-left: 34px;
+    }
+    .bkproduct{
+        float: left;
+        width: 100%;
+        background: #fefcfb;
+        padding: 10px 0;
+    }
+    .bkmobile{
+        display: none;
+    }
+    .orderbottom .orderright .orderrightbottom{
+        margin-bottom: 0px;
+    }
+    .containerorder,.orderbottom .orderright{
+        padding: 0px 0px;
+    }
+    .accounts {
+        margin-top: 122px;
+    }
+    .orderbottom .orderright .orderrightbottom,.orderright .orderid {
+        padding: 0px 45px;
+    }
+    .productsection .ordertext,.productpricing {
+        padding:10px 15px;
+    }
+    .productspd{
+        padding-left: 10px;
+    }
+    .ordertop{
+        padding: 0px 10px;
+    }
+    .productpricingtop .pdl1 {
+        padding: 0px 0px;
+    }
+    .productpricingtop .pdl{
+        padding-right: 0px;
+        padding-left: 10px;
+    }
+    .orderrightbottom p{
+
+    }
+    .orderbottom .orderleft ul li.active i{
+        display: none;
+    }
+    .orderbottom .orderright{
+        margin-top: 35px;
+    }
+    .orderbottom .pdr {
+        padding-right: 0px;
+    }
+
+    .orderbottom .orderleft ul{
+        border:1px solid #f8f3f2;
+        border-left: none;
+        border-right: none;
+    }
+    .productsection .forresbor{
+        border-bottom: 1px solid #f8f3f2;
+    }
+    .productpricing .productpricingtop:first-child{
+        border-top: none;
+    }
+    .productpricingtop h5,.productpricingtop .dia{
+        float:left;
+        margin-right: 18px;
+        margin-top: 20px;
+        margin-bottom: 0px;
+    }
+    .productpricing .amount,.productpricingtop h5{
+        text-align: left;
+        font-size: 24px;
+    }
+    .productpricingtop .pdl1 {
+        padding-left: 0px;
+    }
+    .rdesplay{
+        display: block;
+    }
+    .rmgt{
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
+    .accountbottom .orderrightbottom{
+        padding-right: 10px!important;
+    }
+    .orderbottom .accountright{
+        margin-top: 40px;
+    }
+    .accountform{
+        padding: 10px 0px;
+        border-top:1px solid #f8f3f2;
+    }
+    .accountform .accountforminner{
+        padding:30px 45px 0px 45px; 
+    }
+    .accountform .inputwidth {
+        width: 100%;
+    }
+    .pd0{
+        padding: 0px;
+    }
+    .ordertop .pd45{
+        padding: 0px 45px;
+    }
+    .responsive-cart{
+        display: block;
+        width: 100%;
+        float: left;
+        margin-top: 20px;
+    }
+    .responsive-cart h5, .responsive-cart .quantity{
+        display: inline-block;
+        width: fit-content;
+        padding-left: 10px;
+        margin-top: 0px;
+    }
+    .productpricingtop .cart-button {
+        width: 100px;
+    }
+    .border p {
+        font-size: 14px !important;
+    }
+    .padd-cart.totl-padd-cart .discont-cart span {
+        width: 80%;
+    }
+    .padd-cart.totl-padd-cart h6, .total-cart .productpricingtop p{
+        padding-right: 40px;
+    }
+    .padd-cart.totl-padd-cart .discont-cart{
+        /* padding-right: 70px; */
+        text-align: center;
+        padding-top: 0px!important;
+    }
+    .total{
+        text-align: center!important;
+        padding-right: 0px!important;
+    }
+    .total-cart .noborder{
+        border:none;
+        padding-top: 0px;
+    }
+
+    #before3{
+        padding: 15px;
+        padding-bottom: 30px;
+    }
+    #before3 .apply {
+        padding: 7px;
+        width: 150px;
+    }
+    .cart-checkout .productpricingtop .cart-button, .cart-checkout .padd-cart.totl-padd-cart .apply1{
+        width: 200px;
+    }
+    .respnsive-cart-hide {
+        display: none;
+    }
+    .productsection .ordertext1 span {
+        padding-right: 15px;
+        width: 95%;
+    }
+    .accounts {
+        margin-top: 122px;
+    }
+    .total-cart1{
+        display: block;
+        font-size: 16px;
+    }
+    .padd-cart {
+        padding-left: 0px !important;
+    }
+    .orderbottom .orderright {
+        padding-top: 0px;
+        border-top: none;
+    }
+    .padd-cart.totl-padd-cart .discont-cart{
+        padding-top: 20px;
+    }
+    .total-p span {
+        width: 23%;
+    }
+    .cart-resp{
+        padding-left: 30px;
+    }
+    .orderbottom .orderright{
+        padding: 0px;
+    }
+    .border-cart {
+        padding-top: 20px;
+    }
+    .padd-cupon, .border-bottomaa{
+        display: block;
+        float: left;
+        width: 100%;
+    } 
+    .accountright1{
+        padding: 0px 40px;
+    }
+    .accountright1 #before3{
+        padding: 0px !important;
+    }
+    .login .logindiv .logleft {
+        border-right: 0;
+        border-bottom: 1px solid #eeeceb;
+        padding-right: 0;
+    }
+    .login .logindiv .logleft form {
+        padding: 20px 0 50px;
+    }
+    .login .logindiv {
+        padding: 30px 25px 100px;
+    }
+    .login .logindiv .logright {
+        padding-top: 20px;
+    }
+    .register .container1 {
+        padding: 0 35px;
+    }
+    .accounts {
+        margin-top: 122px;
+    }
+    .editprofilesection .btmborder{
+        padding: 15px 35px 20px 0px;
+    }
+    .orderrightbottom .backeditbtn{
+        padding-right: 10px;
+    }
+    .editprofilesection .newsletter{
+        padding-right: 35px;
+    }
+    .wishlist .wishlistimg {
+        min-height: 270px;
+    }
+    .wishlist .orderrightbottom {
+        padding: 0px 0px!important;
+    }
+    .wishlist .previousorder {
+        padding-left: 25px;
+    }
+    .wishlist .previousorder .btns{
+        width:auto;
+        padding: 10px 35px;
+    }
+    .wishlist .forboxshadow {
+        min-height: 473px;
+    }
+    .orderright1{
+        margin-top: 0px !important;
+    }
+    .ordertext1{
+        margin-top: 0px !important;
+        border-top: none !important;
+    }
+    .responsive-wawe{
+        //margin-top: -15px !important;
+    }
+    .respo-button{
+        margin-top: 15px !important;
+        display: block;
+        float: left;
+        width: 100%;
+    }
+    .orderbottom1{
+        margin: 20px 0px 0px 0px !important;
+    }
+    .productsection .ordertext2{
+        border-bottom: none !important;
+        padding-top: 0px !important;
+    }
+    .heart-favv {
+        right: 10%;
+    }
+    .mycartpro{
+        padding-left: 15px;
+        margin-bottom: 0px;
+    }
+    .cmpring{
+        margin-top: 10px!important;
+    }
+    .pdrr {
+        padding: 0px 20px;
+    }
+    .productpricingtop .total-p{
+        text-align: center;
+        padding-right: 0px!important;
+    }
+    .resdisplaybtn{
+        display: block;
+
+    }
+    .pdl30{
+        padding-left: 0px!important;
+    }
+    .created .mnav li .tdiv img, .sproducts .plists .item.head{
+        display: none;
+    }
+    .created {
+        padding: 20px 1px;
+    }
+    .created .mnav li .tdiv{
+        padding: 13px 15px;
+        font-size: 13px;
+        text-align: center;
+    }
+    .created .mnav li .tdiv.first {
+        padding: 13px 15px;
+    }
+    .created .mnav li .tdiv::after, .created .mnav li .tdiv.active1::after{
+        width: 15px;
+    }
+    .sproducts .plists{
+        border: none;
+    }
+    .sproducts .plists .item{
+        padding: 15px;
+        margin-top: 5px;
+        background: #f8f3f2;
+        border:none;
+        padding-left: 30px;
+    }
+    .formobile{
+        display: block;
+    }
+    .forwindow{
+        display: none;
+    }
+    .sproducts .plists .item p.formobile{
+        margin-bottom: 0;
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    .sproducts .plists .item .pprice,.sproducts .plists .item .pquantity{
+        margin: 0;
+    }
+    .sproducts .plists .item .btns{
+        box-shadow: none;
+        width: 155px;
+        padding: 7px;
+    }
+    .sproducts .available{
+        display: none;
+    }
+    .filters .col-sm-12{
+        float: left;
+        width: 100%;
+    }
+    .filters .right,.filters .left {
+        padding-left: 0px;
+        padding-right: 0;
+    }
+
+    .filters .cbtns{
+        display: block;
+    }
+    .filters .cbtns4{
+        width: 50%;
+        margin-left: 25%;
+    }
+    .filters {
+        padding: 0 15px 30px;
+    }
+    .filters .item{
+        width: 33.33%;
+        padding: 7px 5px;
+    }
+    .filters.setting .item{
+        width: 50%;
+    }
+    .filters .item.last{
+        width: 100%;
+        text-align: center;
+    }
+    .filters .item.last .cbtns2{
+        width: 43%;
+        margin: 0 auto;
+        display: block;
+    }
+    .filters  .label1{
+        padding: 0px 0 25px;
+        text-align: center;
+    }
+    .filters .shap{
+        width: 21%;
+        margin: 2%;
+        height: 70px;
+    }
+    .filters  .lab{
+        width: 19%;
+        margin: 0.5%;
+        height: 60px;
+    }
+    .filters .hidefilter a{
+        display: none;
+    }
+    .rcenters{
+        text-align: center;
+    }
+    .sproducts {
+        padding: 0px 0 30px;
+    }
+
+    .filters .ffilter {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(0, 0, 0, 0.4);
+        opacity: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+        transition: all 0.35s ease 0s;
+        padding: 10px;
+    }
+    .filters .ffilter .inner3{
+        background: #fff;
+        padding:25px 25px 40px 25px;
+    }
+    .filters .ffilter.active{
+        opacity: 1;
+        z-index: 99999;
+    }
+    .filters .right, .filters .left{
+        position: unset;
+    }
+    .filters  .input{
+        float: left;
+    }
+    .filters  .input1{
+        float: right;
+    }
+    .filters .item .lab{
+        width: 19%;
+    }
+    .widthcus{
+        width:100%;
+    }
+    .rpll30{
+        padding-left: 30px!important;
+    }
+    /*    step2*/
+    .pull-right {
+        float: left!important;
+    }
+    .desktophide {
+        display: block;
+    }
+    .mobilehide {
+        display: none;
+    }
+    .stepstop select.form-control {
+        border: none;
+        box-shadow: none;
+        width: 85%;
+        font-size: 12px;
+        opacity: 0.8;
+    }
+    .stepstop p {
+        font-size: 12px;
+    }
+    .certminh {
+        min-height: 49px;
+    }
+    .certified .certifiedinner h6 {
+        margin-bottom: 5px;
+    }
+    .stepstop {
+        padding: 10px 0 5px;
+    }
+    .filters .label1 span{
+        display: inline-block;
+    }
+    .filters .label1{
+        color: #e85050;
+    }
+    .filters .myshap{
+
+    }
+    .filters  .myshap:hover .fa, .filters .myshap.active .fa{
+        display: block;
+    }
+    .selectring .ringpic {
+        min-height: 190px;
+    }
+    .created .mnav li .tdiv.edit.first {
+        padding: 12.5px 30px;
+    }
+    .created .mnav li .tdiv.edit {
+        padding: 21.5px 10px;
+    }
+    .created .mnav li .tdiv {
+        padding: 22.5px 10px;
+    }
+    .filters .forwidth{
+        width: 50%;
+        float: left;
+    }
+    .filters .shap{
+        margin-top: 10px;
+        border:1px solid transparent;
+        padding-bottom: 20px;
+        height: 75px;
+    }
+    .filters .shap .imgbox{
+        height: 65px;
+        border-color: #e2c6da;
+    }
+    .filters .shap .imgbox img{
+        width: 19px;
+    }
+    .filters .shap:hover, .filters .shap.active{
+        border-color: #ffb2b7;
+    }
+    .filters .shap:hover .imgbox, .filters .shap.active .imgbox{
+        border-color: transparent;
+        border: none;
+        height: 50px;
+    }
+    .filters .forwidth .item, .filters .forwidth .col-xs-12{
+        width: 100%;
+    }
+    .filters .metal:hover .fa, .filters .metal.active .fa{
+        display: block;
+    }
+    .filters .mystyle:hover .fa, .filters .mystyle.active .fa{
+        display: block;
+    }
+    .filters .left, .filters .right{
+        padding: 0;
+    }
+    .sproducts .plists .item .pfeature .fa{
+        display: none;
+    }
+    .sproducts .plists .item .btns{
+        background: #fff;
+        color: #080808;
+        opacity: 0.7;
+    }
+    .sproducts .plists .item .pfeature{
+        padding: 0;
+    }
+    .sproducts .plists .item .col-xs-5{
+        float: right;
+        width: auto;
+    }
+    .filters .myshap .text{
+        display: block;
+        text-align: center;
+    }
+
+    .filters .myshap .imgbox
+    .filters .ftext{
+        display: block;
+    }
+    .filters .input{
+        margin-top: 17px;
+        margin-bottom: 20px;
+    }
+    .filters .label1{
+        font-size: 16px;
+    }
+    .slider.slider-horizontal{
+    }
+    .filters .mystyle .imgbox{
+        border: none !important;
+        margin-bottom: 2px;
+    }
+    .filters .mystyle{
+        border: 1px solid #e2c6da;
+        min-height: 110px;
+        width: 24%;
+    }
+    .filters .mystyle:hover, .filters .mystyle.active{
+
+    }
+    .filters .mystyle .imgbox{
+        min-height: 67px;
+    }
+    .filters .mystyle img {
+        width: 65%;
+    }
+    .filters .metal{
+        min-height: 117px;
+    }
+    .filters .metal .block{
+        display: block;
+    }
+    .filters .advancediv  .item.last{
+        width:33.33%;
+    }
+    .filters .advancediv  .item.last .cbtns1{
+        width: 100%;
+    }
+    .filters .shap:nth-child(9){
+        margin-left: 27%;
+    }
+    .filters .ftext{
+        display: block;
+    }
+    .filters .hidefilter{
+        margin-top: 15px;
+    }
+    .selectList1 .models .heart{
+        right: unset;
+        left: 45%;
+    }
+    .listviewouter {
+        padding: 0 0 30px;
+    }
+    .listviewouter .models{
+        margin: 5px 0;
+    }
+    .selectList1 .models .ringdet {
+        text-align: left;
+    }
+    .filters .cbtns3{
+        margin-left: 18%;
+    }
+    .created .mnav li .tdiv.active1:after{
+        background: url('../img/forborder21.png') no-repeat right;
+        background-size: 100% 100%;
+    }
+    .created{
+        overflow: hidden;
+    }
+    .ringpic{
+        padding: 10px 0;
+    }
+    .selectring .ringpic {
+        min-height: 195px;
+    }
+    .ringdet .imgs .imgbox {
+        width: 19%;
+        margin: 0 7%;
+        min-height: 61px;
+    }
+    .ringdet h6{
+        padding: 1px 0 0px;
+    }
+    .filters .textcenter1{
+        text-align: center;
+    }
+    .rpll20{
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+    }
+    .productpricing .amount.bkamount{
+        margin-top: 10px;
+    }
+    .productpricingtop .cartBtns span{
+        display: inline-block;
+    }
+    .total-cartbk{
+        padding: 10px 0;
+        border-bottom: 1px solid #f8f3f2;
+        border-top: none;
+    }
+    .total-cartbk1{
+        border-bottom: none;
+    }
+    .productpricingtop  .mbkt10bk{
+        margin-top: 0;
+    }
+    .productpricingtop .cart-button{
+        padding: 8px 0px;
+        font-size: 13px;
+    }
+    .myCart a{
+        display: none;
+    }
+    .productpricingtopbk{
+        padding-top: 10px !important;
+    }
+    .codeBk{
+        padding-top: 0 !important;
+    }
+    .codeBk h6{
+        font-size: 16px;   
+    }
+    .filters .advanced.formobilehide{
+        display: inline-block;
+    }
+    .filters .metal.last .imgbox{
+        margin-bottom: 10px;
+    }
+    .productpricingtop .coupcodbk{
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    .paddcartbk{
+        padding-bottom: 0 !important;
+    }
+    /*    swastika*/
+    .completering .compmid h1, .completering .compmid p {
+        text-align: center;
+    }
+    .completering .compmid .compship p {
+        text-align: left;
+    }
+    .completering .compmid .compship a {
+        width: 100%;
+    }
+    .completering .compborder .compmid, .shippingdet {
+        padding: 0 150px;
+    }
+    .shippingdet{
+        padding: 10px 150px;
+    }
+    .completering .compmid .compcheckout a {
+        width: 160px;
+    }
+    .completering .compmid .compcart a {
+        width: 80px;
+    }
+    .completering .compmid .compshiptop .compship {
+        margin-top: 15px;
+        margin-bottom: 5px;
+    }
+    .shippingdet .shipdetbtm h1 {
+        padding-bottom: 0px;
+    }
+    .shippingdet .shipdetbtm .shipdetmid {
+        padding-top: 10px;
+    }
+    .shiphead .container {
+        padding: 0 !important;
+    }
+    .completering .flex-control-thumbs {
+        margin-top: 10px;
+        margin-bottom: 40px;
+    }
+    .completering .flex-control-thumbs li{
+        min-height: 100px;
+    }
+    .completering .leftdiv{
+        padding-bottom: 20px;
+    }
+    .completering .leftdiv p.textz{
+        bottom: 8px;
+        padding-top: 10px;
+        border-top: 1px solid #f2e8e6;
+
+    }
+    .completering .compmid {
+        border-right: none;
+    }
+    .completering .compmid .orderprice{
+        margin-bottom: 10px;
+    }
+    .completering .compmid .compshiptop .compship{
+        background: #fef1f6;
+    }
+    .completering .compmid .compshiptop .compship a{
+        background: #fff;
+    }
+    .similarbks{
+        padding: 0 15px;
+    }
+    .accounts a.formobile{
+        display: inline-block;
+        float: right;
+        font-size: 13px;
+        margin-top: 2px;
+    }
+}   
+/*swastika*/
+@media(max-width:706px) {
+    .completering .compborder .compmid, .shippingdet {
+        padding: 0 75px;
+    }
+    .completering .compmid .orderprice {
+        border-top: 1px solid #dddbdb;
+        border-bottom: 0;
+    }
+    .completering .compmid .orderprice p {
+        margin-top: 10px;
+    }
+    .shiphead .shipdettop{
+        margin: 10px 0;
+    }
+    .accounts .ccurrent{
+        display: none;
+    }
+    .similar{
+        padding-bottom: 0;
+    }
+    /*gurwinder*/
+    .review-ring {
+        padding: 20px 15px;
+    }
+    .create-inline-ringslide .flex-control-thumbs li {
+        margin: 0px !important;
+        margin-right: 8.56px !important;
+    }
+    .review-ring .box-ring-creat {
+        display: block;
+    }
+    .setting-create-ring{
+        padding-bottom: 20px;
+    }
+    .creat-ring-compmid {
+        border-top: 1px solid #f8f3f2;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .prodetail .basicdet h1 {
+        width: 100%;
+        display: block;
+        float: left;
+    }
+    .basicdet-creat-ring p {
+        font-size: 12px;
+        width: 100%;
+        display: block;
+        float: left;
+    }
+    .shiphead .shipdettop-creat1 {
+        padding: 15px;
+    }
+}
+/*swastika*/
+@media(max-width:560px){
+    .header .container{
+        padding: 0 10px;
+    }
+    .main .container1{
+        padding: 0 15px;
+    }
+    .footer .top .divs.social{
+        width: 100% !important;
+    }
+    .main{
+        padding: 40px 0;
+    }
+    .footer .bottom a:nth-child(3){
+        display: none;
+    }
+    .footer .bottom a{
+        margin: 0 5px;
+    }
+    .box3 {
+        padding: 70px 15px;
+    }
+    .sbox .input-group span button {
+        font-size: 14px;;
+        padding: 16px 10px;
+        width: 100px;
+    }
+    .productpricingtop .cart-button{
+        width: 100px;
+        display: inline-block;
+    }
+    .responsive-cart{
+        width: 100%;
+        display: block;
+        float: left;
+        margin-top: 20px;
+    }
+    .responsive-cart h5, .responsive-cart .quantity{
+        display: inline-block;
+        padding-right: 0px;
+    }
+    .cart-checkout .padd-cart.totl-padd-cart .apply1{
+        float: left;
+    }
+    .cart-checkout .productpricingtop .cart-button, .cart-checkout .padd-cart.totl-padd-cart .apply1{
+        display: block;
+        float: unset;
+        margin: 0 auto !important;
+        margin-bottom: 15px !important;
+    } 
+    #before3 .apply{
+        background: #fff;
+        color: #777771;
+        border: 2px solid #fe636f;
+    }
+    #before3 input {
+        background: #fafafa;
+        border: 2px dashed #9fe197;
+    }
+
+    .wishlist .wishlistimg {
+        min-height: 200px;
+    }
+    .wishlist h4{
+        font-size: 14px;
+        margin-top: 0px;
+    }
+    .wishlist p{
+        font-size: 12px;
+    }
+    .wishlist .orderright{
+        margin-top: 15px;
+    }
+    .wishlist .forboxshadow {
+        min-height: 386px;
+    }
+    .heart-favv {
+        right: 10%;
+        top: 5px;
+    }
+    .pdrr {
+        padding-right: 0px;
+    }
+    .padd-cart p span.shape {
+        width: 59%;
+    }
+    .sproducts .plists .item .btns {
+        box-shadow: none;
+        width: 170px;
+        font-size: 13px;
+        width: 131px;
+        padding: 8px;
+    }
+    /*    step2*/
+    .stepstop select.form-control {
+        width: 90%;
+    }
+    .mgtop {
+        margin-top: 6px;
+    }
+    .certified .certifiedinner h6 {
+        font-size: 14px;
+    }
+    .certified .certifiedinner p {
+        font-size: 12px;
+    }
+    .ringdet h5 {
+        font-size: 15px;
+        margin: 7px 0;
+    }
+    .ringdet h6 {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .ringdet h4 {
+        font-size: 20px;
+        margin-top: 10px;
+        margin-bottom: 2px;
+    }
+    .pdleft {
+        padding-left: 7px;
+    }
+    .pdright {
+        padding-right: 7px;
+    }
+    .certminh {
+        min-height: 60px;
+    }
+    .listviewouter .ringdet {
+        padding: 2px 0 0 10px;
+    }
+    .sproducts .plists .item .pname{
+        color: #080808;
+    }
+    .sproducts .plists .item .pfeature, .sproducts .plists .item p.formobile, .sproducts .plists .item .pprice, .sproducts .plists .item .pquantity{
+        color: #080808;
+        opacity: 0.7;
+        padding: 0;
+    }
+
+    .selectring .ringdet h5 {
+        font-size: 14px;
+    }
+    .selectring .ringpic {
+        min-height: 180px;
+    }
+    .filters .mystyle{
+        width: 32.3%;
+        padding-bottom: 10px;
+        margin-top: 1px;
+    }
+    .ringdet .imgs .imgbox{
+        min-height: 43px;
+        width: 22%;
+        margin: 0 5%;
+    }
+    .created .mnav li .tdiv.edit.first {
+        padding: 12.5px 5px;
+    }
+    .sproducts .plists .item{
+        padding: 15px 25px;
+    }
+    .filters .myshap .fa{
+        left: 7px;
+    }
+    .filters .myshap .text{
+        font-size: 12px;
+    }
+    .filters .metal {
+        min-height: 113px;
+        padding: 10px 0;
+    }
+    .filters .ftext{
+        display: block;
+    }
+    .filters .shap:nth-child(9){
+        margin-left: 2%;
+    }
+    .filters .shap:nth-child(10){
+        margin-left: 36%;
+    }
+    .filters .advancediv .item{
+        width: 50%;
+    }
+    .filters .advancediv .item.last{
+        width: 50%;
+        margin-left: 25%;
+    }
+    .selectList1 .models .heart{
+        left: 42%;
+    }
+    .listviewouter .ringdet h4{
+        margin-top: 3px;
+    }
+    .filters .cbtns3{
+        margin-left: 0%;
+    }
+    .ringpic{
+        padding: 0;
+    }
+    .filters .mystyle .imgbox {
+        min-height: 82px;
+    }
+    .filters .mystyle .fa{
+        bottom: 13px;
+    }
+    .filters .mystyle:nth-child(7){
+        margin-left: 16%;
+    }
+    /*    swastika*/
+    .completering .compborder .compmid, .shippingdet {
+        padding: 0 60px;
+    }
+    .completering .flexslider .slides > li{
+        min-height: 280px;
+    }
+    .completering .flex-control-thumbs li {
+        min-height: 80px;
+    }
+}
+@media(max-width:530px){
+    .padd-cart.totl-padd-cart .discont-cart {
+        padding-right: 70px;
+    }
+    .padd-cart.totl-padd-cart .discont-cart span {
+        width: 68%;
+    }
+    .filters .shap{
+        width: 29.3%;
+    }
+    /*    swastika*/
+    .completering .compborder .compmid, .shippingdet {
+        padding: 0;
+    }
+    .similar .simi .navigate a {
+        margin-left: 12px;
+        font-size: 12px;
+    }
+    .similar .simi .navigate h1 {
+        font-size: 15px;
+    }
+    .shippingdet .shipdettop {
+        padding: 20px 10px;
+    }
+    .shippingdet .shipdettop h1 {
+        font-size: 16px;
+    }
+}
+@media(max-width:418px){
+    .header .top .noright .link {
+        margin-left: 7px;
+    }
+    .header .top .logo{
+        width: 130px;
+        margin-top: 14px;
+    }
+    .header .hamburger{
+        margin-right: 5px;
+    }
+    .main h1, .box1 h2{
+        font-size: 27px;
+    }
+    .main h1{
+        line-height: 35px
+    }
+    .main a {
+        margin-top: 9px;
+    }
+    .box1 h1, .heading{
+        font-size: 25px;
+    }
+    p, .btns{
+        font-size: 13px;
+    }
+    .box3 .heading, .box6 .rings h1{
+        font-size: 19px;
+    }
+    .box4 .item{
+        padding: 0;
+    }
+    .box4 .slick{
+        padding: 0 30px;
+    }
+
+
+    .box5 h1{
+        margin-bottom: 20px;
+    }
+    .footer .top{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .footer .top ul li{
+        padding:1px 0;
+
+    }
+    .footer .top ul li a{
+        font-size: 12px;
+    }
+    .footer .top h4 {
+        font-size: 14px;
+    }
+    .footer .bottom{
+        padding: 10px 0;
+    }
+    .footer .bottom a{
+        margin-top: 5px;
+    }
+    .box6 .rings img{
+        width:60%;
+    }
+    .sbox .input-group input{
+        padding-left: 12px;
+    }
+    .orderbottom .orderleft a{
+        font-size: 14px;
+    }
+    .productpricingtop h6{
+        font-size: 14px;
+    }
+    .font14 {
+        font-size: 11px!important;
+    }
+    .font141{
+        font-size: 14px!important;
+    }
+    .accountright .col-xs-8,.accountright .col-xs-4{
+        width:100%;
+    }
+    .rdesplay .btn{
+        float:left;
+    }
+    .total-p span {
+        width: 35%;
+    }
+    .wishlist .wishlistimg {
+        min-height: 140px;
+    }
+    .wishlist .forboxshadow {
+        min-height: 325px;
+    }
+    /*    step2*/
+    .stepstop p, .stepstop select.form-control {
+        font-size: 9px;
+    }
+    .stepstop select.form-control {
+        width: 100%;
+    }
+    .ringdet {
+        padding: 0px 0px;
+    }
+    .ringdet h5 {
+        font-size: 13px;
+    }
+    .ringdet h6 {
+        font-size: 10px;
+        line-height: 13px;
+    }
+    .ringdet h4 {
+        font-size: 16px;
+        margin-top: 8px;
+    }
+    .ringdet p {
+        font-size: 10px;
+    }
+    .buyrings .models {
+        margin: 5px 0;
+    }
+    .buyrings {
+        padding: 10px 0;
+    }
+    .buyrings .models .heart {
+        top: 5px;
+        right: 10px;
+    }
+    .buyrings .models .heart a {
+        font-size: 15px;
+    }
+    .selectring .ringpic {
+        min-height: 140px;
+    }
+    .filters .metals{
+        margin-right: 7px;
+    }
+    .filters .mystyle .imgbox {
+        min-height: 60px;
+    } 
+    .filters .mystyle .fa{
+        bottom: unset;
+        left: unset;
+        right: 5px;
+        top:5px;
+    }
+    .filters .mystyle{
+        min-height: 90px;
+    }
+    .filters .metal {
+        min-height: 98px;
+    }
+    /*    swastika*/
+    .completering .compmid .compcheckout a {
+        width: 130px;
+        padding: 2px 10px 4px;
+        font-size: 17px;
+
+    }
+    .completering .compmid .compcart a {
+        width: 62px;
+        font-size: 13px;
+        padding: 6px 10px 4px;
+    }
+    .completering .compmid .compship p, .completering .compmid .compship h2 {
+        padding-left: 10px;
+    } 
+    .completering .compmid h1 span {
+        display: block;
+    }
+    .completering .flex-control-thumbs li {
+        min-height: 65px;
+    }
+    .accounts a.formobile{
+        display: block;
+        float: left;
+        padding-top: 10px;
+        text-align: center;
+    }
+}
+@media(max-width:408px){
+    .sproducts .plists .item .col-xs-5 {
+        width: 41.66%;
+    }
+}
+@media(max-width:404px){
+    .padd-cart.totl-padd-cart .discont-cart span {
+        width: 71%;
+    }
+    .padd-cart.totl-padd-cart .discont-cart {
+        padding-right: 5px;
+    }
+    .total-cart .productpricingtop p span {
+        padding-right: 15px;
+    }
+    #before3 input{
+        width: 50%;
+    }
+    #before3 .apply {
+        width: 120px;
+    }
+    .cart-resp {
+        padding-left: 15px;
+    }
+    .productpricingtop h6 a{
+        display: block;
+        margin-top: 25px;
+        float: unset;
+        width: 160px;
+    }
+    .padd-cart p span {
+        width: 57%;
+    }
+    .productsection .ordertext, .productpricing {
+        padding: 10px 15px;
+    }
+    .nopaad1{
+        padding: 0px !important;
+    }
+    .heart-favv {
+        right: 4%;
+        top: 5px;
+        font-size: 10px;
+    }
+    .heart-favv2 {
+        right: 15%;
+    }
+    .created .mnav li .tdiv{
+        padding: 15px 10px;
+        font-size: 10px;
+    }
+    .created .mnav li .tdiv.first {
+        padding: 9.5px 5px;
+    }
+    .sproducts .plists .item .pname {
+        font-size: 13px;
+    }
+    .sproducts .plists .item .pfeature {
+        padding-left: 0px;
+        font-size: 10px;
+    }
+    .sproducts .plists .item .pfeature .fa {
+        font-size: 5px;
+        margin-top: 4px;
+        margin-right: 5px;
+    }
+    .sproducts .plists .item {
+        padding: 15px 10px;
+    }
+    .sproducts .plists .item .btns {
+        width: 111px;
+        padding: 5px;
+    }
+    .sproducts .plists .item .pprice, .sproducts .plists .item .pquantity {
+        font-size: 15px;
+    }
+    .created .mnav li .tdiv.edit.first {
+        padding: 9px 0px;
+    }
+    .created .mnav li .tdiv.edit {
+        padding: 16px 10px;
+    }
+    .created .mnav li .tdiv {
+        padding: 17px 10px;
+    }
+    .filters .item{
+        width: 50%;
+    }
+    .filters .item.last .btns {
+        width: 65%;
+    }
+
+    .filters .cbtns{
+        padding: 7px;
+    }
+    .filters{
+        padding: 0 10px 30px
+    }
+
+    .filters .myshap .fa, .filters .myshap .text {
+        font-size: 10px;
+    }
+    .ringdet .imgs .imgbox {
+        min-height: 43px;
+        width: 25%;
+        margin: 0 4%;
+    }
+    .filters .cbtns4{
+        margin-left: 20%;
+    }
+    .filters .mystyle{
+        font-size: 12px;
+    }
+    .stepstop select.form-control{
+        padding: 0;
+    }
+    .productpricingtop h6{
+        margin-bottom: 10px;
+    }
+    .accountright1{
+        padding: 0px 20px;
+    }
+    #before3 input {
+        width: 52% !important;
+    }
+    /*    swastika*/
+    .shippingdet .shipdetbtm .shipdetmid {
+        padding-top: 0;
+    }
+    .shippingdet .shipdetbtm .shipdetmid p {
+        font-size: 11px;
+        margin-bottom: 5px;
+    }
+    .shippingdet .shipdetbtm h1 {
+        padding-bottom: 20px;
+        font-size: 13px;
+    }
+}
+@media(max-width:350px){
+    .listviewouter .ringpic {
+        padding: 15px 0;
+    }
+}

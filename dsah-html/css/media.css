@@ -1,0 +1,650 @@
+@media (max-width:1566px) and (min-width:1367px) {
+    .services .container.container1 {
+        max-width: 1300px;
+    }
+    .services.doctors .nav_service a {
+        width: 20%;
+    }
+    .services .nav_service a {
+        padding: 12px 15px;
+    }
+    .doctor .dr_pic h4 {
+        font-size: 15px;
+    }
+    .services .service h2 {
+        font-size: 22px;
+    }
+    .doctor .dr_detail h3, .services.doctors .service p {
+        font-size: 14px;
+    }
+}
+@media (max-width:1199px) {
+    .header .navbar-light .navbar-nav .nav-link {
+        font-size: 11px;
+    }
+    .healthcare .health {
+        padding: 32px 55px;
+    }
+    .secondhome ul li {
+        padding: 0 23px;
+    }
+    .secondhome ul li span.count {
+        font-size: 45px;
+    }
+    .secondhome ul li span.info {
+        font-size: 14px;
+        max-width: 159px;
+    }
+    .footer .footerbtm .updates .slidercontrol a {
+        margin: 0 0 0 8px;
+    }
+    .footer .footerbtm p {
+        font-size: 12px;
+    }
+    .footer .footerbtm .finner {
+        padding: 0 0 0 6px;
+    }
+    .footer .footerbtm .social {
+        padding: 0 0 10px;
+    }
+    .port-flx-con iframe {
+        height: 400px;
+    }
+    .services .servouter1.fixed_services, .services .servouter1.absolute_services {
+        width: 290px;
+    }
+    .services .nav_service a {
+        padding: 12px 15px;
+        font-size: 12px;
+    }
+    .dropdown-menu1 li ul.menus li a {
+        font-size: 11px;
+    }
+    .dropdown-menu1 li ul.menushead li h1 {
+        font-size: 28px;
+    }
+    .contactus.career input {
+        width: 75%;
+    }
+    .header .navbar-light ul li:not(:nth-child(7)) {
+        padding: 30px 4px;
+    }
+}
+@media (max-width:1023px) {
+
+}
+@media (max-width:991px) and (min-width:768px) {
+
+}
+@media (max-width:991px) {
+    .header .headertop a {
+        font-size: 11px;
+        padding: 0 5px;
+    }
+    .banner h1 {
+        font-size: 45px;
+        line-height: 50px;
+    }
+    .banner p {
+        padding: 50px 0 8px;
+        font-size: 14px;
+    }
+    .heading1, .bestdoctor h1, .secondhome ul li span.count {
+        font-size: 35px;
+    }
+    .miracle .miracleinner .miracle1 .mirtxt .mirac h1, .mirbtm h1 {
+        font-size: 20px;
+    }
+    .aboutus p, .miracle .miracleinner .miracle1 .mirtxt .mirac p, .mirbtm a, .banner .form-control, .mirbtm p, .bestdoctor p, .healthcare p, .secondhome p, .footer .footertop a, .footer .footerbtm .updates p {
+        font-size: 12px;
+    }
+    .miracle .miracleinner .miracle1 .mirtxt {
+        padding: 50px 0 0;
+    }
+    .miracle .miracleinner .miracle1 {
+        padding: 60px 0;
+    }
+    .mirbtm .miracbtm {
+        padding: 5px 0 0;
+    }
+    .mirbtm {
+        padding: 30px 0 20px;
+    }
+    .mirbtm.mirbtm_ar {
+        padding: 30px 50px 20px;
+    }
+    .bestdoctor {
+        background-size: cover;
+        padding: 160px 0 350px;
+    }
+    .healthcare h1, .aboutus .care.drsa h1 {
+        font-size: 24px;
+    }
+    .aboutus .health {
+        padding: 15px;
+        padding-top:0;
+    }
+    .btns {
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+    .healthcare .health {
+        padding: 13px 18px;
+    }
+    .secondhome h1 {
+        font-size: 30px;
+    }
+    .secondhome ul li span.info {
+        font-size: 12px;
+        max-width: 135px;
+    }
+    .secondhome ul li {
+        padding: 0 6px;
+    }
+    .secondhome {
+        padding: 40px 0 365px;
+    }
+    .footer .footerbtm .updates p span {
+        padding: 0 5px 0 0;
+    }
+    .footer .footerbtm a {
+        font-size: 11px;
+    }
+    .footer .footerbtm .updates .slidercontrol a {
+        font-size: 13px;
+        margin: 0 0 0 2px;
+    }
+    .footer .footerbtm .finner {
+        padding: 0;
+    }
+    .footer .footerbtm .store a {
+        margin: 0 2px 0 0;
+        width: 48%;
+    }
+    .footer .footerbtm h1 {
+        font-size: 14px;
+    }
+    .footer .bottomest p.design {
+        text-align: center;
+        float: unset;
+        display: block;
+        padding: 15px 0 0;
+    }
+    .header .hamburger {
+        display: block;
+    }
+    #navbarSupportedContent {
+        display: none !important;
+    }
+    .gallerytop .itembg h1 {
+        padding: 150px 0;
+    }
+    .gallery {
+        padding: 40px 0;
+    }
+    .contactus .contact {
+        padding: 30px;
+    }
+    .contactus .leftf {
+        padding: 15px 0px 0 0px;
+    }
+    .contactus .form-group {
+        margin-bottom: 0.5rem;
+    }
+    .contactus textarea {
+        height: 80px;
+    }
+    .contactus .contact h1 {
+        font-size: 19px;
+    }
+    .services .service p, .contactus p {
+        font-size: 12px;
+        padding: 0 0 5px 0;
+    }
+    .contactus .form-control {
+        font-size: 0.8rem;
+    }
+    .aboutus {
+        padding: 0px 0;
+    }
+    .healthcare.aboutus .health {
+        padding: 10px;
+    }
+    .healthcare.aboutus .health ul {
+        padding-left: 15px;
+    }
+    .healthcare.aboutus p {
+        padding: 0px 0;
+    }
+    .care.drsa {
+        padding: 45px 0 15px;
+    }
+    .services .nav_service a {
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    .services .service {
+        padding: 10px 0 0 0px;
+    }
+    .header .container {
+        max-width: 100%;
+    }
+    .contact_logo iframe {
+        height: 248px;
+    }
+    #downloadapp .store {
+        padding: 30px 0;
+    }
+    #downloadapp .apps img.appimg {
+        width: 70%;
+    }
+    #downloadapp .modal-body {
+        padding: 0rem;
+    }
+    #downloadapp .store a {
+        padding: 0px 60px 30px;
+    }
+    #videomain iframe {
+        height: 253px;
+    }
+    .services .servouter1.fixed_services, .services .servouter1.absolute_services {
+        width: 209px;
+    }
+    .services .service {
+        padding: 108px 0 0 0px;
+    }
+    .services .service h1, .contactus .leftf h1 {
+        font-size: 20px;
+        padding: 0 0 10px 0;
+    }
+    .services.doctors .nav_service a {
+        width: 33.33%;
+    }
+    .aboutprof {
+        background-size: 11%;
+    }
+    .contactus.career input {
+        width: 90%;
+    }
+    .privacy {
+        padding: 60px 0;
+    }
+    .healthimg img {
+        margin-top: 43px;
+    }
+    .offset-sm-1_5 {
+        margin-left: 12.49%;
+    }
+    .hide991 {
+        display: none;
+    }
+    .hidden {
+        display: block;
+        width: 12.49%;
+    }
+    .gallerytop {
+        margin-top: 78px;
+    }
+}
+@media (max-width:767px) {
+    .healthimg img{
+        margin-top: 0px;
+
+    }
+    .healthimg1 {
+        background: transparent;
+    }
+    .forres{
+        display: block;
+        
+    }
+    .aboutus .care.drsa h1{
+        padding-top:15px;
+    }
+    .noleft, .noright {
+        padding: 0;
+    }
+    .header .headertop {
+        text-align: center;
+        padding: 5px 0;
+    }
+    .header .headertop a {
+        margin: 5px 0;
+    }
+    .miracle .miracleinner .miracle1, .footer .footerbtm .updates .slidercontrol, .miracle .miracleinner .miracle1 .mirtxt .mirac h1, .healthcare .health, .healthcare h1, .footer, .footer .footerbtm .finner.finner2 {
+        text-align: center;
+    }
+    .footer .bottomest p {
+        display: block;
+    }
+    .secondhome ul li {
+        width: 100%;
+        padding: 0px;
+    }
+    .heading1, .bestdoctor h1, .secondhome ul li span.count {
+        font-size: 28px;
+    }
+    .miracle .miracleinner .miracle1 .mirtxt .mirac {
+        padding: 25px 0px 0;
+    }
+    .miracle .miracleinner .miracle1 {
+        padding: 25px 15px;
+    }
+    .miracle .miracleinner .miracle1 .mirtxt {
+        padding: 25px 0 0;
+    }
+    .miracle .miracleinner .miracle1 .mirtxt .playbtn a {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .healthcare .health {
+        padding: 20px 0px;
+    }
+    .secondhome p {
+        padding: 15px 0;
+    }
+    .secondhome ul li span.info {
+        max-width: unset;
+    }
+    .footer .footertop a {
+        padding: 5px;
+    }
+    .footer .footertop {
+        padding: 15px 0 15px;
+    }
+    .slider {
+        padding: 0px 0 10px 0px;
+    }
+    .footer .footerbtm .updates {
+        margin: -140px 0 0 0;
+    }
+    .footer .footerbtm .store a {
+        margin: 0;
+        width: 50%;
+    }
+    .bdrright {
+        border-bottom: 1px solid #dcdcdc;
+        border-right: 0;
+    }
+    .footer .footerbtm .finner {
+        padding: 15px 0;
+    }
+    .footer .footerbtm .social a {
+        padding: 0 10px;
+    }
+    .footer .bottomest p {
+        padding: 10px 0 0;
+    }
+    .footer .bottomest {
+        padding: 20px 0 0;
+        margin: 10px 0 0;
+    }
+    .footer .footerbtm {
+        padding: 80px 0 20px;
+    }
+    .gallerytop .itembg h1 {
+        padding: 110px 0;
+        font-size: 50px;
+    }
+    .contactus .contact {
+        text-align: center;
+    }
+    .contactus .leftf {
+        text-align: center;
+        padding: 15px 0px 30px;
+    }
+    .services, .contactus {
+        padding: 30px 0;
+    }
+    .contactus.career .contact ul li p {
+        text-align: left;
+    }
+    .healthcare.aboutus ul li p {
+        text-align: left;
+    }
+    .healthcare.aboutus .care.abcare {
+        padding: 30px 0 0;
+    }
+    .services .servouter {
+        display: none;
+    }
+    .services.doctors .service {
+        padding: 10px 0;
+    }
+    .doctor .dr_detail {
+        margin: 0 0 0 -10px;
+    }
+    .contactus.career input {
+        width: 40%;
+    }
+    .doctor.doctor_4ar .dr_detail {
+        margin: 0 0px 0 10px;
+    }
+    .services .service h2 {
+        font-size: 16px;
+    }
+    .privacyheading {
+        font-size: 20px!important;
+    }
+    .doctor .dr_detail h3, .services.doctors .service p {
+        font-size: 10px;
+    }
+    .doctor .dr_pic h4 {
+        font-size: 11px;
+    }
+    .mirbtm.mirbtm_ar {
+        padding: 30px 15px 20px;
+    }
+    .depatmentsec .departmentinner h6 {
+        font-size: 13px;
+        padding: 10px 0 0;
+    }
+    .slick_update .slick-prev:before,.slick_update_ar .slick-next:before {
+        content: url('../img/updates/leftt01.png');
+
+
+    }
+    .slick_update .slick-next:before ,.slick_update_ar .slick-prev:before{
+        content: url('../img/updates/right01.png');
+
+
+    }
+    .slick_update .slick-next {
+        right: 0px;
+    }
+    .slick_update_ar .slick-next{
+        left:3px;
+    }
+    .banner{
+        background-attachment: initial;
+        height:500px;
+    }
+    .patientnfamilyouter {
+        padding: 00px 0px 40px 0px;
+    }
+    .patientnfamilyouter h1{
+        font-size: 21px;
+    }
+    .patientnfamilyouter h2{
+        font-size: 17px;
+    }
+    .widthfordepartment {
+        width: 50%;
+        max-width: 50%;
+        flex: 0 0 50%;
+    }
+    
+}
+
+@media (max-width:575px) {
+    .healthcare .care .row {
+        margin: 0;
+    }
+    .gallery .galimg {
+        max-height: 300px;
+        margin: 0 0 15px 0;
+        text-align: center;
+    }
+    .gallerytop .itembg h1 {
+        text-align: center;
+    }
+    .gallery {
+        padding: 15px 0;
+    }
+    #downloadapp .modal {
+        padding-right: 0;
+    }
+    .services .service h1, .contactus .leftf h1 {
+        font-size: 22px;
+    }
+    .doctor .dr_detail {
+        text-align: center;
+        padding: 15px 0 0;
+    }
+    .port-flx-con iframe {
+        height: 300px;
+    }
+    .doctor .dr_detail {
+        text-align: left;
+        padding: 0px 0 0;
+    }
+    .offset-sm-1_5 {
+        margin-left: 0;
+    }
+    .modal-open .modal {
+        padding: 10px!important;
+    }
+    .modalder h1 {
+        font-size: 24px;
+    }
+    .modalder p {
+        font-size: 13px;
+    }
+    .hidden {
+        display: none;
+    }
+    .show575 {
+        display: block;
+        width: 25%;
+    }
+}
+@media (max-width:560px) {
+    .banner h1 {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .banner p {
+        font-size: 12px;
+    }
+    .banner .form-control {
+        height: 40px;
+    }
+    .banner .input-group .btn {
+        font-size: 1rem;
+    }
+    #downloadapp .apps img.andapp {
+        display: none;
+    }
+    #downloadapp .apps img.appimg {
+        width: 35%;
+        position: absolute;
+        top: 85%;
+        left: 33%;
+    }
+    #downloadapp .store a {
+        padding: 10px 0px 20px;
+    }
+    #downloadapp .store {
+        position: relative;
+    }
+    #downloadapp .modalcol {
+        position: static;
+    }
+    #downloadapp .modal-body {
+        min-height: 560px;
+    }
+    .contactus.career input {
+        width: 49%;
+    }
+    #downloadapp .store .android {
+        text-align: right;
+    }
+    #downloadapp .store .ios {
+        text-align: left;
+    }
+    #downloadapp .store .apps a img {
+        width: 70%;
+    }
+    .fmid_ar {
+        padding: 0;
+    }
+    .ramjanmodals h1{
+        font-size: 20px;
+    }
+}
+@media (max-width:414px) {
+    .mirbtm a {
+        border-left: 0;
+    }
+    .contactus .contact {
+        padding: 15px;
+    }
+    .services .service h1, .contactus .leftf h1 {
+        font-size: 18px;
+    }
+    #downloadapp .apps {
+        padding: 0 0px;
+    }
+    #downloadapp h5 {
+        font-size: 1rem;
+    }
+    #downloadapp .store {
+        padding: 10px 0;
+    }
+    #downloadapp .modal-body {
+        min-height: 400px;
+    }
+    .myloader .heartrate img {
+        width: 290px;
+    }
+    .port-flx-con iframe {
+        height: 220px;
+    }
+    #videomain .modal-dialog {
+        margin: 1.5rem;
+    }
+    #videomain .modal-body {
+        padding: 0.5rem;
+    }
+    #videomain iframe {
+        height: 144px;
+    }
+    .contactus.career input {
+        width: 64%;
+    }
+    .gallerytop .itembg h1 {
+        font-size: 40px;
+    }
+}
+@media (max-width:320px) {
+}
+@media (max-width:930px) {
+
+    .ramjanmodals .modal-dialog {
+        max-width: 600px;
+    }
+}
+@media (max-width:630px) {
+
+    .ramjanmodals .modal-dialog {
+        max-width: auto;
+    }
+    .ramjanmodals .modal-header button {
+        right: 3px;
+        padding: 8px 9px;
+        top: 4px;
+    }
+    .ramjanmodals .modal-header button img{
+        margin-top: -5px;
+    }
+}

@@ -1,0 +1,641 @@
+@font-face{
+    font-family:'Seravek';
+    src:url(../fonts/Seravek.ttf);
+}
+@font-face{
+    font-family:'Seravek-Medium';
+    src:url(../fonts/Seravek-Medium.ttf);
+}
+@font-face{
+    font-family:'Myriad-Pro-Regularr';
+    src:url(../fonts/Myriad-Pro-Regular.ttf);
+}
+@font-face{
+    font-family:'SeravekBold';
+    src:url(../fonts/SeravekBold.ttf);
+}
+
+
+body{
+    font-family:'Muli';
+}
+.noleft{
+    padding-left: 0;
+}
+.noright{
+    padding-right: 0;
+}
+.nopadding{
+    padding: 0 !important;
+}
+.boxs{
+    width: 100%;
+    display: block;
+    float: left;
+}
+button, a {
+    transition: all 0.35s ease 0s;
+}
+a {
+    outline: medium none !important;
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:none;
+}
+.width1{
+    width:100%;
+}
+.container{
+
+}
+.header{
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    top:0;
+    left:0;
+    padding: 20px 0px;
+}
+
+.header .container-fluid{
+    padding:0;
+}
+.header .navbar-brand{
+    height: auto;
+    padding: 0;
+    padding-left: 15px;
+}
+.header .navbar-brand1{
+    display: none;
+}
+.fixed_header .navbar-brand1{
+    display: block;
+}
+.fixed_header .navbar-brand{
+    display: none;
+}
+
+.header .navbar{
+    background: rgba(0,0,0,0);
+    border: none;
+    margin-bottom: 0;
+}
+.header .navbar-default .navbar-nav > li{
+    color: #000;
+    font-size: 26px;
+    text-transform: uppercase;
+    padding: 10px 3px;
+    font-family:'Seravek';
+}
+.header .navbar-default .navbar-nav > li > a:hover, .header .navbar-default .navbar-nav > li > .active{
+    color: #da3838;
+}
+.header .navbar-default .navbar-nav > li .btn{
+    background:#000;
+    color:#fff !important;
+    border-radius:100px;
+}	
+.header .navbar-default .navbar-nav > li .btn:hover{
+    background:#da3838;
+}
+
+.fixed_header{
+    padding: 10px 0px 6px;
+    position:fixed;
+    background-color: #fff;
+    box-shadow: 0px 0px 19px 1px #7c9494;
+}
+.fixed_header .top{
+    display:none;
+    border:none;
+}
+.fixed_header .bottom{
+    padding:10px 0;
+}
+.header .hamburger{
+
+    /*display: none;*/
+    float: right;
+    height: 45px;
+    padding: 7px 10px 10px 9px;
+    width: 45px;
+}
+.navbar-header{
+    /*width: 100%;*/
+}
+button:focus{
+    outline:0px;
+}
+
+.hamburger-inner, .hamburger-inner::before, .hamburger-inner::after{
+    background: #000;
+    border-radius: 0;
+    width: 29px;
+    height: 5px;
+}
+.navbar-right {
+    align-items: center;
+    float: right!important;
+    margin-right: -15px;
+    justify-content: center;
+    display: flex;
+    margin-top: 11px;
+}
+.fixed_header .navbar-default .navbar-nav > li {
+    padding: 0px 3px;
+}
+.fixed_header .navbar-right{
+    margin-top: 0px;
+}
+.hamburger-box{
+    width: 25px;
+}
+.hamburger-inner::before {
+    top: -10px;
+}
+.hamburger-inner::after {
+    bottom: -10px;
+}
+
+.sidenav {
+    background-color: #5cc9e2;
+    height: 100%;
+    left: -250px;
+    overflow-x: hidden;
+    padding-top: 10px;
+    position: fixed;
+    top: 0;
+    transition: all 0.5s ease 0s;
+    width: 250px;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+    z-index: 999;
+}
+.sidenav a {
+    color: #000;
+    display: block;
+    font-size: 20px;
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: all 0.3s ease 0s;
+    font-family:'Seravek';
+}
+.sidenav a span{
+    float: left;
+    height: 20px;
+    margin-right: 8px;
+    margin-top: 2px;
+    width: 22px;
+}
+.sidenav a:hover{
+    color: #fff;
+}
+.sidenav .logo {
+    border-bottom: 1px solid rgb(111,117,133);
+    margin-bottom: 15px;
+    padding: 7px 0;
+}
+.sidenav .logo img{
+    margin: 0 auto;
+}
+.slick-initialized .slick-slide {
+    outline: medium none !important;
+}
+
+
+
+/*new_smile section start*/
+.new_smile{
+    background: url(../img/section1.png) no-repeat center center;
+    background-size: cover;
+    margin-top: 128px;
+}
+.new_smile h2{
+    font-size: 24px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family:'Seravek';
+}
+.new_smile h1{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 90px;
+    line-height: 80px;
+    font-family:'Seravek-Medium';
+}
+.new_smile h1 span{
+    display: block
+}
+.new_smile a{
+    font-size: 25px;
+    color: #fff;
+    border: 3px solid #fff;
+    padding: 8px 35px;
+    margin-top: 110px;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family:'Seravek-Medium';
+}
+.new_smile a:hover{
+    background-color: #fff;
+    color: #64cfe6
+}
+
+.new_smile .inner{
+    position: relative;
+    padding: 130px 0px 170px;
+}
+.new_smile .plan h3{
+    color: #16151a;
+    font-size: 60px;
+    line-height: 55px;
+    font-family:'Seravek-Medium';
+}
+.new_smile .plan{
+    background-color: #fff;
+    text-align: center;
+    padding: 30px 80px 40px;
+    width: max-content;
+    position: absolute;
+    right: 0px;
+    bottom: -138px;
+    box-shadow: 0px 0px 51px -9px #080808;
+}
+.new_smile .plan h3 span{
+    display: block;
+}
+.new_smile .plan p{
+    font-size: 20px;
+    color: #16151a;
+    padding: 18px 0px;
+    font-family:'Seravek-Medium';
+}
+.new_smile .plan a{
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 0px;
+    padding: 9px 25px;
+    background-color: #29a9d0;
+    font-family:'Seravek-Medium';
+}
+.new_smile .plan a:hover{
+     background-color: #fe8517;
+}
+/*new_smile section end*/
+
+/*section2 start*/
+.section2{
+    margin-top: 180px;
+    padding: 0px 20px;
+}
+.section2 .right h1{
+    font-size: 80px;
+    color: #000000;
+    line-height: 85px;
+    padding-bottom: 45px;
+    letter-spacing: 0.9px;
+    font-family:'Seravek';
+}
+.section2 .left{
+    padding-right: 33px;
+}
+.section2 .right h1 span{
+    font-family:'Seravek-Medium';
+}
+.section2 .right p,.section4 .discover p{
+    color: #000;
+    font-size: 20px;
+    padding-top: 30px;
+    font-family:'Seravek';
+}
+.section2 .right{
+    padding-top: 107px;
+}
+
+/*section2 end*/
+
+/*section3 start*/
+.section3{
+    align-items: center;
+    padding: 70px 20px;
+    justify-content: center;
+    display: flex;
+}
+.section3 h1{
+    font-size: 60px;
+    color: #000;
+    line-height: 76px;
+    letter-spacing: 0.9px;
+    font-family:'Seravek-Medium';
+
+}
+.section3 h1 span{
+    display: block;
+    font-size: 80px;
+}
+.section3 .section3_right a,.section4 .discover a{
+    color: #29a9d0;
+    font-size: 20px;
+    padding: 9px 30px;
+    margin-top: 45px;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid #29a9d0;
+    font-family:'Seravek';
+}
+.section3 .section3_right a:hover,.section4 .discover a:hover{
+    background-color: #29a9d0;
+    color: #fff;
+}
+/*section3 end*/
+
+/*section4 start*/
+
+
+.section4{
+    padding: 100px 20px 80px;
+}
+.section4 .discover h1{
+    font-size: 80px;
+    color: #000;
+    line-height: 88px;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    padding-bottom: 35px;
+    font-family:'Seravek';
+}
+.section4 .discover h1 span{
+    display: block;
+    font-family:'Seravek-Medium';
+}
+.section4 .discover p span{
+    display: block;
+}
+.section4 .discover p{
+    letter-spacing: 0.8px;
+}
+.section4 .discover a{
+    margin-top: 30px;
+}
+.section4 .teath{
+    width: max-content;
+    padding: 25px 30px;
+    margin: 80px 0px 0px 70px;
+    box-shadow: -5px 0px 49px -9px #928787
+}
+.section4 .teath ul{
+    padding: 0px;
+    list-style: none;
+}
+.section4 .teath ul li img{
+    margin: 0 auto 14px;
+}
+.section4 .teath ul li{
+    float: left;
+    min-width: 110px;
+    margin: 0px 20px;
+    color: #000;
+    font-size: 20px;
+    text-align: center;
+    font-family:'Seravek';
+}
+.section4 .teath ul.teath_bottom{
+    padding-top: 55px;
+    float: left;
+}
+.section4 .discover_bottom{
+    padding-top: 130px;
+}
+.section4 .discover_bottom img{
+    margin: 0 auto;
+}
+/*section4 end*/
+
+.dentist_wrapper{
+    padding: 50px 0px 20px;
+}
+.dentist h2{
+    font-size: 80px;
+    font-family:'Seravek-Medium';
+}
+.dentist p{
+    padding: 60px 0px;
+    font-size: 22px;
+}
+.dentist{
+    width: 530px;
+    margin: 0 auto;
+}
+.famous_dr_left{
+    float: left;
+}
+.famous_dr_rigth{
+    padding-left: 20px;
+}
+.clenic_flex{
+    display: flex;
+    align-items: center;
+    padding-left: 80px;
+}
+.clenic_top{
+    margin-top: 60px;
+}
+.famous_dr_rigth h2{
+    font-size: 35px;
+    font-family:'Myriad-Pro-Regularr';
+}
+.famous_dr_rigth p{
+    font-size: 12px;
+    padding-right: 70px;
+    font-family:'Seravek';
+    padding-top: 6px;
+}
+
+
+
+
+
+
+
+
+
+.appointment{
+
+    background: url(../img/appoint_bg.png) no-repeat center center;
+    padding: 120px 20px;
+}
+.appoint_form{
+    padding: 40px;
+    background-color: #fff;
+}
+.appointdetails .col-sm-2{
+    width: 20%;
+}
+.appointdetails label,.place label{
+
+    font-size: 16px;
+    color: #16151a;
+    font-weight: normal;
+    font-family:'Seravek-Medium';
+}
+.place{
+    margin-top: 35px;
+}
+.place h4{
+    font-family:'Seravek-Medium';
+    font-size: 16px;
+    color: #16151a;
+    margin-bottom: 20px;
+}
+.place .form-control{
+    font-family:'Seravek-Medium';
+    font-size: 16px;
+    color: #16151a;
+    height: 42px;
+    margin-bottom: 30px;
+    background-color: #fff;
+    border: 2px solid #2baad0;
+    box-shadow: none;
+    border-radius: 0px;
+}
+
+.appointdetails .form-control{
+    font-family:'Seravek-Medium';
+    font-size: 16px;
+    color: #16151a;
+    height: 30px;
+    background-color: #29a9d0;
+    border-right: 1px solid #7dcbe2;
+    box-shadow: none;
+    border-radius: 0px;
+}
+.appointdetails .col-sm-2:last-child .form-control{
+    border-right: none;
+}
+.map{
+    width: 100%;
+    background-color: #fff;
+    padding:80px 0px;
+}
+.mapheading h2{
+    font-family: "SeravekBold";
+    font-size: 75px;
+    color: #1c1c22;
+    text-align: center;
+    margin-bottom: 100px;
+    text-transform: uppercase;
+}
+
+.mapinner iframe{
+    width: 100%;
+    height: 740px;
+    margin-bottom: 60px; 
+    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+ */
+    filter: gray; /* IE6-9 */
+	  -webkit-filter: grayscale(99%); /* Chrome 19+ & Safari 6+ */
+	  -webkit-backface-visibility: hidden;  /* Fix for transition flickering */
+    
+}
+.mapdetails_head h2,.details h3{
+    font-family: "Seravek";
+    font-size: 30px;
+    color: #000;
+    margin-bottom: 70px;
+    text-align: center;
+}
+.p_right{
+    padding-right: 20px;
+}
+.p_left{
+    padding-left: 40px;
+}
+.details{
+    margin-bottom: 50px;
+}
+.details h3{
+    margin-bottom: 22px;
+    text-align: left;
+}
+.details p{
+    font-family: "Seravek";
+    font-size:19px;
+    color: #000;
+}
+.last_f_para p{
+    font-size: 19px;
+    color:#000;
+    line-height: 23px;
+    text-align: center;
+    font-family: "Seravek";
+}
+.last_f_para p span{
+    display: block;
+}
+.secondlast_f{
+    width: 100%;
+    background-color: #29a9d0;
+    padding: 70px 0px;
+}
+.footer{
+    width: 100%;
+    background-color: #1b1c21;
+    padding: 70px 0px;
+}
+.f_img{
+    margin-bottom: 20px;
+}
+.f_para p{
+    font-family: "Seravek";
+    font-size: 15px;
+    color: #fff;
+    text-align: center;
+}
+.f_para p span{
+    display: block;
+}
+
+.place .form_group_simple .form-control{
+    border: 3px;
+    border-bottom:3px solid #2baad0;
+    margin-top: 80px; 
+}
+.book{
+    float: right;
+    margin-top: 5px; 
+}
+.book a{
+    background: #99a833;
+    padding: 12px 30px;
+    font-size: 15px;
+    color: #fff;
+    font-family:'Seravek-Medium';
+}
+.book a:hover{
+    background: #fe8517;
+
+}
+.app_heading h2{
+    font-size: 75px;
+    color:#fff;
+    line-height: 90px;
+    text-transform: uppercase;
+    font-family: "Seravek";
+}
+.app_heading p{
+    font-size: 20px;
+    color:#fff;
+    letter-spacing: 0.9px;
+    padding-top: 25px;
+    font-family: "Seravek";
+}
+.app_heading{
+    margin: 100px 0px 0px 180px;
+    width: 540px;
+    display: inline-block;
+}
+
+

@@ -1,0 +1,2 @@
+[0417/094648.213:ERROR:settings.cc(258)] Settings magic is not 1129342067
+[0417/154435.900:ERROR:file_io_win.cc(243)] SetEndOfFile: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)

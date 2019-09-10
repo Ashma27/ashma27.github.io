@@ -1,0 +1,1537 @@
+@media(min-width:1366px) and (max-width:1920px){
+    .get3 .inpt-box img{
+        top: 14px;
+    }
+    .get3new{
+        width:80%;
+        margin: 0 auto;
+        display: block;
+    }
+    .fotter1 .ftr-input .input-group .icon input, .fotter2 .ftr-input .input-group .icon input, .fotter3 .ftr-input .input-group .icon input{
+        height: 55px;
+    }
+}
+@media(max-width:1366px){
+    .container {
+        width:1170px;
+    } 
+    .get3new{
+        width:100%;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .fotter1 .ftr-input .input-group .icon input,.fotter2 .ftr-input .input-group .icon input,.fotter3 .ftr-input .input-group .icon input
+    {
+        height: 54px;
+        border: none;
+    }
+    .menu a {
+        padding: 22px 21.8px;
+    }
+    .funnel_bdy .btns {
+        padding: 0px 237px 0px 237px;
+    }
+    .funnel_bdy .btns-slide {
+        padding: 0px 188px 0px 188px;
+    }
+    .funnel_bdy .btns .btn {
+        min-height:65px;
+        width: 180px;
+        margin-top: 20px;
+        font-size:22px;
+    }
+    .funnel_bdy h1 {
+        font-size: 40px;
+    }
+    .funnel_bdy p {
+        font-size: 17px;
+    }
+    .funnel_bdy .btns .cont .btn {
+        width: 379px;
+        font-size: 20px;
+    }
+    .funnel_bdy .btns h1 {
+        font-size: 34px;
+    }
+    .funnel_bdy .btns .cont .btn_2 {
+        min-height: 65px;
+        width: 378px;
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    .funnel_1 p {
+        font-size: 15px;
+        padding: 0px 105px;
+        text-align: center;
+    }
+    .get3 .inpt-box
+    {
+        position: absolute;
+        left: 20px;
+        top: -12px;
+    }
+}
+@media(max-width:1199px){
+    .pic-side1 h1{
+        font-size: 26px;
+    }
+    .pic-side1 .address input{
+        font-size: 17px;
+    }
+    .container {
+        width:970px;
+        padding: 0px 15px;
+    } 
+    .menu a {
+        font-size: 16px;
+        padding: 22px 16px;
+        text-decoration: none;
+    }
+    .navbar-right p {
+        font-size: 18px;
+    }
+    .navbar-right h5 {
+        color: #92ef18;
+        font-size: 25px;
+    }
+    .get3 .inpt-box {
+        width: 90%;
+    }
+    .bdy-text .need h1 {
+        font-size: 33px;
+    }
+    .bdy-text .need .pr {
+        margin-top: 44px;
+    }
+    .bdy-text .need p {
+        margin-top: 0px;
+    }
+    .get{
+        margin-top: -4px;
+    }
+    .bdy-text .img-box p {
+        font-size: 11px;
+    }
+    .bdy-all{
+        padding: 0px;
+    }
+    .fotter1{
+        margin-top: 50px;
+        padding: 72px 0px;
+    }
+    .fotter1 .pay-cash h1 {
+        font-size: 31px;
+    }
+    .fotter1 .pay-cash h2 {
+        font-size: 40px;
+    }
+    .funnel-all {
+        margin-top: -275px;
+    }
+    .funnel .funnel_1 .pg p {
+        font-size: 23px;
+    }
+    /*    ashma*/
+    .funnel_bdy .btns {
+        padding: 0px 160px 0px 160px;
+    }
+
+    element.style {
+    }
+    .vlv {
+        margin-top: -304px;
+        padding-top: 70px;
+    }
+    .funnel_bdy .btns .btn {
+        width: 172px;
+        margin-top: 16px;
+    }
+    .funnel_bdy .btns .cont .btn {
+        width: 364px;
+        font-size: 20px;
+    }
+    .funnel_bdy h1 {
+        font-size: 35px;
+        padding-bottom: 24px;
+    }
+    .funnel_bdy {
+        padding: 50px 0px 114px 0px;
+    }
+    .funnel_bdy .btns {
+        padding: 0px 210px 0px 210px;
+    }
+    .funnel_bdy .btns .btn {
+        width: 145px;
+        margin-top: 16px;
+        font-size:12px;
+    }
+    .funnel_bdy .btns .cont .btn {
+        width: 304px;
+        font-size: 18px;
+    }
+    .funnel_bdy .btns .cont .btn_2 {
+        width: 303px;
+        font-size: 15px;
+    }
+    .funnel_bdy h1 {
+        font-size: 33px;
+        padding-bottom: 20px;
+    }
+    .funnel_bdy p {
+        font-size: 13px;
+    }
+    .service_realestate img {
+        min-height: 393px;
+    }
+    .review-pic .pic-review p {
+        font-size: 16px;
+    }
+    /*ashima media*/
+    .funnel_bdy .btns {
+        padding: 0px 160px 0px 160px;
+    }
+    .funnel_bdy .btns .btn {
+        width: 172px;
+        margin-top: 16px;
+    }
+    .funnel_bdy .btns .cont .btn {
+        width: 364px;
+        font-size: 20px;
+    }
+    .funnel_bdy h1 {
+        font-size: 35px;
+        padding-bottom: 24px;
+    }
+    .funnel_bdy {
+        padding: 50px 0px 114px 0px;
+    }
+    .funnel_bdy .btns {
+        padding: 0px 200px 0px 200px;
+    }
+    .funnel_bdy .btns-slide {
+        padding: 0px 180px 0px 180px;
+    }
+    .budget-wrap .header1 .for-doller {
+        left: 93px;
+    }
+    .funnel_bdy .btns .btn {
+        width: 162px;
+        margin-top: 16px;
+        font-size:18px;
+    }
+    .funnel_bdy .btns .cont .btn {
+        width: 304px;
+        font-size: 18px;
+    }
+    .funnel_bdy .btns .cont .btn_2 {
+        width: 303px;
+        font-size: 18px;
+    }
+    .funnel_bdy h1 {
+        font-size: 33px;
+        padding-bottom: 20px;
+    }
+    .funnel_bdy p {
+        font-size: 13px;
+    }
+    .funnel {
+        padding: 30px 0px 102px 0px;
+    }
+
+    /*ashima media-end*/
+
+
+}
+@media(max-width:991px){
+.funnel-all {
+    margin-top: -260px;
+}
+    .service_realestate .padser{
+        padding: 0px 45px!important;
+    }
+    .container {
+        width:750px;
+    } 
+    .budget-wrap .header1 .for-doller {
+        left: 106px;
+        font-size: 65px;
+    }
+    .budget-wrap .header1 .title .pull-right{
+        font-size: 65px;
+    }
+    .budget-wrap .header1 .title .pull-left{
+        font-size: 65px;
+        margin-top: -30px;
+    }
+    .dot i{
+        margin-top: -46px;
+    }
+
+    .menu a {
+        font-size: 12px;
+        padding: 22px 13px;
+        text-decoration: none;
+    }
+    .fotter1 .pay-cash h1 {
+        font-size: 24px;
+    }
+    .fotter1 .pay-cash h2 {
+        font-size: 38px;
+    }
+    .funnel_bdy .btns .pg1 {
+        margin-top: 114px;
+    }
+    .vlv {
+        margin-top: -304px;
+        padding-top: 97px;
+    }
+    .fotter1 .ftr-input {
+        margin-top: 21px;
+    }
+    .pic-side1 .sumbmit-new a {
+        font-size: 16px;
+    }
+    .pic-side1 p {
+        font-size: 12px;
+    }
+    .pic-side1 h1 {
+        font-size: 19px;
+        line-height: 33px;
+    }
+    .pic-side1 .address input {
+        font-size: 12px;
+    }
+    .bdy-text .pic-side {
+        padding: 22px 14px;
+    }
+    .bdy-text .pic-side p {
+        font-size: 14px;
+    }
+    .bdy-text .pic-side .brdr {
+        margin-top: 24px;
+    }
+    .bdy-text .pic-side p {
+        font-size: 14px;
+    }
+    .bdy-text .img-box p {
+        font-size: 11px;
+    }
+    .get3 p {
+        font-size: 29px
+    }
+    .get3 .inpt-box img {
+        left: 80px;
+    }
+    .three-box .three1, .three-box .three3 {
+        padding: 98px 0px 0px 0px;
+    }
+    .three-box .three p {
+        font-size: 18px;
+    }
+    .three-box .three p span{
+        display: inline;
+    }
+    .three-box .three2 {
+        padding: 120px 3px 70px 3px;
+    }
+    .get h1 {
+        font-size: 54px;
+    }
+    .get{
+        margin-top: -4px;
+        padding-top: 280px;
+    }
+    .get-all{
+        padding-top: 300px;
+    }
+    .fotter1 .ftr-input {
+        margin-top: 35px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .navbar-right p {
+        font-size: 15px;
+    }
+    .city_button{
+        margin:0px;
+    }
+    .service_content p {
+        margin-top: 25px!important;
+        padding: 0px 0px;
+    }
+    .service_content .service_content_two {
+        padding-top: 0px;
+    }
+    .heading {
+        margin-top: 0px;
+    }
+    .privacy .content_privacy p {
+        padding-bottom: 10px;
+        font-size: 16px;
+    }
+    .privacy .heading{
+        padding: 0px 0px;
+    }
+    .privacy .heading {
+        padding: 0px 0px;
+        font-size: 36px;
+    }
+    .privacy .content_privacy p {
+        padding-bottom: 10px;
+        font-size: 20px;
+    }
+    .privacy .content_privacy .cap_bold, .privacy .content_privacy .bold {
+        font-size: 23px;
+    }
+    .review-pic {
+        margin-top: 80px;
+    }
+    .bdy-text .need .service_content .service_content_two {
+        padding-top: 0px;
+    }
+    /*ashima media*/
+    .funnel_bdy h1 {
+        font-size:33px;
+        padding: 0px 20px 25px 20px;
+    }
+    .funnel_bdy .btns {
+        padding: 0px 85px 0px 85px;
+    }
+    .funnel_bdy .btns .btn {
+        font-size: 20px;
+    }
+    .value, .value_2, .value_3{
+        font-size: 65px;
+    }
+    .funnel {
+        padding: 30px 0px 94px 0px;
+    }
+
+    /*ashima media-end*/
+    .bdy-text .need h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .fotter2 .submit1{
+        padding: 16px 5px;
+    }
+    .fotter1 .submit1{
+        padding: 16px 7px;
+    }
+
+    .fotter2 .submit1 a{
+        font-size: 16px;
+    }
+    .fotter2 .ftr-input .input-group .icon input, .fotter3 .ftr-input .input-group .icon input {
+        font-size: 15px;
+        padding-right: 13%;
+    }
+    .fotter1 .ftr-input .input-group .icon input{
+        font-size: 17px;
+        padding-right: 14%;
+    }
+    .get3 .inpt-box {
+        width: 100%;
+    }
+    .get3 .inpt-box {
+        left: 0px;
+        top: -8px;
+    }
+
+
+}
+@media (max-width: 830px){
+    .modal-dialog {
+        width: 600px;
+    }
+    /*ashima media*/
+
+    /*ashima media-end*/
+}
+@media(max-width:767px){
+.modal-header button.close span img {
+    width: 60%;
+    margin-top: -3px;
+}
+    .header .headerbottom .col-sm-4,.fotter .ftr-pr p{
+        padding: 0px;
+    }
+    .service_realestate .padser{
+        padding: 0px 90px!important;
+    }
+    .pr-hw{
+        margin-top: 0px !important;
+    }
+    .nolrft{
+        padding: 0px!important;
+    }
+    .container {
+        width:100%;
+        padding: 0px 20px!important;
+    } 
+    .funnel {
+        padding: 30px 0px 94px 0px;
+    }
+    .funnel .funnel_1 p {
+        font-size: 14px;
+        padding: 0px 95px;
+    }
+    .get.get-funnel{
+        padding: 200px 0px 0px 0px;
+    }
+    .funnel_1 p.btp {
+        font-size: 14px;
+        margin-top: 48px;
+        padding: 0px 104px;
+        margin-top: 19px;
+    }
+
+    .header .hamburger {
+        display: block;
+        margin-top: 5px;
+    }
+    .bdy-text .need h2 {
+        font-size: 21px;
+    }
+    .need-all{
+        margin-top: 50px;
+    }
+    .vlv {
+        color: #fff;
+        margin-top:-277px;
+        font-size: 64px;
+    }
+    .get3 .submit a, .fotter1 .submit1 a, .get3 .submit a, .fotter2 .submit1 a, .get3 .submit a, .fotter3 .submit1 a{
+        text-transform: uppercase;
+    }
+    .menu{
+        display: none;
+    }
+    .navbar-brand.brnd.cnter img{
+        margin: 0 auto;
+        display: block;
+        float: none;
+        width: auto;
+    }
+    .brnd.cnter.navbar-brand{
+        float: unset;
+    }
+    .pic-side1 .input-group {
+        display: block;
+        float: unset;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .input-group {
+        position: relative;
+        display: table;
+        border-collapse: separate;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .headerbottom {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .fixed_header.headerbottom {
+        position: fixed;    
+    }
+    .bdy-text {
+        padding-top: 47px;
+    }
+    .fotter1 .ftr-input .input-group .icon input{
+
+        border-radius: 0px 5px 5px 0px;
+        padding-right: 30%;
+        font-size: 15px;
+    }
+    .review_margin{
+        margin-top: -120px;/*gyanneww*/
+    }
+    .pic-side1 {
+        margin-bottom: 20px;
+        margin-top: 46px;
+    }
+    .pic-side1 p {
+        font-size: 15px;
+    }
+    .bdy-text .pic-side p {
+        font-size: 21px;
+        line-height: 35px;
+    }
+    .bdy-text .img-box h1 {
+        text-align: center;
+        font-size: 23px;}
+    .pic-side2, .hide-frm, .shide
+    {
+        display: block;
+    }
+    .all{
+        width: 100% !important;
+        padding: 0% 18%;
+        margin: 40px 0px 0px 0px;
+    }
+    .bdy-text .img-box img {
+        border: 4px solid #b5bcc0;
+        border-radius: 50%;
+        margin: 0 auto;
+        display: block;
+    }
+    .fotter1 .submit1
+    {
+        width: 100%;
+        display: block;
+        float: left;
+        margin-top: 30px;
+        padding: 20px 0px;
+        border-radius: 5px;
+    }
+    .fotter1 .inptt input{
+        border-radius: 5px;
+    }
+    .pic-side2{
+        margin-bottom: 40px;
+    }
+    .bdy-text .need h3 {
+        font-size: 22px;
+    }
+    .bdy-text .need .pr {
+        margin-top: 26px;
+    }
+    .three-box .three2 {
+        border-right: none !important;
+        border-left: none !important;
+        border-top: 5px solid #fff !important;
+        border-bottom: 5px solid #fff !important;
+        height: 100%;
+    }
+    .three-box .three1, .three-box .three3,.three-box .three2 {
+        padding: 86px 100px;
+    }
+
+    .get{
+        margin-top: 0px;
+    }
+    .review-pic
+    {
+        margin-top: 45px;
+    }
+    .review-heading h6 {
+        font-size: 37px;
+    }
+    .fotter1 .ftr-input {
+        width: 100%;
+        margin-left: 0%;
+    }
+    .modal-content {
+        padding: 10px 0px;
+        width: 94%;
+        margin: 0 auto;
+        display: block;
+    }
+    .modal-dialog {
+        width:auto;
+    }
+    .modal-header .close {
+        right: -21px;
+        top: -19px;
+    }
+    .privacy{
+        padding:95px 0px;
+    }
+    .shide{
+        display: block !important;
+    }
+    .city_button .button3{
+        display: none;
+    }
+    .city_button .button{
+        float: right;
+        font-size:16px;/*gyannew*/
+        width: 100%;
+    }
+    .need{
+        margin-bottom: 0px;/*gyannew*/
+    }
+    .service_content{
+        display: none;/*gyannew*/
+    }
+
+    .three-box .container{
+        padding:0px!important;
+    }
+    .get3 .submit, .fotter1 .submit1 {
+        float: left;
+        display: block;
+        width: 100%;
+        margin-top: 20px;
+        border-radius: 5px;
+    }
+    .get3 .inpt-box img {
+        display: none;
+    }
+    .get3 .inpt-box {
+        position: absolute;
+        left: 20px;top: -79px;
+    }
+    .get3{
+        padding: 80px 0px 30px 0px;
+    }
+    .get3 .inpt-box p {
+        font-size: 44px;
+        font-family: 'CaveatRegular';
+        color: #fff;
+        transform: rotate(0deg);
+        text-align: center;
+    }
+    .get2 .obli p {
+        text-align: center;
+    }
+    .get-hide{
+        display: none;
+    }
+    .navbar-brand>img {
+        margin-top: 3px;
+    }
+    .get {
+        padding: 140px 0px 0px 0px;
+
+    }
+    .get-all {
+        padding: 150px 0px 45px 0px;
+
+    }
+    input::placeholder{
+        text-align: left;
+    }
+    .three-box 
+    {
+        background: transparent;
+    }
+    .three-box .three1,.three-box .three2, .three-box .three3
+    {
+        background:#658eab ;
+        padding: 50px 100px;
+    }
+    .fotter1{
+        margin-top: 0px;
+    }
+    .get p {
+        font-size: 26px;
+    }
+    .bdy-text .need p {
+        margin-top: 10px;
+    }
+    .inves.bdy-text .need p,.faq.bdy-text .need p,.serv.bdy-text .need p,.bdywork.bdy-text .need p {
+        margin-top: 0px!important;
+    }
+    .faq.bdy-text .need h3,.serv.bdy-text .need h3{
+        margin-bottom: 0px;
+    }
+    .bdy-text .img-box p {
+        font-size: 15px;
+    }
+    .fotter1 .pay-cash h1 {
+        font-size: 20px;
+        line-height: 35px;
+    }
+    .fotter1 .pay-cash p {
+        font-size: 19px;
+        margin: 12px 0px;
+    }
+    .fotter1 .pay-cash h2 {
+        font-size: 35px;
+    }
+    .fotter1 {
+        margin-top: 50px;
+        padding: 53px 0px;
+    }
+    .fotter {
+        background: #030506;
+        padding: 55px 0px 49px 0px;
+    }
+    .fotter h2 {
+        margin: 24px 0px;
+    }
+    .funnel-all {
+        margin-top: -120px;
+    }
+    .inpt .input-group .inptt {
+        border-radius: 5px;
+    }
+    .faq_heading h1 {
+        padding-bottom: 0px;
+    }
+    .need {
+        padding-right: 0px;
+    }
+    .review-heading h6{
+        margin-top: 0px;
+        padding: 0px 20px;
+    }
+    .get-hide2{
+        display: none;
+    }
+
+    .pic-side1 .sumbmit-new a {
+        font-size: 21px;
+    }
+    .ftr-input .icon1{
+        font-size: 30px;
+        padding: 0% 2% 0% 20%;
+    }
+    .fotter1 .ftr-input input{
+        border-radius: 0px 5px 5px 0px;
+    }
+    .fotter2 .ftr-input .icon1 {
+        padding: 0% 2% 0% 10%;
+    }
+    .get-show{
+        display: block;
+    }
+    .noleft, .noright{
+        padding: 0px;
+    }
+    .fotter3 .ftr-input .icon1 {
+        padding: 10px 22px 0px 0px;
+        padding-left: 15%;
+    }
+    .fotter3 .ftr-input .input-group .icon input {
+        font-size: 16px;
+        padding-left: 5%;
+        padding-right: 20%;
+    }
+
+    /*ashima media*/
+    .funnel_bdy .btns {
+        padding: 0px 70px 0px 70px;
+    }
+    .funnel_bdy .btns .btn {
+        width:100%;
+        min-height:67px;
+    }
+    .funnel_bdy h1 {
+        font-size:32px;
+        padding: 0px 20px 25px 20px;
+    }
+    .funnel_bdy p {
+        font-size: 17px;
+        padding: 0px 30px 10px 30px;
+    }
+    .funnel_bdy .btns .btn {
+        font-size:20px;
+        margin-top: 15px;
+    }
+    .funnel_bdy .btns .cont .btn_2,.funnel_bdy .btns .cont .btn.btn-fnnl{
+        margin-top: 15px;
+    }
+    .funnel_bdy .btns .cont .btn {
+        font-size: 24px;
+        width:100%;
+        margin-top: 35px;
+    }
+    .seekbar-progress [role="progressbar"]:after {
+        width: 90px;
+        height: 90px;
+        top: -30px;
+    }
+    .funnel_bdy .btns h1 {
+        padding-top:15px;
+        padding-bottom: 28px;
+    }
+    .funnel_bdy .btns .btn_color .btn {
+        width: 60%;
+    }
+    .funnel_bdy .btns .cont .btn_2 {
+        width:100%;
+        min-height: 55px;
+        font-size: 24px;
+        text-align: center;
+    }
+    .funnel_bdy .btns .cont input::placeholder{
+        text-align: center;
+    }
+    .funnel .funnel_1 .pg {
+        top: 10px;
+    }
+    .funnel_bdy .no_pgpadd{
+        padding: 0px 15px!important;
+    }
+    .funnel .funnel_1 .pg p {
+        font-size: 21px;
+    }
+    .funnel_bdy p .none{
+        display:none;
+    }
+    .funnel_bdy .btns .cont .wid{
+        width:87% !important;
+    }
+    .funnel_bdy {
+        padding:40px 0px 60px 0px;
+    }
+    .funnel_bdy h1 .last{
+        display:block;
+    }
+    #range {
+        width:93%;
+        margin-top: 44px;
+    }
+    #range_1,#range_3 {
+        width:93%;
+        margin-top:108px;
+    }
+    #range p{
+        padding:6px 0px 0px 30px;
+    }
+    #range_1 p, #range_3 p{
+        padding:6px 0px 0px 30px;
+    }
+    .funnel_bdy .btns .cont_mrg .btn{
+        margin-top: 150px;
+    }
+    .value {
+        color: #fff;
+
+        font-size: 64px;
+    }
+    .value_1,.value_3 {
+        font-size: 64px;
+    }
+
+    /*ashima media-end*/
+    .bdy-text .need h1 {
+        font-size: 30px;
+    }
+    .three-box {
+        margin-top: 25px;
+    }
+    .cont_review{
+        margin-top: 20px;
+    }
+    .sidenav{
+        margin-top: 29px;
+    }
+    .budget-wrap .header1 .title .pull-right {
+        font-size: 56px;
+    }
+    .budget-wrap .header1 .title .pull-left{
+        font-size: 56px;
+        margin-top: -30px;
+    }
+    .dot i{
+        margin-top: -52px;
+    }
+    .budget-wrap .header1 .for-doller {
+        left: 98px;
+        font-size: 56px;
+        top: 11px;
+    }
+    .header.funnel-header .hamburger{
+        display: none;
+    }
+    .header.funnel-header .brnd{
+        text-align: center;
+        margin: 0 auto;
+        float: unset;
+        width: 100%;
+        display: block;
+    }
+    .header.funnel-header .navbar-brand>img{
+        width:auto;
+        float: unset;
+    }
+} 
+@media(max-width:560px){
+    .service_realestate .padser {
+        padding: 0px 40px!important;
+    }
+    .budget-wrap .header1 .title{
+        margin-bottom: 13px;
+    }
+    .get-bottom{
+        min-height: 80px;
+    }
+    .header.funnel-header .navbar-brand>img{
+        width: 200px;
+    }
+    .step-content .container{
+        padding: 0px!important;
+    }
+
+    .need-all {
+        margin-top: 25px;
+    }
+    .ftr-input .icon1 {
+        font-size: 30px;
+        padding: 0% 2% 0% 15%;
+    }
+    .fotter1 .ftr-input .input-group .icon input {
+        padding-right: 20%;
+    }
+
+    .funnel_1 p{
+        margin-top: 0px;
+    }
+    .funnel .funnel_1 p {
+        font-size: 12px;
+    }
+    .funnel_1 p.btp {
+        font-size: 14px;
+        margin-top: 48px;
+        padding: 0px 36px;
+    }
+    .funnel .funnel_1 .pg p {
+        font-size: 18px;
+    }
+    /*    .pic-side1 .address input::placeholder{
+            font-size: 20px;
+        }*/
+    .pic-side1 .sumbmit-new a {
+        font-size: 21px;
+    }
+    .pic-side1 {
+        padding: 20px 20px;
+    }
+    .all{
+        width: 100% !important;
+        padding: 0% 6%;
+        margin: 40px 0px 0px 0px;
+    }
+    .bdy-text {
+        padding-top: 100px;
+        padding-bottom: 11px;
+    }
+    .fotter1 .pay-cash h1 {
+        font-size: 25px;
+    }
+    .fotter h1 {
+        font-size: 17px;
+    }
+    .fotter1 {
+        padding: 73px 0px;
+    }
+    .fotter1 .pay-cash h2 {
+        font-size: 38px;
+    }
+    .fotter h2 a {
+        font-size: 18px;
+    }
+    .navbar-brand>img {
+        margin-top: 0px;
+        width: 200px;
+    }
+    .brnd{
+        width: 80%;
+    }
+    .fotter .ftr-pr p {
+        font-size: 15px;
+    }
+    .fotter h2 {
+        margin: 18px 0px;
+    }
+    .fotter {
+        padding: 68px 0px 44px 0px;
+    }
+    .get {
+        padding-top: 110px;
+        padding-bottom: 28px;
+        margin-top: 0px;
+    }
+    .get-all {
+        padding-top: 105px;
+    }
+    .bdy-text .img-box p {
+        font-size: 15px;
+    }
+    .get h1 {
+        font-size: 39px;
+    }
+    .get p {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .three-box .three1, .three-box .three3{
+        padding: 43px 35px;
+    }
+    .three-box .three h1 {
+        margin-top: 37px;
+        margin-bottom: 25px;
+    }
+    .three-box .three2 {
+        padding: 88px 35px 36px 35px;
+    }
+    .bdy-text .need h2 {
+        margin-top: 15px;
+    }
+    .headerbottom {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        height: 64px;
+    }
+    .navbar-header{
+        padding: 13px 0px;
+    }
+    .review-pic {
+        margin-top: 24px;
+    }
+    .review-heading h6 {
+        font-size: 36px;
+        line-height: 45px;
+    }
+    .bdy-text .need p {
+        margin-top: 20px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .bdy-text .need h5 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .bdy-text .need h2 {
+        margin-top: 16px;
+        font-size: 19px;
+        line-height: 29px;
+    }
+    /*code-sidenav*/
+    .sidenav a {
+        .sidenav a {
+            padding: 16px 2px 16px 23px;
+        }
+    }
+    .funnel {
+        padding: 0px 0px 75px 0px;
+    }
+    .bdy-index {
+        padding-top: 53px;
+    }
+    .bdy-text .need h1 {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+    .get2 .obli p {
+        text-align: center;
+        font-size: 12px;
+    }
+    .bdy-text .need .pr {
+        margin-top: 19px;
+    }
+    .review_margin {
+        margin-top: -193px;/*gyanneww*/
+    }
+
+    .fotter3 .ftr-input .icon1 {
+        padding: 10px 22px 0px 40px;
+    }
+    .fotter3 .ftr-input .input-group .icon input {
+        padding-right: 15%;
+    }
+    .pic-side1 {
+        margin-bottom: 20px; 
+        margin-top: 30px; 
+    }
+    pic-sideindex{
+        margin-top: 0px;
+    }
+    .three-box {
+        margin-top: 16px;
+    }
+    .fotter1 .ftr-input .input-group .icon input, .fotter2 .ftr-input .input-group .icon input, .fotter3 .ftr-input .input-group .icon input {
+        font-size: 12px;
+    }
+    .fotter1 .ftr-input .input-group .icon input{
+        font-size: 13px;
+    }
+   
+    /*ashima media*/
+    .funnel_bdy .btns .btn {
+        font-size: 20px;
+        width: 100%;
+        min-height:55px;
+    }
+
+    .funnel_bdy .btns {
+        padding: 0px 30px 0px 30px;
+    }
+    .funnel_bdy h1 {
+        font-size: 30px;
+        padding: 0px 10px 25px 10px;
+    }
+    .funnel_bdy p {
+        font-size: 17px;
+    }
+    .funnel_bdy .btns .cont .btn {
+        width:100%;
+        font-size: 20px;
+    }
+    .funnel_bdy .btns h1 {
+        font-size: 41px;
+    }
+    .seekbar-progress [role="progressbar"]:after {
+        width: 75px;
+        height: 75px;
+        top: -24px;
+    }
+    .funnel_bdy .btns .cont .wid{
+        width:90% !important;
+    }
+    .funnel .funnel_1 .pg {
+        background-size:40%;
+        top: 13px;
+    }
+    .funnel_bdy p .colr {
+        display: inline-block;
+    }
+    .funnel_bdy .btns .cont .btn_2 {
+        font-size: 21px;
+    }
+    .value {
+        font-size: 56px;
+    }
+    /*ashima media-end*/
+    .navbar-brand{
+        width: 48%;
+    }
+    .navbar-brand.brnd.cnter img {
+        margin: 0 auto;
+        display: block;
+        float: none;
+        width: 52%;
+    }
+
+    .sidenav{
+        margin-top: -1px;
+    }
+    .sidenav a{
+        padding: 16px 8px 16px 40px;
+    }
+    .fotter1 .obli-ftr{
+        font-size: 15px;
+    }
+    .header .hamburger {
+        margin-top: 0px;
+    }
+    .budget-wrap .header1 .for-doller {
+        left: 19%;
+        font-size: 56px;
+        top: 11px;
+    }
+    .budget-wrap{
+        padding: 40px 0px;
+    }
+    .header .hamburger{
+        padding-top: 7px;
+    }
+    .hamburger.is-active{
+        height: 35px;
+        padding: 5px 0px 0px 4px;
+        width: 35px;
+    }
+
+}
+@media(max-width:440px){
+
+
+    .lgo img{
+        margin-top: 0px;
+    }
+    /*ashima media*/
+
+    /*ashima media-end*/
+
+}
+@media(max-width:414px){
+    .funnel_bdy .btns .cont .btn.mgtfun20{
+        margin-top: 20px!important;
+    }
+    .service_realestate .padser {
+        padding: 0px 10px!important;
+    }
+    .new2 .rangeslider__handle{
+        background: #000 url(../img/pg_50.png) no-repeat center left 65% !important;
+        background-size: 49px !important;
+    }
+    .pic-side1 .input-group,.fotter1 .input-group{
+        width:100%;
+    }
+    .rangeslider__handle{
+        width: 80px;
+        height: 80px;
+        margin-top: -8px;
+        background-size: 50px;
+    }
+    .budget-wrap .header1 .title {
+        margin-bottom: 0px;
+    }
+    .tittle-fnnl{
+        margin-bottom: 20px!important;
+    }
+    .container {
+        width: 100%;
+        padding: 0px 20px!important;
+    }
+    .funnel_1 p.btp {
+        font-size: 13px;
+        margin-top: 48px;
+        padding: 0px 12px;
+    }
+    .funnel .funnel_1 .pg p {
+        font-size: 16px;
+    }
+
+    .navbar-brand{
+        width: 70%;
+    }
+    .pic-side1 .sumbmit-new a {
+        font-size: 18px;
+    }
+    .review-pic {
+        margin-top: 0px;
+    }
+    .fotter3 .ftr-input .icon1 {
+        padding: 10px 22px 0px 25px;
+    }
+    .fotter1 .ftr-input .input-group .icon input, .fotter2 .ftr-input .input-group .icon input, .fotter3 .ftr-input .input-group .icon input {
+        font-size: 12px;
+        padding-right: 15%;
+    }
+
+    
+    .privacy .heading {
+        padding: 0px 0px;
+        font-size: 26px;
+    }
+    .privacy .content_privacy p {
+        padding-bottom: 7px;
+        font-size: 17px;
+
+    }
+    .privacy .content_privacy .cap_bold, .privacy .content_privacy .bold {
+        font-size: 17px;
+    }
+    .need-all {
+        margin-top: 0px; 
+    }
+    .fotter h1 {
+        font-size: 14px;
+    }
+    .fotter h2 span {
+        padding: 0px 2px;
+    }
+    .bdy-text .need h5 {
+        font-size: 18px;
+        line-height: 27px;
+    }
+    .all{
+        width: 100% !important;
+        padding: 0% 0%;
+        margin: 50px 0px 0px 0px;
+    }
+    .navbar-brand>img {
+        margin-top: 3px;
+        width: 165px;
+    }
+
+    .three-box {
+        margin-top: 3px;
+    }
+    .bdy-text .need h1 {
+        font-size: 26px;
+        margin-bottom: 10px;    
+    }
+    .get p {
+        font-size: 17px;
+        line-height: 24px;
+    }
+    .get2 .obli p {
+        font-size: 11px;
+        margin-bottom: 13px;
+    }
+    .get p i {
+        font-size: 17px;
+    }
+    .get {
+        padding-top: 96px;
+        padding-bottom: 28px;
+        margin-top: 0px;
+    }
+    .get-all {
+        padding-top: 96px;
+    }
+    .bdy-text .need p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .fotter1 .pay-cash h1 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .fotter h2 a {
+        font-size: 15px;
+    }
+    .fotter h2 {
+        margin: 11px 0px;
+    }
+    .fotter1 .pay-cash h2 {
+        font-size: 29px;
+    }
+    .fotter1 .pay-cash p {
+        font-size: 11px;
+        margin: 12px 0px;
+    }
+    .fotter1 {
+        padding: 45px 0px;
+        margin-top: 30px;
+    }
+    .bdy-text .need h2 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .headerbottom {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        height: 62px;
+    }
+    .get3 .inpt-box p {
+        font-size: 40px;
+        margin-top: 10px;
+    }
+    .bdy-text {
+        padding-top: 116px;
+    }
+    .bdy-index {
+        padding-top: 33px;
+    }
+
+    .ftr-input .icon input{
+        padding-left: 0px;
+    }
+    .ftr-input .icon1 {
+        font-size: 20px;
+        padding: 0% 3% 0% 10%;
+    }
+    .get3 .submit a, .fotter1 .submit1 a {
+        font-size: 15px;
+    }
+
+    /*ashima media*/
+    .funnel_bdy .btns .btn {
+        font-size: 14px;
+        width: 100%;
+        min-height: 51px;
+    }
+    .funnel_bdy .btns {
+        padding: 0px 30px 0px 30px;
+    }
+    .funnel_bdy h1 {
+        font-size: 26px;
+        padding: 0px 7px 25px 7px;
+    }
+    .funnel_bdy p {
+        padding: 0px 7px 10px 7px;
+        font-size: 15px;
+    }
+    .funnel .funnel_1 .pg {
+        background-size: 50%;
+        top: 13px;
+    }
+    #range p, #range_1 p, #range_2 p, #range_3 p {
+        padding: 10px 0px 0px 30px;
+        font-size: 10px;
+    }
+    #range .ui-slider-range:before, #range_1 .ui-slider-range:before, #range_3 .ui-slider-range:before, #range_2 .ui-slider-range:before {
+        font-size: 10px;
+        padding-top: 10px;
+    }
+    .funnel_bdy .btns .cont .btn {
+        width: 100%;
+        margin-top: 55px;
+    }
+    .funnel_bdy .btns .cont_mrg .btn{
+        margin-top: 140px;
+    }
+    .funnel {
+        padding: 0px 0px 78px 0px;
+    }
+    /*ashima media-end*/
+    .sidenav a {
+        padding: 10px 8px 12px 2px;
+        font-size: 11px;
+    }
+    .val{
+        font-size: 51px;
+    }
+    .funnel_bdy .cont_mrg1{
+        margin-top: 70px !important;
+    }
+    .sidenav a.bth {
+        margin-top: -5px;
+    }
+    .sidenav a {
+        font-size: 14px;
+        padding: 16px 8px 16px 23px;
+    }
+    .value_1, .value_3,.value_2 {
+        font-size: 46px;
+    }
+    .value {
+        font-size: 46px;
+    }
+    .navbar-brand.brnd.cnter img {
+        width: 64%;
+    }
+
+    .sidenav{
+        margin-top: -3px;
+    }
+    .get-review{
+        margin-top: -94px;
+    }
+    .val-reviw {
+        margin-top: -166px;
+    }
+    .header .hamburger{
+        padding: 5px 0px 0px 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+    }
+    .header .hamburger.is-active{
+        padding: 5px 0px 0px 4px;
+        margin-right: 0px;
+        margin-top: -2px;
+    }
+    .pic-side1 .input-group {
+        display: block;
+        float: unset;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .fotter1 .obli-ftr{
+        font-size:13px;
+    }
+    .fotter3 .ftr-input .input-group .icon input {
+        padding-right: 10%;
+        font-size: 13px;
+    }
+    .budget-wrap .header1 .title .pull-left {
+        font-size: 35px;
+        margin-top: -30px;
+    }
+    .budget-wrap .header1 .title .pull-right {
+        font-size: 35px;
+    }
+    .budget-wrap {
+        padding: 10px 0px;
+    }
+    .dot i {
+        margin-top: -69px;
+    }
+    .header.funnel-header .navbar-brand>img {
+        width: 180px;
+    }
+}
+
+@media (max-width: 320px)
+{
+
+}

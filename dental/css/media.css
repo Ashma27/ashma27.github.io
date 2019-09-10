@@ -1,0 +1,87 @@
+
+
+@media(max-width:1366px){
+    .section2 .right h1 {
+        font-size: 75px;
+        line-height: 79px;
+    }
+    .new_smile h1 {
+        font-size: 85px;
+    }
+.new_smile h2 {
+    font-size: 20px;
+}
+.new_smile a {
+    font-size: 20px;
+    margin-top: 82px;
+}
+}
+@media(max-width:1199px){
+.section2 .right h1 {
+    font-size: 61px;
+    line-height: 65px;
+    padding-bottom: 20px;
+}
+.new_smile .plan h3 {
+    font-size: 55px;
+    line-height: 52px;
+}
+.new_smile .plan p {
+    font-size: 18px;
+    padding: 10px 0px;
+}
+.new_smile .plan a {
+    font-size: 16px;
+}
+.new_smile .plan {
+    padding: 19px 58px 37px;
+}
+.new_smile h1 {
+    font-size: 80px;
+}
+.new_smile .inner {
+    padding: 85px 0px 130px;
+}
+.section2 .right p, .section4 .discover p {
+    font-size: 18px;
+    padding-top: 11px;
+}
+.section3 h1 {
+    font-size: 40px;
+    line-height: 60px;
+}
+.section3 .section3_right a, .section4 .discover a {
+    font-size: 18px;
+    padding: 8px 26px;
+    margin-top: 40px;
+}
+.dentist h2 {
+    font-size: 70px;
+}
+}
+@media screen and (min-width: 992px) and (max-width: 1199px) { 
+
+} 
+@media(max-width:991px){
+
+}
+@media screen and (min-width: 768px) and (max-width: 991px) { 
+
+}
+@media(max-width:768px){
+
+}
+@media(max-width:767px){
+    .header .hamburger{
+        display: block;
+    }
+}
+@media(max-width:560px){
+
+}
+@media(max-width:414px){
+
+}
+@media(max-width:320px){
+
+}
