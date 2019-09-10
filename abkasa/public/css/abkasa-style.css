@@ -1,0 +1,44 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 17, 2018, 12:56:13 PM
+    Author     : Mohit Kant Gupta
+*/
+
+.error{
+    color:red;
+}
+
+.login-panel,.panel,.panel-default,.form-control,.btn,.panel-heading{
+    border-radius: 0px;
+}
+
+.abkasa-label{
+    margin-top: 5px;
+}
+
+.float-right{
+    float: right;
+   /* box-shadow: 0 5px 16px -1px #006739;*/
+}
+
+.fa-plus-square,.fa-image,.fa-pencil-square-o,.fa-trash-o{
+    font-size: 16px;
+}
+
+.table td ,tr th {
+   text-align: center;   
+}
+.loader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100% ;
+    height: 100% ;
+    z-index: 9999;
+    background: url('../image/load.gif') 50% 50% no-repeat rgb(249, 249, 249);
+    opacity: .8;
+}

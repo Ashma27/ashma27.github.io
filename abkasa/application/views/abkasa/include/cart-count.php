@@ -1,0 +1,1 @@
+<span class="cartitem"><i><?php echo count($this->cart->contents()); ?></i></span>
