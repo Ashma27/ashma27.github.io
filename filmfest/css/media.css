@@ -1,0 +1,511 @@
+@media(min-width:1500px){
+    .widthres1{
+        width:20%;
+    } 
+    .widthres2{
+        width:80%;
+    } 
+}
+
+@media(max-width:1199px){
+
+    /*index page start*/
+    .section1 .camdon {
+        padding: 35px 30px;
+    }
+    .section1 .camdon h1 {
+        font-size: 24px;
+    }
+    .section1 .camdon p {
+        font-size: 13px;
+        padding-top: 5px;
+    }.section1 .camdon .date a {
+        font-size: 12px;
+    }
+    .section1 .camdon .date h2 {
+        font-size: 13px;
+    }
+    .section1 .fest h3 {
+        font-size: 17px;
+        letter-spacing: 9px;
+    }
+    .section1 .left {
+        padding: 30px 10px 0px 50px;
+    }
+
+    .section1 .left .left1 p {
+        line-height: 16px;
+        font-size: 11px;
+    }
+    .section1 .left .inner .fa-star {
+        color: #0F1E2B;
+        font-size: 10px;
+    }
+    .scrollleftinner {
+        padding: 40px 00px 0px 36px;
+    }
+
+    /*movie page start*/
+
+    .section1 .section0 {
+        padding-left: 120px;
+    }
+    .section2 .detail p span{
+        display: inline;
+    }
+    .section2 .detail ul li,.section7 .detail ul li {
+        font-size: 11px;
+        line-height: 30px;
+        letter-spacing: 5px;
+    }
+    .section2 .detail .bla,.section7 .detail .bla {
+        letter-spacing: 0px;
+        font-size: 12px;
+    }
+
+
+    .section2 .detail h3 {
+        letter-spacing: 4px;
+        font-size: 12px;
+        padding: 0px;
+    }
+    .section2 .detail h2 {
+        font-size: 10px;
+        letter-spacing: 5px;
+        padding: 0px 15px 15px 0px;
+    }
+    .section2 .detail p {
+        font-size: 13px;
+        line-height: 26px;
+    }
+    .section2 .detail .director,.section7 .detail .director {
+        padding: 9px 0px 2px 0px;
+    }
+
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) { 
+
+} 
+@media(max-width:991px){
+    .section2 .detailbox {
+        padding-left: 10px;
+    }
+    /*index page start*/
+    .section1 .camdon {
+        padding: 25px 15px;
+    }
+    .section1 .camdon h1 {
+        line-height: 27px;
+        font-size: 14px;
+    }
+    .section1 .camdon .date a {
+        font-size: 11px;
+        padding: 9px 14px;
+        margin-top: 5px;
+    }
+    .section1 .camdon .date h2 {
+        font-size: 12px;
+        padding: 0px 35px 0px 0px;
+    }
+    .section1 .camdon p {
+        font-size: 12px;
+        padding-top: 3px;
+    }
+    .section1 .left {
+        padding: 14px 3px 0px 46px;
+    }
+    .section1 .left .left1 p {
+        line-height: 13px;
+        font-size: 9px;
+    }
+    .section1 .left .inner .fa-star {
+        font-size: 7px;
+        padding: 0px 0px 0px 4px;
+    }
+    .section1 .fest {
+        background-color: #142738;
+        padding: 50px 0px 0px 29px;
+    }
+
+    .section7 .detail1 h4 {
+        font-size: 16px;
+        padding: 6px 0px 0px 0px;
+    }
+    .section2 .detail p, .section7 .detail p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .section1 .left .inner {
+        left: 19%;
+        top: 15%;
+    }
+    .section22 .scrool-hidden {
+        margin-bottom: 0px; 
+    }
+
+
+
+    /*movie page start*/
+
+    .section1 .section0 {
+        padding-left: 120px;
+    }
+    .section2 {
+        padding: 15px 0px 20px 85px;
+    }
+    .section22 {
+        padding: 0px 0px 0px 30px;
+
+    }
+    .section2 .col-sm-5{
+        padding-left: 0px;
+    }
+    .section2 .detail h2 {
+        font-size: 10px;
+        letter-spacing: 4px;
+        padding: 0px 5px 15px 0px;
+    }
+
+    /*section5 page start*/
+
+    .section5 {
+        padding: 13px 13px 0px 97px;
+    }
+    .section5 h1{
+        margin-bottom: 0px;
+    }
+
+    /*vault page start8*/
+
+    .section3{
+        padding-top: 0px;
+    }
+    .section7 .detail1 {
+        padding: 13px 0px 30px 85px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px) { 
+
+}
+@media(max-width:768px){
+
+}
+@media(max-width:767px){
+    .header .hamburger{
+        display: block;
+    }
+    /*index page start*/
+    .section1 .camdon {
+        padding: 25px 15px 25px 80px;
+    }
+    .section1 .left .left1 {
+        position: relative;
+        width: 235px;
+        float: left;
+    }
+    .union{
+        margin: 0px;
+    }
+    .section1 .left{
+        width: 1800px;
+        padding: 0px 3px 18px 53px;
+    }
+    .section1 .scrol{
+        overflow: hidden;
+        overflow-x: scroll;
+    }
+    .section1 .left .left1 p {
+        line-height: 20px;
+        font-size: 13px;
+    }
+    .section1 .left .inner .fa-star {
+        font-size: 13px;
+        padding: 0px 0px 0px 5px;
+    }
+    .section1 .left .inner {
+        left: 15%;
+        top: 22%;
+    }
+    .scrollleftinner{
+        overflow: scroll;
+        overflow-y: hidden;
+        overflow-x: auto;
+
+    }
+    .scrollleftinner::-webkit-scrollbar {
+        width: 100%;
+        height: 5px;
+    }
+    .section1 .scrolleft .left,.height100vh{
+        height: auto;
+        /*        width: 100%;*/
+    }
+    .scrollrightsec{
+        overflow: scroll;
+        overflow-y: hidden;
+        overflow-x: auto;
+    }
+    /*section5 start*/
+
+    .section5 {
+        padding: 27px 12px 0px 76px;
+    }
+    .section1 .fest {
+        padding: 50px 0px 0px 85px;
+    }
+
+    /*movie page start*/
+    .section1 .section0 {
+        padding-left: 80px;
+    }
+    .section2 {
+        padding: 10px 10px 20px 100px;
+    }
+    .section22 {
+        padding: 0px 10px 20px 19px;
+    }
+    .section2 .detail .director, .section7 .detail .director {
+        display: inline-flex;
+    }
+    .section1 .fest h3, .section2 .fest h3 {
+        font-size: 16px;
+        letter-spacing: 8px;
+    }
+    .section2 .detail p {
+        padding-bottom: 15px;
+    }
+    .section1 .camdon h1 {
+        line-height: 25px;
+        letter-spacing: 6px;
+        font-size: 12px;
+        padding-left: 10px;
+    }
+    .section1 .camdon .date h2 {
+        font-size: 11px;
+        padding: 0px 29px 0px 0px;
+    }
+    .section1 .camdon .date a {
+        font-size: 10px;
+        margin-top: 1px;
+    }
+
+    /*vault page start8*/
+
+    .section3{
+        padding-top: 0px;
+    }
+
+    .section7 .detail .col-sm-4{
+        padding-left: 0px;
+    }
+}
+@media(max-width:560px){
+    /*sidenav start*/
+    .sidenav .three {
+        padding: 30px 8px;
+    }
+
+    .sidenav .festi1 {
+        font-size: 20px;
+        right: -10%;
+    }
+    .sidenav {
+        left: -265px;
+        width: 310px;
+    }
+    .hamburger {
+        padding: 10px 10px;
+    }
+    .sidenav .fa-search {
+        top: 7%;
+        padding: 15px 10px;
+    }
+    .sidenav .down_img .three {
+        padding: 12px 8px;
+    }
+    .sidenav .star {
+        padding: 4px 8px;
+    }
+    .sidenav .festi {
+        font-size: 23px;
+        margin: 20px 0px 50px 0px;
+    }
+    .sidenav .pass {
+        font-size: 23px;
+    }
+    .sidenav p {
+        font-size: 11px;
+        padding: 0px 0px 20px 25px;
+    }
+    .sidenav .coming {
+        font-size: 8px;
+        padding: 3px 5px;
+    }
+    .sidenav .search1 input {
+        font-size: 20px;
+    }
+    .section1 .camdon h1 {
+        border: none;
+    }
+    .section1 .section0 {
+        padding-left: 35px;
+    }
+
+    /*section5 start*/
+
+    .section5 h1 {
+        font-size: 15px;
+        letter-spacing: 7px;
+    }
+    .section5 p {
+        font-size: 11px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+    .section1 .fest {
+        padding: 50px 0px 0px 60px;
+    }
+
+    /*movie page start*/
+
+    .section1 .col-sm-6{
+        width: 100%;
+        text-align: center;
+    }
+    .section1 .camdon .date a {
+        margin: 0 auto;
+        display: block;
+        float: unset;
+        width: max-content;
+    }
+    .section1 .camdon .date h2{
+        text-align: center;
+    }
+    .section2 {
+        padding: 0px 10px 20px 60px;
+    }
+    .section22 {
+        padding: 0px 10px 20px 10px;
+    }
+    /*section4 start*/
+
+    .section4 .oxford h1 {
+        font-size: 18px;
+        letter-spacing: 7px;
+        line-height: 30px;
+        margin: 7px 0px;
+    }
+    .section4 .oxford p {
+        padding: 0px 0px 13px 0px;
+        font-size: 13px;
+    }
+    .section4 .oxford a {
+        margin-top: 20px;
+        font-size: 11px;
+        padding: 11px 15px;
+    }
+    .section4 .oxford h2 {
+        font-size: 12px;
+    }
+    .section4 .oxford {
+        padding: 9px 0px 20px 0px;
+    }
+
+    /*search page start*/
+
+    .section5 {
+        padding: 27px 12px 0px 45px;
+    }
+
+    /*vault page start*/
+
+    .section3{
+        padding: 0px 10px 20px 60px;
+    }
+    .section7 .detail ul li {
+        font-size: 11px;
+        line-height: 25px;
+    }
+    .section7 .detail p span {
+        display: inline;
+    }
+    .dropdown .dropdown-toggle {
+        font-size: 12px;
+        letter-spacing: 2px;
+        padding-left: 6px;
+    }
+    .section1 .fest h3, .section2 .fest h3 {
+        font-size: 12px;
+        letter-spacing: 5px;
+    }
+    .festivel .fest .audi {
+        padding: 15px 0px;
+    }
+    .section2 .detail p{
+        padding-bottom: 0px;
+    }
+    .section7 .detail1 {
+        padding: 13px 0px 30px 0px;
+    }
+
+}
+@media(max-width:414px){
+
+    /*index page start*/
+
+    .section1 .camdon {
+        padding: 25px 15px 25px 35px;
+    }
+
+    /*movie page start*/
+
+    .section2 {
+        padding: 0px 10px 10px 54px;
+    }
+    .section22 {
+        padding: 0px 10px 10px 5px;
+    }
+    .section2 .detail h2 {
+        font-size: 9px;
+    }
+    .section1 .section0 {
+        padding-left: 40px;
+    }
+
+    /*section5 start*/
+
+    .section5 {
+        padding: 10px 6px 0px 45px;
+    }
+    .section5 .col-xs-6{
+        width: 100%;
+    }
+    .section5 img {
+        margin-top: 20px;
+    }
+    .section5 h1 {
+        font-size: 14px;
+        letter-spacing: 5px;
+
+    }
+    /*vault page start*/
+
+    .section3{
+        padding: 0px 10px 0px 53px;
+    }
+    .dropdown .dropdown-toggle {
+        font-size: 11px;
+        letter-spacing: 0px;
+        padding-left: 0px;
+    }
+    .header {
+        display: inline-flex;
+        float: right;
+        padding: 10px 0px 10px 0px;
+    }
+
+}
+@media(max-width:320px){
+
+}

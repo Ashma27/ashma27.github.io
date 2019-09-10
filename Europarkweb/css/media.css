@@ -1,0 +1,871 @@
+@media(max-width:1650px){
+    .container{
+        width: 1340px;
+    }
+    .navbar>.container-fluid .navbar-brand{
+        width: 240px;
+    }
+    .leftside .navbar-nav:first-child {
+        padding-top: 5px;
+        padding-bottom: 30px;
+    }
+    .header .navbar-default .navbar-nav > li > a {
+        font-size: 17px;
+    }
+    .leftside .navbar-nav:last-child li:last-child {
+        width: 11%;
+    }
+    .banner .slider {
+        width: 88%;
+        margin-left: 6%;
+        padding: 102px 0 237px;
+    }
+    .slide, .slide1, .slide2 {
+        padding-top: 144px;
+    }
+    .search ul li, .blize .etno ul li {
+        padding: 0px 28px;
+    }
+    .aktualno-single{
+        min-height: 460px;
+    }
+    .blize .etno ul li{
+        padding: 25px 0;
+    }
+    .blogsection{
+        margin-top: -70%;
+    }
+    .magicini .container, footer .container {
+        padding: 0px 90px;
+    }
+    .slideCount {
+        right: -7%;
+    }
+} 
+@media(max-width:1370px){
+    .container{
+        width: 1170px;
+    }
+    .leftside{
+        padding-right: 30px;
+    }
+    .rightside {
+        padding-left: 40px;
+    }
+    .header .navbar-default .navbar-nav > li > a {
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+    .leftside .navbar-nav:last-child li:first-child {
+        width: 26%;
+    }
+    .leftside .navbar-nav:last-child li {
+        width: 15.3%;
+    }
+    .banner .slider h1 {
+        font-size: 65px;
+    }
+    .banner .slider p {
+        font-size: 18px;
+        padding: 5px 30px;
+        margin: 15px 0;
+    }
+    .banner .slider ul li i {
+        font-size: 15px;
+    }
+    .banner .slider ul li {
+        font-size: 20px;
+    }
+    .banner .slick-prev {
+        left: 3%;
+    }
+    .banner .slick-next {
+        right: 4%;
+    }
+    .search form input[type=search] {
+        background: #fff url(../icons/serch-blue.svg) no-repeat top 31px left 36px;
+        background-size: 35px 35px;
+        padding: 9px 10px 9px 32px;
+        height: 75px;
+        width: 70px;
+        font-size: 20px;
+    }
+    #demo-2 input[type=search]:focus {
+        width: 225px;
+        padding-left: 80px;
+    }
+    .search ul li a {
+        font-size: 13px;
+    }
+    .search ul li img {
+        width: 35px;
+    }
+    .search ul li{
+        padding: 0px 20px;
+    }
+    .banner .slider {
+        width: 90%;
+        margin-left: 5%;
+        padding: 80px 0 217px;
+    }
+    .aktualno-single h2 {
+        font-size: 35px;
+    }
+    .aktualno-single p {
+        font-size: 15px;
+        padding: 25px 0 35px;
+    }
+    .aktualno-single {
+        min-height: 375px;
+    }
+    .blize .etno ul {
+        padding: 14px 60px;
+        margin: 20px 0;
+    }
+    .slidedini .slide p {
+        font-size: 14px;
+        padding-top: 20px;
+    }
+    .slidedini .slide h2 {
+        font-size: 30px;
+        padding: 18px 30px;
+    }
+    .slidedini .slide .blue {
+        min-height: 90px;
+        padding-top: 30px;
+        margin-top: -42px;
+    }
+    .slidedini .slide h2 span {
+        font-size: 18px
+    }
+    .blize .etno ul li {
+        padding: 16px 0;
+    }
+    .blize .etno ul li:first-child {
+        padding: 26px 0;
+    }
+    .blogsection h1 {
+        font-size: 85px;
+    }
+    .blogsection h2 {
+        font-size: 20px;
+    }
+    .blogsection p {
+        font-size: 13px;
+    }
+    .blogsection {
+        margin-top: -62%;
+        padding: 20px 30px 20px 60px;
+    }
+    .aktualno h1 {
+        font-size: 60px;
+        margin: 70px auto;
+    }
+    .blize h1{
+        margin-bottom: 40px;
+    }
+    .kam-denis.aktualno h1 {
+        margin: 0 0 60px;
+    }
+    .kam-denis.aktualno table tr th {
+        font-size: 16px;
+    }
+    .kam-denis.aktualno table tr td {
+        font-size: 14px;
+        padding-bottom: 5px;
+    }
+    .kam-denis.aktualno table tr:nth-child(2) {
+        padding-top: 30px;
+    }
+    .kam-denis.aktualno table tr:last-child {
+        padding-bottom: 30px;
+    }
+    .kam-denis.aktualno .tableset ul {
+        margin: 30px 0;
+    }
+    .kam-denis.aktualno .tableset ul li img {
+        width: 30px;
+    }
+    .searchTerm, .searchButton {
+        height: 45px;
+    }
+    .kam-denis-left ul li {
+        padding: 10px 0 10px 40px;
+    }
+    .kam-denis-left ul li:first-child img {
+        width: 35px;
+    }
+    .kam-denis-left ul li img {
+        width: 33px;
+    }
+    .kam-denis-left ul li span {
+        padding-left: 35px;
+    }
+    .kam-denis-left ul li a {
+        font-size: 15px;
+    }
+    .kam-denis-left .trmap {
+        width: 35px;
+        right: 16%;
+        top: 5%;
+    }
+    .kam-denis-left ul {
+        margin-top: 26.3%;
+    }
+    .postbox .head h2 {
+        padding: 15px 16px 0;
+    }
+    .postbox .head h1 {
+        font-size: 23px;
+        padding: 7px 16px;
+    }
+    .postbox a {
+        padding: 20px 15px;
+        left: 44%;
+        top: 32%;
+    }
+    .postbox p {
+        font-size: 12px;
+    }
+    .disc {
+        padding: 15px 15px 30px;
+    }
+    .networking .networks li img {
+        width: 45px;
+    }
+    .networking .networks li:nth-child(4) img {
+        width: 25px;
+    }
+    .networking .networks li:nth-child(5) img, .networking .networks li:nth-child(6) img {
+        width: 38px;
+    }
+    .networking .networks li span {
+        display: block;
+        padding-top: 30px;
+    }
+    .networking .networks li:nth-child(5) span {
+        padding-top: 24px;
+    }
+    .networking .networks {
+        margin-bottom: 70px;
+    }
+    .networking .networks li a {
+        font-size: 14px;
+    }
+    .private h2 {
+        font-size: 35px;
+    }
+    .private .searchButton {
+        font-size: 12px;
+        padding: 0 20px;
+    }
+    .searchTerm, .searchButton {
+        height: 37px;
+    }
+    .styled-checkbox + label {
+        font-size: 12px;
+    }
+    .styled-checkbox + label:before {
+        margin-right: 7px;
+        width: 15px;
+        height: 15px;
+    }
+    .styled-checkbox:checked + label:after {
+        left: 3px;
+        top: 5px;
+        width: 9px;
+        height: 8px;
+    }
+    .private .privateleft {
+        padding: 50px 20px 40px 10%;
+    }
+    .private .privateleft ul {
+        padding: 20px 0 0;
+    }
+    .private .privateleft p {
+        font-size: 13px;
+        padding-bottom: 7px;
+    }
+    .toggle-switch-box {
+        margin: 10px 0 15px;
+    }
+    .toggle-switch-box .toggle-switch-item {
+        min-width: 80px;
+        min-height: 30px;
+    }
+    .toggle-switch-box .toggle-switch-item .switch-button {
+        width: 26px;
+        height: 26px;
+    }
+    .toggle-switch-box input:checked + .toggle-switch-item .switch-button {
+        left: calc(100% - 30px);
+    }
+    .toggle-switch-box .toggle-switch-item::before, .toggle-switch-box .toggle-switch-item::after{
+        font-size: 15px;
+    }
+    .private {
+        padding-bottom: 8px;
+    }
+    .speak{
+        padding-top: 30px;
+        margin: 0;
+    }
+    .magicini h1 {
+        font-size: 34px;
+    }
+    footer {
+        padding: 70px 0;
+    }
+    footer ul li:first-child, .bottomfooter h1 {
+        font-size: 15px;
+    }
+    .magicini .container, footer .container {
+        padding: 0px 70px;
+    }
+}
+@media(max-width:1200px){
+    .container{
+        width: 950px;
+    }
+    .navbar>.container-fluid .navbar-brand {
+        width: 175px;
+    }
+    .header .navbar-default .navbar-nav > li > a {
+        font-size: 13px;
+        padding: 13px 6px;
+    }
+    .leftside .navbar-nav:last-child li:first-child {
+        width: 28%;
+    }
+    .leftside .navbar-nav:last-child li {
+        width: 14.3%;
+    }
+    .leftside .navbar-nav:first-child {
+        padding-bottom: 17px;
+    }
+    .banner .slider h1 {
+        font-size: 50px;
+        line-height: 45px;
+    }
+    .banner .slider p {
+        font-size: 15px;
+        padding: 3px 25px;
+        margin: 10px 0;
+    }
+    .banner .slider ul li i {
+        font-size: 13px;
+    }
+    .banner .slider ul li {
+        font-size: 14px;
+    }
+    .banner .slider a {
+        font-size: 13px;
+        margin-top: 20px;
+    }
+    .search form {
+        height: 60px;
+        width: 60px;
+    }
+    .search form input[type=search] {
+        background: #fff url(../icons/serch-blue.svg) no-repeat top 20px left 26px;
+        background-size: 30px 30px;
+        padding: 9px 10px 9px 32px;
+        height: 50px;
+        width: 40px;
+        font-size: 15px;
+    }
+    #demo-2 input[type=search]:focus {
+        width: 220px;
+        padding-left: 65px;
+    }
+    .search ul li img {
+        width: 30px;
+    }
+    .search ul li a {
+        font-size: 12px;
+    }
+    .search ul li {
+        padding: 0px 14px;
+    }
+    .search ul li span {
+        max-height: 66px;
+    }
+    .slide, .slide1, .slide2 {
+        padding-top: 130px;
+    }
+    .banner .slider {
+        padding: 55px 0 190px;
+    }
+    .aktualno h1 {
+        font-size: 50px;
+        margin: 50px auto;
+    }
+    .aktualno-single h2 {
+        font-size: 30px;
+    }
+    .aktualno-single p {
+        font-size: 14px;
+        padding: 15px 0 25px;
+    }
+    .aktualno-single {
+        min-height: 335px;
+    }
+    .aktualno-single a {
+        font-size: 12px;
+        padding: 10px 30px;
+    }
+    .blize .etno ul {
+        padding: 14px 45px;
+    }
+    .blogsection h1 {
+        font-size: 75px;
+    }
+    .blogsection {
+        margin-top: -82%;
+    }
+    .kam-denis {
+        padding: 70px 5% 40px 0;
+    }
+    .kam-denis-left ul li span {
+        padding-left: 20px;
+    }
+    .kam-denis.aktualno table {
+        width: 85%;
+        margin-left: 15%;
+    }
+    .kam-denis.aktualno h1 {
+        margin: 0 0 45px;
+    }
+    .kam-denis.aktualno table tr td {
+        font-size: 12px;
+    }
+    .kam-denis.aktualno table tr th span:before {
+        bottom: -11px;
+        height: 4px;
+    }
+    .kam-denis.aktualno table tr:last-child {
+        padding-bottom: 20px;
+    }
+    .kam-denis.aktualno table tr:nth-child(2) {
+        padding-top: 20px;
+    }
+    .kam-denis.aktualno .tableset ul {
+        margin: 30px 0;
+    }
+    .speak {
+        padding-top: 100px;
+        margin: 0;
+    }
+    .magicini .container, footer .container {
+        padding: 0px 50px;
+    }
+    .magicini h1 {
+        font-size: 30px;
+    }
+    .magicini p {
+        font-size: 14px;
+    }
+    .magicini ul li{
+        padding-right: 3%;
+    }
+    footer ul li:first-child, .bottomfooter h1 {
+        font-size: 14px;
+        padding-bottom: 15px;
+    }
+    footer ul li a, .centerbt p {
+        font-size: 14px;
+    }
+    .bottomfooter .col-sm-3:first-child img {
+        padding-left: 0;
+    }
+    .rightbt h1:nth-child(2), .rightbt span {
+        padding-top: 15px;
+    }
+    .rightbt ul li {
+        display: inline-block;
+        width: 40px;
+    }
+    .rightbt ul li:nth-child(3) {
+        width: 30px;
+    }
+    footer .rightbt ul {
+        width: 152px !important;
+    }
+}
+@media(max-width:991px){
+    .header .hamburger {
+        display: block;
+    }  
+    .container{
+        width: 740px;
+    }
+    .container-fluid>.navbar-header{
+        width: 100%;
+        margin: 0;
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .header{
+        padding-bottom: 10px;
+    }
+    .slide, .slide1, .slide2 {
+        padding-top: 78px;
+    }
+    .search .col-sm-3{
+        display: none;
+    }
+    .search ul{
+        width: 100%;
+    }
+    .search ul li{
+        width: 12.5%;
+        text-align: center;
+    }
+    .search {
+        padding: 15px 0;
+    }
+    .banner .slider {
+        padding: 55px 0 81px;
+    }
+    .aktualno-single {
+        min-height: 310px;
+    }
+    .blize .etno ul {
+        padding: 7px 20px;
+    }
+    .blogsection {
+        margin-top: -73%;
+    }
+    .networking .networks {
+        width: 80%;
+        margin-left: 10%;
+    }
+    .private .privateleft ul li {
+        width: 30%;
+    }
+    .magicini .container, footer .container {
+        padding: 0px 0px;
+    }
+    footer ul li {
+        padding-bottom: 4px;
+        padding-right: 15px;
+    }
+    footer {
+        padding: 50px 0 30px;
+    }
+    footer ul li:first-child, .bottomfooter h1 {
+        font-size: 13px;
+    }
+    .postbox.tweet a{
+        padding-top: 0;
+    }
+    .kam-denis-left ul li {
+        padding: 10px 0 10px 15px;
+    }
+    .networking .networks li a {
+        font-size: 13px;
+    }
+    .styled-checkbox + label {
+        font-size: 11px;
+    }
+    .slidedini {
+        padding: 97px 62px 97PX 45PX;
+    }
+    .sidenav .leftside {
+        width: 100%;
+        border: 0;
+        padding: 0;
+    }
+    .sidenav .navbar-nav li{
+        width: 100% !important;
+        padding: 7px 20px;
+    }
+
+    .sidenav .navbar-right, .sidenav .leftside .navbar-nav, .sidenav .rightside{
+        margin: 0;
+        float: left;
+        width: 100%;
+    }
+    .sidenav .rightside {
+        padding-left: 20px;
+    }
+    .rightside ul {
+        padding-top: 0px;
+    }
+    .sidenav .navbar-nav > li > a {
+        text-align: left;
+        font-size: 15px;
+        padding: 0px;
+    }
+    .sidenav .leftside .navbar-nav:last-child li a, .sidenav .leftside .navbar-nav:last-child li:last-child a{
+        padding: 0;
+        text-align: left;
+    }
+    .sidenav .rightside ul li{
+        width: 15% !important;
+        float: left;
+    }
+}
+@media(max-width:767px){
+    .container{
+        width: 100%;
+    }
+    .noleft, .noright{
+        padding: 0;
+    }
+    .aktualno-single img {
+        position: relative;
+        width: 100%;
+        min-height: 250px;
+    }
+    .aktualno-single {
+        min-height: auto;
+        padding: 0;
+    }
+    .z-index {
+        position: absolute;
+        z-index: 99;
+    }
+    .banner .slider .girlpos{
+        position: static;
+        width: 86%;
+        margin-left: 7%;
+    }
+    .banner .slider {
+        padding: 55px 0 0px;
+    }
+    .search {
+        bottom: 0%;
+    }
+    .aktualno h1 {
+        font-size: 45px;
+        margin: 40px auto 50px;
+    }
+    .banner .slick-prev {
+        left: 1%;
+    }
+    .banner .slick-next {
+        right: 2%;
+    }
+    .banner .slick-prev:before, .banner .slick-next:before {
+        font-size: 25px;
+    }
+    .blize.aktualno h1 {
+        margin: 50px auto 50px;
+    }
+    .blize{
+        padding-left: 0;
+    }
+    .slidedini{
+        padding: 60px;
+    }
+    .slidedini .slick-next {
+        right: 10px;
+    }
+    .bluelink{
+        margin-top: 0;
+    }
+    .blogsection {
+        margin-top: -33%;
+    }
+    .blog .bluelink {
+        margin: 70px auto 0;
+        display: -webkit-box;
+    }
+    .kam-denis-left ul {
+        margin-top: 34px;
+        margin-bottom: 40px;
+    }
+    .postbox a {
+        left: 48%;
+        top: 38%;
+    }
+    .networking.aktualno h1 {
+        margin: 40px auto 50px;
+    }
+    .networking .networks {
+        width: 96%;
+        margin-left: 2%;
+    }
+    .private .privateleft {
+        padding: 50px 15px 40px 15px;
+    }
+    .private .privateleft ul li {
+        width: 20%;
+    }
+    .private .privateright {
+        padding: 50px 15px 0 15px;
+    }
+    .speak {
+        padding-top: 0;
+    }
+    .flex{
+        display: block;
+        float: left;
+    }
+    .magicini ul li{
+        width: 50%;
+        min-height: 116px;
+        margin-bottom: 10px;
+        padding: 15px;
+    }
+    footer ul:first-child, footer ul {
+        width: 50% !important;
+        margin-bottom: 30px;
+    }
+    footer ul:nth-child(2){
+        display: none;
+    }
+    footer {
+        padding: 50px 30px 30px;
+    }
+    .bottomfooter{
+        margin-top: 0;
+    }
+    .norightres{
+        padding-right: 0;
+    }
+    .rightbt {
+        text-align: center;
+    }
+    footer .rightbt ul{
+        float: unset;
+        margin: 0 auto;
+        width: 150px !important;
+        padding-top: 30px;
+    }
+    .rightbt h1{
+        padding-top: 30px;
+    }
+    .rightbt h1:nth-child(2), .rightbt span {
+        padding-top: 0px;
+    }
+    .centerbt img:nth-child(3), .centerbt img:nth-child(4) {
+        width: 100px;
+    }
+    .blog{
+        overflow: hidden;
+    }
+    .blog img:first-child{
+        transform: scale(1.6);
+        overflow: hidden;
+    }
+    .nopadres{
+        padding: 0;
+    }
+    .postbox p {
+        font-size: 15px;
+    }
+    .kam-denis.aktualno table tr td {
+        font-size: 14px;
+    }
+    .kam-denis-left ul {
+        width: 95%;
+        margin-left: 5%;
+    }
+    .kam-denis-left ul li img {
+        width: 32px;
+    }
+    .kam-denis.aktualno table {
+        width: 95%;
+        margin-left: 15px;
+    }
+    .kam-denis.aktualno table tr td {
+        font-size: 13px;
+    }
+    .kam-denis.aktualno table tr td:first-child, .kam-denis.aktualno table tr th:first-child{
+        width: 43%;
+    }
+    .kam-denis.aktualno table tr td:last-child, .kam-denis.aktualno table tr th:last-child{
+        width: 57%;
+    }
+    
+    .banner .slider img {
+        padding-top: 20px;
+    }
+}
+@media(max-width:559px){
+    .networking .networks li {
+        width: 33.33%;
+        min-height: 105px;
+    }
+    .private .privateleft ul li {
+        width: 33%;
+    }
+    .magicini ul li:nth-child(2) img, .magicini ul li:nth-child(4) img {
+        width: 30px;
+        padding-left: 13px;
+    }
+    .magicini p {
+        font-size: 13px;
+    }
+    .centerbt img {
+        width: 50%;
+    }
+    .copyright p {
+        font-size: 12px;
+    }
+    .private .searchbox {
+        width: 80%;
+    }
+    .search ul li {
+        width: 25%;
+    }
+    .search ul li a {
+        font-size: 11px;
+    }
+    .slideCount {
+        right: -4%;
+        bottom: 42%;
+    }
+    .blogsection {
+        padding: 20px 20px 20px 20px;
+    }
+}
+@media(max-width:413px){
+    .banner .slider .girlpos {
+        width: 100%;
+        margin-left: 0%;
+    }
+    .blogsection h2 {
+        padding-left: 20px;
+    }
+    .kam-denis-left ul li {
+        padding: 10px 0 10px 10px;
+    }
+    .kam-denis-left ul li span {
+        padding-left: 10px;
+    }
+    .kam-denis.aktualno .tableset ul{
+        padding: 0;
+    }
+    .magicini h1 {
+        font-size: 24px;
+    }
+    .magicini h1 img {
+        width: 60px;
+    }
+    .magicini ul li{
+        min-height: 100px;
+    }
+    .bottomfooter ul li:first-child, .bottomfooter h1{
+        text-align: center;
+    }
+    .centerbt p {
+        padding: 25px 0;
+    }
+    .centerbt img:nth-child(4) {
+        margin-top: 20px;
+    }
+    .copyright p {
+        font-size: 10px;
+    }
+    .copyright p span{
+        padding: 0 10px;
+    }
+    .postbox a {
+        padding: 13px 15px;
+        left: 45%;
+    }
+}

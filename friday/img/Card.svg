@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="450px" height="450px" viewBox="0 0 450 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / Ico / Card</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M197.115385,57.6923077 C210.39146,57.6923077 221.153846,68.4546935 221.153846,81.7307692 L221.153846,177.884615 C221.153846,191.160691 210.39146,201.923077 197.115385,201.923077 L52.8846154,201.923077 C39.6085397,201.923077 28.8461538,191.160691 28.8461538,177.884615 L28.8461538,81.7307692 C28.8461538,68.4546935 39.6085397,57.6923077 52.8846154,57.6923077 L197.115385,57.6923077 Z M209.134615,177.884615 L209.134615,117.788462 L40.8653846,117.788462 L40.8653846,177.884615 C40.8653846,184.522653 46.2465775,189.903846 52.8846154,189.903846 L197.115385,189.903846 C203.753422,189.903846 209.134615,184.522653 209.134615,177.884615 Z M209.134615,111.778846 L209.134615,87.7403846 L40.8653846,87.7403846 L40.8653846,111.778846 L209.134615,111.778846 Z M40.8653846,81.7307692 L209.134615,81.7307692 C209.134615,75.0927314 203.753422,69.7115385 197.115385,69.7115385 L52.8846154,69.7115385 C46.2465775,69.7115385 40.8653846,75.0927314 40.8653846,81.7307692 Z M58.8942308,147.836538 L82.9326923,147.836538 L82.9326923,159.855769 L58.8942308,159.855769 L58.8942308,147.836538 Z M94.9519231,147.836538 L118.990385,147.836538 L118.990385,159.855769 L94.9519231,159.855769 L94.9519231,147.836538 Z M131.009615,147.836538 L155.048077,147.836538 L155.048077,159.855769 L131.009615,159.855769 L131.009615,147.836538 Z M167.067308,147.836538 L191.105769,147.836538 L191.105769,159.855769 L167.067308,159.855769 L167.067308,147.836538 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="249.75025" height="249.75025"></rect>
+        <filter x="-0.3%" y="-0.3%" width="101.0%" height="101.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0.5" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.650589923   0 0 0 0 0.648792997   0 0 0 0 0.648792997  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Friday-website" transform="translate(-126.000000, -1261.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1700" height="5454"></rect>
+            <g id="What-We-Do" transform="translate(0.000000, 1193.000000)">
+                <g id="Block-1" transform="translate(173.000000, 168.000000)">
+                    <g id="Icons-/-Ico-/-Card" transform="translate(53.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Combined-Shape" fill="#414042" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="Colors-/-Color/A" mask="url(#mask-2)">
+                            <g id="Color/A">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#3CD0B0" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

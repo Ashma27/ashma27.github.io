@@ -1,0 +1,324 @@
+@media (max-width:1198px) {
+    .container{
+        width: 95%;
+    }
+    .header .headtop .navbar-default .navbar-nav > li > a{
+        font-size: 16px;
+        padding: 15px 13px;
+    }
+    .footer p span .fa{
+        margin-right: 6px;
+    }
+    .footer p span .fa {
+        padding: 8px 10px;
+    }
+    .footer .noleft p, .footerbtm a {
+        font-size: 13px;
+    }
+}
+@media (max-width:1024px) {
+    .header .headtop .navbar-nav {
+        padding-left: 40px;
+    }
+}
+@media (max-width:991px) {
+    .latnews .upmainbtm a {
+        font-size: 11px;
+
+    }
+    .latnews .lnews .upmainbtm a {
+        padding: 5px 5px 0 0;
+    }
+    .movie .mov{
+        margin-top: 10px;
+    }
+    .movie .col-md-3{
+        padding: 10px !important;
+    }
+    .banner .item {
+        padding: 100px 0 100px;
+    }
+    .noleft, .noright {
+        padding: 0;
+    }
+    .upcomming .upbtm .upcomr .mov{
+        margin-top: 15px;
+    }
+    .latnews .lnews{
+        width: 49%;
+        margin-top: 15px;
+
+    }
+    .latnews .mr14 {
+        margin-right: 14px;
+    }
+    .navbar-collapse.collapse{
+        display: none !important;
+    }
+    .navbar-header{
+        width: 100%;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+    .hamburger {
+        display:  inline-block;
+    }
+    .headtop{
+        padding: 10px 0;
+    }
+    .headbtm .sign .redbtn{
+        display: none;
+    }
+    .headbtm {
+        padding: 15px 0;
+        margin-top: 70px;
+    }
+    .abbtm {
+        text-align: center;
+    }
+    .abbtm img{
+        margin: 0 auto;
+        display: block;
+    }
+    .abbtm .abmov h1{
+        margin-top: 15px;
+    }
+    .abbtm .abmov p{
+        padding: 15px 0;
+    }
+    .news{
+        padding: 60px 0;
+    }
+    .upcomr .pd15 {
+        padding-right: 15px;
+    }
+    pcomr .noleft{
+        padding-left: 15px;
+    }
+    .movcat {
+        float: left;
+        width: 100%;
+        padding-top: 30px;
+    }
+    .footerbtm .btmnav, .footerbtm .copy p {
+        text-align: center;
+    }
+    .footerbtm .copy p {
+        padding-top: 10px;
+    }
+    .footerbtm .btmnav a {
+        padding: 0 15px;
+    }
+}
+@media (max-width:767px) {
+    .movie .time h3 {
+        width: 13%;
+    }
+    .upcomming .upcomr .time h3 {
+        width: 25%;
+    }
+    .footer .foot p span {
+        float: unset;
+    }
+    .container{
+        width: 100%;
+        padding: 0 15px;
+    }
+    .container-fluid{
+        padding: 0;
+    }
+    .latnews .lnews{
+        width: 100%;
+        margin: 5px 0;
+    }
+    .footer .noleft h1{
+        margin-top: 20px;
+    }
+    .footer .col-sm-6{
+        padding: 0;
+    }
+    .news p span{
+        display: inline;
+    }
+    .upcomming .upbtm .upmain .upmainbtm .time h3{
+        width: 80px;
+    }
+    .footer .cate1 {
+        margin-top: 60px;
+        padding-left: 10px;
+    }
+    .footer ul li {
+        padding: 5px 0;
+    }
+    .navbar-brand > img {
+        width: 127px;
+        margin-top: 6px;
+    }
+    .foot {
+        text-align: center;
+    }
+    .footer p span {
+        float: unset;
+    }
+    .footer .logobtm img {
+        margin: 0 auto;
+    }
+    .pull-right {
+        float: unset !important;
+    }
+    .footer .twitter {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .movcat {
+        padding-top: 0px;
+    }
+    .find .anim p {
+        padding-right: 0;
+    }
+    .header .navbar-brand img {
+        margin-top: 14px;
+    }
+}
+@media (max-width:560px) {
+    .headbtm .col-xs-5, .headbtm .col-xs-7{
+        width: 100%;
+        padding: 0;
+    }
+    .headbtm p{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .banner .item{
+        padding: 80px 0;
+    }
+    .banner .item h2{
+        font-size: 25px;
+    }
+    .banner .item h1{
+        font-size: 32px;
+        padding: 10px 0;
+    }
+    .banner .item p{
+        font-size: 16px;
+        line-height: 25px;
+        margin-bottom: 0;
+        padding-bottom: 10px;
+    }
+    .banner .item p span{
+        display: inline;
+    }
+    .movie .col-md-3{
+        padding: 0 !important;
+        margin-top: 10px;
+    }
+    .uptop h1 {
+        font-size: 21px;
+    }
+    .wd100{
+        width: 100%;
+        padding: 0;
+        margin-bottom: 0;
+    }
+    .more, .prevnext1 {
+        text-align: center;
+    }
+    .upcomming .upbtm .upcomr .mov{
+        margin-bottom: 0;
+    }
+    .latest .uptop .tvshow{
+        margin-top: -8px;
+    }
+    .latest .uptop .tvshow a{
+        font-size: 17px;
+    }
+    .item2.box.slick-slide{
+        margin: 0;
+    }
+    .find .anim{
+        padding: 90px 15px 25px;
+    }
+    .find .anim h1, .news h1 {
+        font-size: 35px;
+    }
+    .find .anim p {
+        font-size: 15px;
+    }
+    .find .anim p{
+        padding-right: 0;
+        text-align: center;
+    }
+    .col-md-8, .col-md-7, .col-md-5{
+        padding: 0;
+    }
+    .abbtm .abmov p, .news p{
+        font-size: 14px;
+    }
+    .news {
+        padding: 35px 0;
+    }
+    .latnews .mov .movinner {
+        padding: 90px 0 10px;
+    }
+    .latnews .mov h3{
+        width: 140px;
+    }
+    .latnews .mov h1 {
+        font-size: 17px;
+        line-height: 24px;
+    }
+    .latnews .upmainbtm a, .latnews .lnews .upmainbtm a {
+        padding: 10px 5px 0 5px;
+        font-size: 13px;
+    }
+    .latnews .upmainbtm a span {
+        padding-right: 5px;
+    }
+    .latnews .lnewsbtm{
+        padding-bottom: 0;
+        padding-top: 10px;
+    }
+    .footertop {
+        padding: 0px 0 10px;
+    }
+    .latnews {
+        padding-bottom: 0;
+    }
+    .footer p{
+        font-size: 13px;
+        margin-top: 7px;
+    }
+    .footer .twitter{
+        padding: 20px 15px;
+    }
+    .footer .twitter p {
+        margin-bottom: 10px;
+        margin-top: 6px;
+    }
+    .uptop .uptopr a {
+
+        padding: 5px 10px;
+    }
+    .find {
+        padding: 10px 0;
+    }
+    .latest .latbtm {
+        padding: 10px 0;
+    }
+    .upcomming {
+        padding: 10px 0;
+    }
+    .upcomming .upbtm {
+        padding: 10px 0 0;
+    }
+    .uptop {
+        padding: 5px 0;
+    }
+    .footerbtm .btmnav a {
+        padding: 0 9px;
+    }
+}
+@media (max-width:414px) {
+
+}
+

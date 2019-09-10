@@ -1,0 +1,1065 @@
+@font-face{
+    font-family:"OpenSans-Bold";
+    src:url('../fonts/OpenSans-Bold.ttf');
+}
+@font-face{
+    font-family:"OpenSans-Regular";
+    src:url('../fonts/OpenSans-Regular.ttf');
+}
+@font-face{
+    font-family:"OpenSans-Light";
+    src:url('../fonts/OpenSans-Light.ttf');
+}
+@font-face{
+    font-family:"PlayfairDisplay-Black";
+    src:url('../fonts/PlayfairDisplay-Black.otf');
+}
+@font-face{
+    font-family:"PlayfairDisplay-Regular";
+    src:url('../fonts/PlayfairDisplay-Regular.otf');
+}
+@font-face{
+    font-family:"PlayfairDisplay-Bold";
+    src:url('../fonts/PlayfairDisplay-Bold.otf');
+}
+
+* {
+    outline: medium none !important;
+}
+body {
+
+    color: #fff;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
+a, a:hover, a:focus, button {
+    text-decoration: none;
+    transition: all 0.35s ease 0s;
+}
+button:focus {
+    outline:0px;
+}
+.noleft {
+    padding-left: 0;
+}
+.noright {
+    padding-right: 0;
+}
+.nopadding {
+    padding: 0;
+}
+.box {
+    float: left;
+    width: 100%;
+    display: block;
+}
+.container-fluid {
+    padding: 0;
+}
+.container {
+    width: 1300px;
+    padding: 0;
+}
+.container1 {
+    width: 1090px;
+}
+.desktophide {
+    display: none;
+}
+.header {
+    padding: 15px 0 45px;
+    background-color: #2E2F32;
+}
+.header .navbar-default {
+    background-color: transparent;
+    border: none;
+    min-height: auto;
+    margin: 0;
+    padding: 0 15px 0 50px;
+}
+.header .navbar-default .navbar-nav>li>a.english {
+    color: #fff;
+    padding: 15px 40px;
+    font-size: 18px;
+    font-family: OpenSans-Bold;
+}
+.header .navbar-default .navbar-nav>li>a.festival {
+    color: #2E2F32;
+    background-color: #FFE3C6;
+    padding: 15px 100px;
+    font-size: 18px;
+    font-family: OpenSans-Bold;
+    background: linear-gradient(to right, #FFE3C6 50%, rgba(255, 227, 198, 0.5) 50%);
+    background-size: 200% 100%;
+    background-position:left bottom;
+    margin-left:10px;
+    transition:all 2s ease;
+}
+.header .navbar-default .navbar-nav>li>a.festival:hover {
+    background-position:right bottom;
+}
+.header .navbar-brand {
+    height: auto;
+    padding: 0;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+}
+.header .navbar-header {
+    margin: 0;
+}
+.main {
+    background-color: #2E2F32;
+    position: relative;
+}
+.main .terms .termsinner {
+    background-color: #D1DDE4;
+    padding: 30px;
+}
+.main .terms .termsinner .policy h3 {
+    padding-bottom: 30px;
+}
+.main .terms .termsinner .policy h3 span {
+    display: block;
+}
+.main .terms .termsinner .policy.policy1 h3 {
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.main .maininner .mainmid {
+    padding: 80px 0 140px;
+    position: relative;
+}
+.main .maininner h1 {
+    font-size: 47px;
+    font-family: PlayfairDisplay-Black;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    color: #D5AED1;
+    width: fit-content;
+    width: -moz-fit-content;
+    width: -ms-fit-content;
+    width: -o-fit-content;
+    width: -webkit-fit-content;
+    background-color: #2E2F32;
+    position: relative;
+    z-index: 1;
+    padding-top: 90px;
+    line-height: 60px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    float: left;
+}
+.main .maininner h1 span.span2 {
+    display: block;
+    font-size: 19px;
+    font-family: OpenSans-Bold;
+    letter-spacing: 1px;
+    text-transform: initial;
+    color: #fff;
+    line-height: 20px;
+}
+.main .maininner .mainmid .girlpic {
+    position: absolute;
+    top: 45px;
+    right: 115px;
+}
+.main .maininner .menubtn {
+    padding: 150px 0;
+    text-align: right;
+}
+.menubtn .menu1 {
+    margin: 0 20px 0 auto;
+}
+.menubtn .menu2 {
+    margin: 0 20px 0 auto;
+    padding: 15px 0;
+}
+.menubtn .menu3 {
+    margin: 0 52px 0 auto;
+}
+@-webkit-keyframes menu1Anim {
+    0%{transform: translate(0, 0);}
+    25%{transform: translate(-20px, 0);}
+    50%{transform: translate(0px, 0);}
+    75%{transform: translate(0px, 0);}
+    100%{transform: translate(0px, 0);}
+}
+@-webkit-keyframes menu2Anim {
+    0%{transform: translate(0px, 0);}
+    25%{transform: translate(0px, 0);}
+    50%{transform: translate(-30px, 0);}
+    75%{transform: translate(0px, 0);}
+    100%{transform: translate(0px, 0);}
+}
+@-webkit-keyframes menu3Anim {
+    0%{transform: translate(0px, 0);}
+    25%{transform: translate(0px, 0);}
+    50%{transform: translate(0px, 0);}
+    75%{transform: translate(-30px, 0);}
+    100%{transform: translate(0px, 0);}
+}
+@-moz-keyframes menu1Anim {
+    0%{transform: translate(0, 0);}
+    25%{transform: translate(-20px, 0);}
+    50%{transform: translate(0px, 0);}
+    75%{transform: translate(0px, 0);}
+    100%{transform: translate(0px, 0);}
+}
+@-moz-keyframes menu2Anim {
+    0%{transform: translate(0px, 0);}
+    25%{transform: translate(0px, 0);}
+    50%{transform: translate(-30px, 0);}
+    75%{transform: translate(0px, 0);}
+    100%{transform: translate(0px, 0);}
+}
+@-moz-keyframes menu3Anim {
+    0%{transform: translate(0px, 0);}
+    25%{transform: translate(0px, 0);}
+    50%{transform: translate(0px, 0);}
+    75%{transform: translate(-30px, 0);}
+    100%{transform: translate(0px, 0);}
+}
+.menubtn a:hover .menu1 {
+    animation: menu1Anim 1s;
+    -webkit-animation: menu1Anim 1s;
+    -moz-animation: menu1Anim 1s;
+}
+.menubtn a:hover .menu2 {
+    animation: menu2Anim 1s;
+    -webkit-animation: menu2Anim 1s;
+    -moz-animation: menu2Anim 1s;
+}
+.menubtn a:hover .menu3 {
+    animation: menu3Anim 1s;
+    -webkit-animation: menu3Anim 1s;
+    -moz-animation: menu3Anim 1s;
+}
+.main .maininner .date {
+    text-align: right;
+}
+.main .maininner h2 {
+    font-size: 36px;
+    font-family: OpenSans-Bold;
+    line-height: 45px;
+}
+.main .maininner .authors {
+    padding: 20px 0 56px 50px;
+}
+.main .maininner .authors a {
+    font-size: 36px;
+    font-family: OpenSans-Bold;
+    color: #fff;
+
+    display: inline-block;
+    background-color: #2E2F32;
+    background: linear-gradient(to right, #2E2F32 51%, #D5AED1 49%);
+    background-size: 200% 100%;
+    background-position: left bottom;
+    margin-left: 10px;
+    transition: all 2s ease;
+}
+.main .maininner .authors a:hover {
+    background-position: right bottom;
+}
+.main .maininner .date {
+    padding: 0 80px 0 0;
+}
+.main .maininner .date h2 span {
+    display: block;
+    padding-right: 75px;
+}
+.team .header {
+    background-color: #D1DDE4;
+}
+.team .teamdiv {
+    background-color: #D1DDE4;
+}
+.team .teamdiv .teaminner {
+    position: relative;
+    padding: 30px 60px;
+}
+.team .teamdiv .menubtn {
+    position: absolute;
+    top: 170px;
+    right: 0px;
+    width: auto;
+}
+.member h1 {
+    background-color: #2E3233;
+    font-size: 28px;
+    font-family: OpenSans-Bold;
+    line-height: 36px;
+    padding: 20px;
+}
+.member h1 span {
+    display: block;
+    font-size: 18px;
+    font-family: PlayfairDisplay-Regular;
+
+}
+.member .plus a {
+    background-color: #D5AED1;
+    border-bottom: 4px solid #2E3233;
+    width: 100%;
+    display: block;
+    padding: 12px 0;
+    text-align: center;
+    opacity: 0.7;
+    color: #2E3233;
+    font-size: 25px;
+    margin-top: 49px;
+}
+.team .header .navbar-default .navbar-nav>li>a.festival {
+    border-bottom: 4px solid #2E3233;
+}
+.team .header .navbar-brand {
+    padding: 30px 0 0;
+}
+.team .header {
+    padding: 15px 0 70px;
+}
+.team .teamdiv .festinner .menubtn {
+    top: 276px;
+    right: 25px;
+}
+.links a img {
+    display: inline-block;
+}
+.links a {
+    font-size: 18px;
+    font-family: OpenSans-Bold;
+    color: #2E3233;
+}
+.links {
+    padding-top: 20px;
+    padding-right: 20%;
+}
+.links.links2 {
+    padding-top: 40px;
+    text-align: right;
+}
+.links a span {
+    padding-right: 19px;
+    color: #2E2F32;
+}
+.team .teamdiv .memberouter:nth-child(even) .memberouter1 {
+    float: left;
+    margin-top: -30px;
+}
+.team .teamdiv .memberouter:nth-child(odd) .memberouter1 {
+    margin-top: -80px;
+    float: right;
+}
+.membertop {
+    background: url('../img/banner.png') no-repeat center center;
+    background-size: cover;
+}
+.membertop .close {
+    padding: 35px 15px 330px;
+}
+.memberdiv {
+    padding: 40px 0;
+    background-color: #fff;
+}
+.memberdiv .memberinner h1 {
+    color: #2F3033;
+    font-size: 28px;
+    font-family: OpenSans-Bold;
+    line-height: 35px;
+    padding: 10px 0;
+}
+.memberdiv .memberinner h1 span {
+    font-size: 18px;
+    display: block;
+}
+.memberdiv .memberinner .links {
+    padding: 0;
+    text-align: right;
+}
+.memberdiv .memberinner .links.links2 {
+    padding-top: 30px;
+}
+.memberdet {
+    background-color: #D1DDE4;
+    padding: 50px 0;
+}
+.memberdet p {
+    color: #231F20;
+    font-family: PlayfairDisplay-Regular;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.memberdet h2 {
+    color: #231F20;
+    font-family: PlayfairDisplay-Bold;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.sponser .main .maininner .menubtn {
+    padding: 70px 0 60px;
+}
+.sponserdiv {
+    background-color: #D1DDE4;
+    padding-bottom: 60px;
+}
+.sponserdiv h1 {
+    font-size: 50px;
+    font-family: OpenSans-Bold;
+    color: #231F20;
+    padding: 30px 0 15px;
+}
+.sponserdiv .sponserinner {
+    text-align: center;
+    border: 2px solid #6D6C6D;
+    margin-top: 30px;
+    min-height: 170px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sponserdiv .sponserinner img {
+    margin:  0 auto;
+}
+.pressbox .header {
+    padding: 30px 0 160px;
+}
+.pressbox .header .close {
+    padding: 0;
+}
+.pressdiv {
+    background-color: #FFE3C6;
+    padding: 40px 0;
+}
+.pressdiv h1 {
+    font-size: 50px;
+    font-family: OpenSans-Bold;
+    color: #231F20;
+    padding-bottom: 30px;
+}
+.pressdiv h2 {
+    font-size: 20px;
+    font-family: PlayfairDisplay-Bold;
+    color: #231F20;
+    padding-bottom: 10px;
+}
+.pressdiv p {
+    font-size: 20px;
+    font-family: OpenSans-Regular;
+    color: #231F20;
+    padding-bottom: 5px;
+}
+.pressdiv p span {
+    font-size: 20px;
+    font-family: PlayfairDisplay-Bold;
+    color: #231F20;
+    padding-bottom: 10px;
+}
+.pressdiv .avail {
+    padding-top: 20px;
+}
+.pressdiv .dropbox p {
+    font-family: OpenSans-Bold;
+    font-size: 17px;
+    color: #231F20;
+    text-align: center;
+    padding-top: 10px;
+}
+.pressdiv .dropbox img {
+    margin: 0 auto;
+}
+.pressdiv .contacts {
+    padding: 50px 0;
+}
+.pressdiv .contact1 {
+    padding: 0px 0 30px;
+}
+.blackline {
+    height: 4px;
+    width: 10%;
+    background-color: #231F20;
+    margin: 0px 0 30px;
+}
+.festival .header {
+    background-color: #D5AED1;
+    padding: 15px 0 10px;
+}
+.festival .team .teamdiv {
+    background-color: #D5AED1;
+}
+.festival .team .teamdiv .festinner {
+    padding: 0px 65px 100px;
+}
+.festival .team .teamdiv .memberouter:nth-child(odd) .memberouter1, .festival .team .teamdiv .memberouter:nth-child(even) .memberouter1 {
+    margin-top: 60px;
+    float: left;
+}
+.festival .team .teamdiv .member .plus a {
+    background-color: #FFE3C6;
+    padding: 10px 0;
+    margin-top: 53px;
+}
+.years .header {
+    background-color: #2E2F32;
+}
+.years .main .maininner {
+    padding: 40px 0 50px;
+}
+.years .main .maininner h2 {
+    font-family: OpenSans-Bold;
+    font-size: 50px;
+    color: #fff;
+    padding-left: 40px;
+}
+.years .sponser .main .maininner .menubtn {
+    padding: 0;
+    width: auto;
+    float: right;
+}
+.years .team .teamdiv {
+    background-color: #FFE3C6;
+}
+.years .team .teamdiv .yearsinner {
+    position: relative;
+    padding: 70px 55px 70px;
+}
+.years .team .teamdiv .yearsinner .desktophide h2 {
+    font-family: OpenSans-Bold;
+    font-size: 30px;
+    color: #2F3033;
+}
+.years .team .teamdiv .teamdown {
+    position: absolute;
+    right: 210px;
+    top: 105px;
+    width: auto;
+}
+.years .team .teamdiv .member h1 {
+    padding: 20px 20px 60px;
+}
+.years .team .teamdiv .member .logodiv {
+    background-color: #D1DDE4;
+    padding: 30px;
+    position: relative;
+    min-height: 205px;
+}
+.years .team .teamdiv .member .logodiv h2 {
+    font-family: OpenSans-Bold;
+    font-size: 28px;
+    color: #2F3033;
+}
+.years .team .teamdiv .member .logodiv h2 span {
+    display: block;
+}
+.years .team .teamdiv .member .plus a {
+    padding: 15px 0;
+    margin-top: 47px;
+}
+.years .team .teamdiv .memberouter:nth-child(even) .memberouter1 {
+    margin-top: 50px;
+    float: right;
+}
+.years .team .teamdiv .memberouter:nth-child(odd) .memberouter1 {
+    margin-top: 0px;
+    float: left;
+}
+.years .team .teamdiv .member .logodiv .minh {
+    position: absolute;
+    bottom: 30px;
+}
+.calender .header {
+    padding-bottom: 70px;
+}
+.calender .calenderdiv {
+    padding: 30px 0;
+}
+.calender .calenderdiv .calinner {
+    padding: 0 0 0 50px;
+}
+.imagediv {
+    position: relative;
+}
+.imagediv .close {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+.callink a {
+    background-color: #D5AED1;
+    display: inline-block;
+    color: #231F20;
+    font-size: 18px;
+    font-family: PlayfairDisplay-Bold;
+    padding: 5px 20px;
+    margin: 8px 0;
+}
+.calender .calenderdiv .calpara p {
+    color: #2E2F32;
+    font-size: 18px;
+    font-family: OpenSans-Regular;
+    padding-top: 10px;
+}
+.calender .calenderdiv .calpara p span {
+    font-family: OpenSans-Bold;
+}
+.calender .calenders {
+    background-color: #D1DDE4;
+}
+.calender .calenders .cal2inner {
+    padding: 70px 70px 50px 0;
+    position: relative;
+}
+.calender .calenders .cal2inner .menubtn {
+    position: absolute;
+    top: 30px;
+    right: -20px;
+    width: auto;
+}
+.calender .calenders .rotated p {
+    font-size: 21px;
+    font-family: OpenSans-Bold;
+    color: #2E2F32;
+    transform: rotate(270deg);
+}
+.calender .calenders .calenderinner {
+    padding: 20px 50px 20px 0;
+}
+.calender .calenders table {
+    width: 100%;
+}
+.calender .calenders table tr {
+    height: 38px;
+}
+.calender .calenders table tr td {
+    color: #2E2F32;
+    text-align: center;
+    width: 14.28%;
+    font-size: 8px;
+}
+.calender .calenders table tr td.dates {
+    font-size: 18px;
+}
+.calender .calenders .member {
+    border-bottom: 4px solid #2E2F32;
+    margin-bottom: 60px;
+    position: relative;
+}
+.calender .calenders .member .plusdiv {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.calender .calenders .member .logodiv {
+    border: 2px solid #2E2F32;
+    padding: 30px;
+}
+.calender .calenders .member .logodiv h2 {
+    color: #2E2F32;
+    font-size: 28px;
+    font-family: OpenSans-Bold;
+}
+.calender .calenders .member .logodiv p {
+    color: #2E2F32;
+    font-size: 18px;
+    font-family: PlayfairDisplay-Regular;
+    padding: 10px 0;
+}
+.calender .calenders .callink a {
+    padding: 2px 25px 3px 5px;
+    margin: 0px 0 20px;
+}
+.calender .calenders .member .plus a {
+    padding: 20px 0;
+    border: 0;
+    margin: 0;
+}
+.calender .calenders .calright {
+    padding-left: 50px;
+}
+.calender .calenders .calenderinner .tableleft {
+    position: relative;
+}
+.calender .calenders .calenderinner .tableleft .rotated {
+    position: absolute;
+    bottom: 30px;
+    left: -70px;
+    width: auto;
+}
+.program .programdiv {
+    padding: 20px 60px;
+}
+.program .calender .calenders {
+    padding: 0;
+    background-color: #D5AED1;
+}
+.program .programdiv .item {
+    margin: 0 5px;
+    height: 100%;
+}
+.program .programdiv .item .iteminner {
+    border: 4px solid #2E2F32;
+    border-bottom: 8px solid #2E2F32;
+    padding: 15px 50px 20px 15px;
+}
+.program .programdiv .item h1 {
+    color: #2E2F32;
+    font-size: 28px;
+    font-family: OpenSans-Bold;
+}
+.program .programdiv .item h2 {
+    color: #2E2F32;
+    font-size: 18px;
+    font-family: PlayfairDisplay-Regular;
+    padding: 10px 0;
+}
+.program .calender .calenders .callink a {
+    background-color: #fff;
+}
+.program .programdiv .item p {
+    color: #2E2F32;
+    font-size: 14px;
+    font-family: OpenSans-Bold;
+    padding: 15px 0 30px;
+}
+.program .programdiv .item .website a {
+    color: #2E2F32;
+    font-size: 14px;
+    font-family: OpenSans-Bold;
+}
+.program .programdiv .calpic {
+    padding-bottom: 15px;
+}
+.program .programdiv .calpic img {
+    margin: 0 0 0 auto;
+}
+.program .programdiv .rotated p {
+    font-size: 48px;
+}
+.program .progbox {
+    position: relative;
+}
+.program .programdiv .rotated {
+    position: absolute;
+    left: -120%;
+}
+.program .programdiv .links {
+    padding: 0;
+}
+.program .programdiv .links a span {
+    padding-right: 10px;
+}
+.program .programdiv .links.links2 {
+    padding-right: 70px !important;
+}
+.program .programdiv .slidebtm .links {
+    padding: 10px 0;
+    text-align: right;
+}
+.program .programdiv .slidebtm p {
+    font-size: 14px;
+    font-family: OpenSans-Regular;
+    color: #2E2F32;
+    padding: 20px 0;
+}
+.slick-initialized .slick-slide {
+    outline: medium none !important;
+}
+.program .programdiv .slick .slick-prev, .program .programdiv .slick .slick-next {
+    top: 12%;
+    height: auto;
+}
+.program .programdiv .progleft {
+    padding: 10px 0;
+}
+.program .programdiv .rotated p span {
+    float: right;
+}
+.program .programdiv .rotated p span a {
+    color: #2E2F32;
+}
+.slick-prev::before {
+    content: '\f104';
+    font-family: FontAwesome;
+    color: #2E2F32;
+    font-size: 60px;
+    opacity: 1;
+}
+.slick-next:before {
+    content: '\f105';
+    font-family: FontAwesome;
+    color: #2E2F32;
+    font-size: 60px;
+    opacity: 1;
+}
+.program .programdiv .slick-next:hover {
+    color: #00aeef !important;
+}
+.gallary {
+    background-color: #D1DDE4;
+    padding: 30px 0;
+}
+.gallary .close {
+    padding: 0 15px;
+}
+.gallary .gallary1 {
+    padding: 0 60px;
+}
+.gallary .gallogo {
+    padding: 0 0 0 30px;
+}
+.close {
+    text-align: right;
+}
+.close a {
+    color: #2E2F32;
+    font-size: 50px;
+}
+.gallary .galmid {
+    padding: 50px 0;
+}
+.gallary .galmid h1 {
+    color: #2E2F32;
+    font-family: OpenSans-Bold;
+    font-size: 28px;
+}
+.gallary .galmid p {
+    color: #2E2F32;
+    font-family: PlayfairDisplay-Regular;
+    font-size: 18px;
+    padding: 10px 0;
+}
+.gallary .galmid .links {
+    padding-right: 0%;
+}
+.gallary .galimg .galimgs {
+    width: 16% !important;
+    float: left;
+    margin-bottom: 50px;
+    margin-right: 5%;
+}
+.gallary .galimg .galimgs.gall5 {
+    margin-right: 0;
+}
+.gallary .galimg .galimgs img {
+    width: 100%;
+}
+.gallary .desktophide .links.share {
+    text-align: left;
+}
+.gallary .desktophide .links a img {
+    width: auto;
+}
+.agreetop {
+    background-color: #D1DDE4;
+    padding: 0 0 20px 0;
+}
+.agreetop p {
+    color: #2E2F32;
+    font-size: 14px;
+    font-family: OpenSans-Regular;
+    padding: 20px 0 0 110px;
+}
+.agreetop p span {
+    display: block;
+}
+.agreebtn a {
+    border: 2px solid #2E2F32;
+    border-bottom: 4px solid #2E2F32;
+    color: #2E2F32;
+    padding: 15px 65px;
+    font-family: OpenSans-Bold;
+    font-size: 18px;
+    display: inline-block;
+}
+.close {
+    text-align: right;
+    padding: 10px 0;
+}
+.close a {
+    color: #fff;
+}
+.close img {
+    margin: 0 0 0 auto;
+}
+.terms h3.pdtop {
+    padding-top: 30px;
+}
+.terms h3 {
+    font-size: 14px;
+    color: #2E2F32;
+    font-family: OpenSans-Bold;
+}
+.terms p {
+    font-size: 14px;
+    color: #2E2F32;
+    font-family: OpenSans-Regular;
+    padding: 30px 0;
+}
+.terms .bdrleft {
+    border-right: 2px solid #2E2F32;
+}
+.terms .agreebtn {
+    text-align: right;
+    margin-top: 100px;
+}
+.error h1 {
+    font-size: 384px;
+    color: #2E2F32;
+    font-family: OpenSans-Light;
+    text-align: center;
+}
+.error h1 sup {
+    top: -190px;
+}
+.error p {
+    font-size: 18px;
+    color: #2E2F32;
+    font-family: OpenSans-Bold;
+    text-align: center;
+}
+.error p span {
+    display: block;
+}
+.sidenav1 {
+    background-image: linear-gradient(to left, #fff 50% , #FFE3C6 50%);
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 999;
+}
+.sidenav1 .sideinner {
+    padding: 30px 50px 75px;
+}
+.sidenav1 .sideinner .sidetop {
+    padding-bottom: 20px;
+}
+.sidenav1 .sideinner .english {
+    font-size: 25px;
+    font-family: OpenSans-Bold;
+    color: #2E2F32;
+}
+.sidenav1 .sideinner .close {
+    padding: 0;
+}
+.sidenav1 .sideinner .sidemenu {
+    text-align: right;
+    padding: 10px 50px 10px 0;
+}
+.sidenav1 .sideinner .sidemenu a {
+    font-size: 25px;
+    font-family: OpenSans-Bold;
+    color: #2E2F32;
+    display: inline-block;
+    background-color: #fff;
+    background: linear-gradient(to right, #fff 51%, #FFE3C6 49%);
+    background-size: 200% 100%;
+    background-position: left bottom;
+    margin-left: 10px;
+    transition: all 2s ease;
+    padding: 2px 10px 2px 30px;
+    margin-right: -2px;
+}
+.sidenav1 .sideinner .sidemenu a:hover {
+    background-position: right bottom;
+}
+.sidenav1 .sideinner .callink a {
+    padding: 2px 2px;
+    margin: 3px 0;
+    min-width: 180px;
+    font-family: OpenSans-Bold;
+}
+.sidenav1 .sideinner .social {
+    padding: 20px 60px 0 0px;
+    text-align: right;
+}
+.sidenav1 .sideinner .social a {
+    font-size: 30px;
+    color: #2E2F32;
+    padding: 0 0 0 60px;
+}
+.home {
+    position: relative;
+}
+.teamouter {
+    position: relative;
+}
+.teamouter .member1 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 9999;
+}
+.calenderouter, .sponserouter, .festival, .years {
+    position: relative;
+}
+.calenderouter .sidenav1, .sponserouter .sidenav1, .festival .sidenav1, .years .sidenav1, .calenderouter .program, .festival .gallary {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 9999;
+}
+.festival .modal-open {
+    padding-right: 0 !important;
+}
+.gallary1 .modal {
+    background-color: #D1DDE4 !important;
+}
+.festival .modal-content {
+    box-shadow: none;
+    border: 0;
+    float: left;
+    width: 100%;
+}
+.festival .modal-header {
+    background: #D1DDE4 !important;
+    border: 0;
+}
+.festival .modal-body {
+    float: left;
+    width: 100%;
+    background-color: #D1DDE4;
+}
+.festival .modal img {
+    width: auto !important;
+}
+.festival .modal-body p {
+    color: #2E2F32;
+    padding: 20px 0;
+    text-align: center;
+}
+.festival .modal .close {
+    padding: 30px;
+}
+.festival .modal .links {
+    padding-right: 0;
+}
+.festival .modal .links.share {
+    text-align: right;
+}
+.festival .modal .slick-next {
+    right: -35px !important;
+    height: auto;
+}
+.festival .modal .slick-prev {
+    left: -35px !important;
+    height: auto;
+}
+.modal-content {
+    border: 0;
+}
+.galimg .share {
+    position: relative;
+}
+.galimg .share .socialshare {
+    position: absolute;
+    bottom: -40px;
+    right: 0;
+}
+.galimg .share .socialshare a {
+    padding: 0 0 0 25px;
+}
+

@@ -1,0 +1,1096 @@
+@media(min-width:1400px) {
+    .header .navbar-nav{
+        margin-left: 0%;
+    }
+}
+@media(max-width:1450px) {
+    .inner_follow .ipad .ipad_img img {
+        width: 570px;
+    }
+
+    .inner_follow .ipad .fbook {
+        width: 454px;
+        margin: 99px 59px 0;
+    }
+
+    .inner_follow.right_follow {
+        width: 75%;
+    }
+
+    .follow_us .noleft .inner_follow {
+        width: 80%;
+    }
+
+    .right_follow ul {
+        margin-top: -195px;
+        margin-bottom: 100px;
+    }
+
+    .right_follow ul li {
+        margin-right: 16px;
+    }
+
+    .inner_follow .ipad {
+        margin-left: -71px;
+    }
+    .special_center .special_content h6, .special_center .special_content p{
+        font-size: 18px;
+    }
+}
+
+@media(max-width:1400px) {
+    .container {
+        width: 1200px;
+    }
+
+    .header_tag {
+        width: 18%;
+    }
+
+    .header .navbar-nav {
+        margin-left: 2%;
+    }
+
+    .special_center .special_content h6 {
+        font-weight: bold;
+        padding-top: 24px;
+    }
+
+    .special .special_inner.special_center .special_content {
+        top: 20%;
+        padding: 20px 74px;
+    }
+
+    .special_center .special_content h6,
+    .special_center .special_content p {
+        font-size: 19px;
+    }
+
+    .header {
+        background-size: 120%;
+    }
+
+    .modal-body .signup1 {
+        font-size: 30px;
+        padding: 3px 30px;
+    }
+
+    .header .navbar-default .navbar-nav > li > a,
+    .header .navbar-default .navbar-nav > li.enjoy {
+        padding: 10px 14px;
+    }
+    .follow_us_bg {
+        background: url(../img/follow_left1.png) no-repeat left -41px bottom, url(../img/follow_left2.png) no-repeat left -41px top, url(../img/follow_right.png) no-repeat right -70px center;
+    }
+}
+
+
+@media(max-width:1200px) {
+    .container {
+        width: 1170px;
+    }
+
+    .header .navbar-default .navbar-nav > li {
+        margin: 0 8px;
+    }
+
+    .header_tag {
+        right: 27px;
+        width: 17%;
+    }
+
+    .navbar-brand > img {
+        width: 75%;
+    }
+
+    .header {
+        padding: 20px 0px 33px;
+    }
+
+    .banner {
+        margin-top: 64px;
+    }
+
+    .header .navbar-brand {
+        margin-top: -9px;
+    }
+
+    .special .special_inner.special_center .special_content {
+        top: 21%;
+        padding: 20px 70px;
+    }
+
+    .special_center .special_content h6 {
+        padding-top: 25px;
+    }
+
+    .modal-body .signup1 {
+        font-size: 30px;
+        padding: 3px 26px;
+    }
+
+    .modal-body .call_us p {
+        font-size: 22px;
+    }
+
+    .modal-body .call_us a {
+        font-size: 35px;
+    }
+
+    .follow_banner p span {
+        margin-top: -1px;
+    }
+
+    .follow_banner p {
+        font-size: 36px;
+    }
+
+    .follow_banner p span {
+        margin-top: 5px;
+    }
+
+    .right_follow ul li {
+        margin-right: 24px;
+    }
+    .follow_us_bg {
+        background: url(../img/follow_left1.png) no-repeat left -100px bottom, url(../img/follow_left2.png) no-repeat left -100px top, url(../img/follow_right.png) no-repeat right -150px center;
+    }
+}
+
+@media(max-width:1199px) {
+    .container {
+        width: 970px;
+    }
+
+    .header .navbar-default .navbar-nav > li > a {
+        padding: 13px 5px;
+    }
+
+    .header .navbar-nav {
+        margin-left: 0;
+    }
+
+    .header {
+        background-size: 135%;
+    }
+
+    .header_tag {
+        right: 11px;
+        width: 21%;
+    }
+
+    .join .inner_join h2 {
+        font-size: 50px;
+    }
+
+    .join .inner_join a,
+    .edelwiss .inner_edel_content .book a {
+        font-size: 30px;
+    }
+
+    .edelwiss .inner_edel_content {
+        padding: 0 45px;
+    }
+
+    .edelwiss .inner_edel_content p {
+        font-size: 24px;
+        padding-bottom: 25px;
+    }
+
+    .follow_us .col-sm-4:nth-child(1) .inner_follow img,
+    .follow_us .col-sm-4:nth-child(3) .inner_follow img {
+        width: 80%;
+    }
+
+    .follow_us .col-sm-4:nth-child(3) .inner_follow img,
+    .right_follow ul {
+        float: right;
+    }
+
+    .right_follow ul li {
+        display: inline-block;
+        width: 35%;
+    }
+
+    .special .col-sm-3 {
+        width: 20%;
+    }
+
+    .special .col-sm-6 {
+        width: 60%
+    }
+
+    .contact {
+        padding-left: 40px;
+    }
+
+    .modal-body form .col-sm-offset-3 {
+        width: 68%;
+    }
+
+    .ui-datepicker-calendar tbody td {
+        width: 53px;
+    }
+
+    .inner_follow .ipad {
+        margin-left: -118px;
+        padding: 25px 0 115px;
+    }
+
+    .right_follow ul {
+        margin-top: -270px;
+    }
+
+    .follow_banner p img {
+        top: -19px;
+        left: -23px;
+        width: 341px;
+        max-width: unset;
+    }
+    .follow_us_bg {
+        background: url(../img/follow_left1.png) no-repeat left -200px bottom, url(../img/follow_left2.png) no-repeat left -200px top, url(../img/follow_right.png) no-repeat right -250px center;
+    }
+    .header .navbar-default .navbar-nav > li > a, .header .navbar-default .navbar-nav > li.enjoy{
+        font-size: 17px;
+    }
+    .header .navbar-default .navbar-nav > li {
+        margin: 0 5px;
+    }
+
+}
+@media(max-width:1199px) and (min-width:992px) {
+    .followtext span{
+        margin-top: -7px;
+    }
+}
+@media(max-width:991px) {
+    .header .hamburger {
+        display: block;
+    }
+
+    .container {
+        width: 750px;
+    }
+
+    .header .navbar-brand img {
+        display: none;
+    }
+
+    .header_tag {
+        right: -50px;
+        width: 38%;
+    }
+
+    .header {
+        background-size: 150%;
+        padding: 20px 0px 50px;
+    }
+
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+
+    .join .inner_join a,
+    .edelwiss .inner_edel_content .book a {
+        font-size: 25px;
+    }
+
+    .join .inner_join h2 {
+        font-size: 37px;
+    }
+
+    .edelwiss .inner_edel_content {
+        padding: 0;
+    }
+
+    .edelwiss .inner_edel_content h2 {
+        font-size: 45px;
+        padding-bottom: 25px;
+    }
+
+    .edelwiss .inner_edel_content {
+        margin-top: -20px;
+    }
+
+    .follow_us .col-sm-4:nth-child(1) .inner_follow img,
+    .follow_us .col-sm-4:nth-child(3) .inner_follow img {
+        width: unset;
+    }
+
+    .follow_us {
+        padding: 140px 0 80px;
+    }
+
+    .follow_us .col-sm-4:nth-child(2) {
+        width: 60%;
+    }
+
+    .special .col-sm-6 {
+        width: 108%;
+    }
+
+    .special .special_inner.special_center .special_content {
+        top: 20%;
+        padding: 20px 12%;
+    }
+
+    .special_center .special_content h6 {
+        padding-top: 15px;
+    }
+
+    .contact {
+        padding-left: 80px;
+        background-size: cover;
+    }
+
+    .modal-body form .col-sm-offset-3 {
+        width: 85%;
+    }
+
+    .modal.fade .modal-dialog {
+        width: 94%;
+        margin: 22% auto;
+    }
+
+    .modal-body .form-group label {
+        font-size: 18px;
+    }
+
+    .inner_follow.right_follow ul {
+        position: absolute;
+        top: 11%;
+        width: 100%;
+        right: 0;
+        margin-top: 0;
+    }
+
+    .right_follow ul li {
+        margin-right: 18px;
+    }
+
+    .follow_us .inner_follow .follow_left_img {
+        margin-top: -55px;
+    }
+
+    follow_banner p img {
+        top: -30px;
+        left: -40px;
+    }
+
+    .follow_banner p {
+        font-size: 45px;
+    }
+
+    .follow_banner p span {
+        margin-top: 0px;
+    }
+
+    .banner {
+        background: url(../img/banner.png) no-repeat center right 13%;
+    }
+
+    .inner_follow .ipad {
+        margin-left: -60px;
+    }
+
+    .inner_follow .ipad .fbook {
+        width: 454px;
+        height: 566px;
+    }
+
+    .inner_follow .ipad .ipad_img img {
+        height: 750px;
+    }
+
+    .inner_follow .ipad .ipad_frame iframe {
+
+    }
+    .follow_us_bg {
+        background:url(../img/follow_right.png) no-repeat right -245px center;
+    }
+    /*    .followtext span {
+            margin-top: -6px;
+            font-size: 38px;
+        }*/
+
+    /*inner_follow .ipad .fbook {
+    width: 415px;
+    margin: 99px 53px 0;
+}
+.inner_follow .ipad {
+ margin: 0 auto
+}*/
+}
+
+@media(max-width:767px) {
+    .container {
+        width: 100%;
+    }
+
+    .header_tag {
+        width: 48%;
+    }
+
+    .header {
+        background-size: 222%;
+    }
+
+    .join .noleft {
+        padding-right: 0;
+        margin-bottom: 15px;
+    }
+
+    .join .noright {
+        padding-left: 0;
+    }
+
+    .join .inner_join h2 {
+        font-size: 55px;
+    }
+
+    .join .inner_join a,
+    .edelwiss .inner_edel_content .book a {
+        font-size: 34px;
+        padding: 5px 20px;
+    }
+
+    .edelwiss .noleft {
+        display: none;
+    }
+
+    .edelwiss .col-sm-6 {
+        width: 100%;
+    }
+
+    .edelwiss .inner_edel_content {
+        display: block;
+        margin-left: 20px;
+    }
+
+    .book .nopadding {
+        width: 100%;
+        display: block;
+        float: left;
+    }
+
+    .special .col-sm-3,
+    .special .special_inner.special_center img {
+        display: none;
+    }
+
+    .follow_us .noleft {
+        width: 0;
+    }
+
+    .follow_us .col-sm-4:nth-child(2) {
+        width: 100%;
+    }
+
+    .special {
+        background: url(../img/res_special.png)repeat;
+        display: block;
+        margin-top: -100px;
+        padding: 100px 0 200px;
+    }
+
+    .special .special_inner.special_center .special_content {
+        position: inherit;
+        padding: 0;
+    }
+
+    .special .col-sm-6 {
+        width: 100%;
+    }
+
+    .contact {
+        padding-left: 0;
+        padding: 140px 0;
+
+    }
+
+    .contact .edelwiss .inner_edel_content {
+        margin-left: 20px;
+    }
+
+    .join .inner_join {
+        padding: 30px 0 50px;
+    }
+
+    .footer {
+        font-size: 20px;
+        padding: 30px 0;
+    }
+
+    .special_center .special_content h6 {
+        padding-top: 30px;
+    }
+
+    .follow_us .col-sm-4:nth-child(3) {
+        width: 22%;
+    }
+
+    .show_res {
+        display: block;
+    }
+
+    .hide_res {
+        display: none;
+    }
+
+    .follow_banner p img {
+        left: -35px;
+        width: 345px;
+    }
+
+    .right_follow ul li {
+        margin-right: 0;
+        width: 20%;
+        float: right;
+        margin-right: 10px;
+
+    }
+
+    .inner_follow.right_follow ul {
+        top: 115px;
+        width: 300%;
+        right: 0;
+    }
+
+    .follow_banner p span {
+        margin-top: -3px;
+    }
+
+    .follow_us {
+        /*        padding: 40px 0 60px;*/
+        padding-bottom: 150px;
+        padding: 0px!important;
+    }
+
+    .modal-body .form-group label {
+        font-size: 13px;
+    }
+
+    .modal-body .form-group label:before {
+        padding: 8px;
+    }
+
+    .modal-body .call_us,
+    .form-group {
+        margin: 25px 0;
+    }
+
+    .modal .modal-content .modal-body {
+        padding: 40px 20px 20px;
+    }
+
+    .modal.fade .modal-dialog {
+        width: 92%;
+        margin: 14% auto;
+    }
+
+    .banner {
+        background: url(../img/banner.png) no-repeat center right 13%;
+    }
+
+    .inner_follow .ipad .fbook {
+        /*        width: 100%;*/
+        height: 497px;
+        margin: 75px 50px 0;
+    }
+
+
+    .inner_follow .ipad .ipad_img img {
+        height: 654px;
+        width: 100%;
+    }
+
+    .inner_follow .ipad {
+        margin-left: 0;
+        padding: 60px 0 115px;
+    }
+    .slides .slick-slide img{
+        height: 300px;
+    }
+    .follow_us_bg{
+        padding: 0px 15px;
+        /*        overflow: hidden;*/
+    }
+    .Follow_us_bottom{
+        padding: 0px 15px;
+    }
+    /*    .Follow_us_bottom li {
+            width: 100%;
+        }
+        .Follow_us_bottom iframe {
+            width: 90%;
+                    left:5%;
+            left: 0%;
+            top: 95px;
+        }*/
+    .forDesktop{
+        display: none;
+    }
+    /*    .Follow_us_bottom li{
+            width:100%;
+            float:left;
+            background: url('../img/ipadbig.png') no-repeat center center;
+                    background-size: contain;
+            min-height: 400px;
+            background-size: 100% 100%;
+        }*/
+    .Follow_us_bottom li {
+        /*        width: 100%;*/
+        /*        float: left;*/
+        /*        background: url(../img/ipadbig.png) no-repeat center center;*/
+
+        width: 428px;
+        margin: 0 auto;
+
+    }
+
+
+    /*    .Follow_us_bottom iframe{
+            top:45px;
+        }*/
+    /*divya*/
+    /*    .Follow_us_bottom iframe {
+            top: 46px;
+            width: 313px;
+            left: 40px;
+        }*/
+    /*divya end*/
+
+
+    /*    .followtext span {
+                    margin-top: -12px;
+            font-size: 37px;
+        }*/
+    .followsociallink img{
+        width:50px;
+    }
+    .followsociallink{
+        margin-top: -19px;
+    }
+    .follow_us_bg{
+        background: url('../img/follow_res.png') no-repeat right -50px center;
+        padding: 100px 0px 100px 0px;
+    }
+    .iframedesktop{
+        display: none;
+    }
+    .iframeres{
+        display: block;
+    }
+    .Foriframe{
+        position: absolute;
+        top: 68px;
+        left: 44px;
+        width:100%;
+        height: 77%;
+    }
+    .Foriframe iframe{
+        width:100%;
+        height: 100%;
+        /*        top: 68px;
+                left: 10.2%;*/
+        position: static;
+    }
+    .pd0{
+        padding-left: 0px;
+    }
+    .modal-body .form-group input:checked + label:after{
+        top: 2px;
+        left: 7px;
+        width: 6px;
+        height: 11px;
+    }
+    .modal .col-sm-6{
+        padding: 0px;
+    }
+    .msgs{
+        width:100%;
+    }
+    .contact .contactright img{
+        display: none;
+    }
+
+}
+
+@media(max-width:560px) {
+    .join .inner_join h2 {
+        font-size: 45px;
+    }
+
+    .join .inner_join a,
+    .edelwiss .inner_edel_content .book a {
+        font-size: 30px;
+    }
+
+    .header_tag a.model_link {
+        font-size: 25px;
+        top: 86px;
+        left: 46px;
+    }
+
+    .header_tag a.model_link span {
+        font-size: 18px;
+    }
+
+    .header {
+        background-size: 295%;
+    }
+
+    .banner {
+        padding: 100px 15px;
+    }
+
+    .banner img {
+        width: 75%;
+    }
+
+    .banner h3 {
+        font-size: 33px;
+    }
+
+    .follow_us .col-sm-4:nth-child(3) .inner_follow img {
+        width: 100%;
+    }
+
+    .follow_us .col-sm-4:nth-child(2) {
+        // width: 210%;
+    }
+    .follow_us .col-sm-4{
+        width: 100% !important;
+        float: left !important;
+    }
+
+    .follow_banner p img {
+        width: 275px;
+        left: -77px;
+    }
+
+    .follow_banner p span {
+        margin-top: -8px;
+        margin-left: -28px;
+    }
+
+    .follow_banner p {
+        font-size: 36px;
+    }
+
+    .modal-body .form-group label span {
+        margin-top: 11px;
+        margin-left: 0;
+    }
+
+    .modal-body .form-group label:before {
+        margin-bottom: 11px;
+    }
+
+    .modal-body .heading_model h2 {
+        width: 100%;
+    }
+
+    .modal-body p {
+        font-size: 14px;
+    }
+
+    .header_tag {
+        background-size: 133px 170px;
+        right: -81px;
+        width: 234px;
+    }
+
+    .header_tag ul li {
+        width: 42px;
+    }
+
+    .header_tag ul {
+        position: absolute;
+        left: 23px;
+        top: 20px;
+    }
+
+    .header_tag ul li a img {
+        width: 100%;
+    }
+
+    .inner_follow.right_follow ul {
+        top: 100px;
+        width: 300%;
+        right: 15px;
+    }
+
+    .right_follow ul li {
+        margin-right: 6px;
+    }
+
+    .banner {
+        background: url(../img/banner.png) no-repeat right 17% top 5%;
+    }
+
+    inner_follow .ipad {
+        margin: -62px 40px;
+    }
+
+    .inner_follow .ipad {
+        margin: -90px 0px;
+        width: 293px;
+        padding: 120px 0;
+    }
+
+    .inner_follow .ipad .fbook {
+        width: 281px;
+        height: 438px;
+        top: 141px;
+        left: 31px;
+        margin: 65px 36px 0;
+    }
+
+    .inner_follow .ipad .ipad_img img {
+        height: 570px;
+        width: 352px;
+    }
+    .slides .slick-slide img{
+        height: 250px;
+    }
+    .followsociallink img {
+        width: 40px;
+    }
+    .follow_us{
+        padding-top: 115px;
+    }
+    /*    .followtext span {
+            margin-top: -11px;
+            font-size: 30px;
+        }*/
+    .Follow_us_bottom {
+        padding: 0px 0px; 
+    }
+    /*    .fwidth{
+            width:80%;
+        }*/
+    .followtext img{
+        width: 260px;
+
+    }
+    .followtext span{
+        font-size: 32px;
+        margin-top: -7px;
+    }
+    .follow_up_socaillink a {
+        margin: 0px 5px;
+    }
+    .Follow_us_bottom li {
+        width: 427px;
+        /*        float: left;*/
+    }
+    .Foriframe{
+        top: 67px;
+        left: 43px;
+    }
+    .follow_us{
+        overflow: hidden;
+    }
+    .thankumsg .Step2iiner h6{
+        font-size: 32px;
+    }
+    #myModal .modal-body p span {
+    display: inline;
+}
+}
+
+@media(max-width:480px) {
+    .inner_follow .ipad {
+        margin: -62px 0px;
+    }
+    /*    .Follow_us_bottom li{
+            width:100%;
+        }
+        .Foriframe{
+            left: 10.5%;
+            width: 82%;
+        }*/
+
+}
+
+@media(max-width:414px) {
+    .header {
+        background-size: 365%;
+    }
+
+    .contact.edelwiss .inner_edel_content,
+    .edelwiss .inner_edel_content {
+        margin-left: 0;
+    }
+
+    .join .inner_join h2 {
+        font-size: 33px;
+        margin-bottom: 24px;
+    }
+
+    .join .inner_join a {
+        font-size: 22px;
+    }
+
+    .edelwiss .inner_edel_content .book a {
+        font-size: 28px;
+    }
+
+    .join .inner_join {
+        padding: 20px 0 35px;
+    }
+
+    .edelwiss .inner_edel_content p {
+        font-size: 18px;
+    }
+
+    .footer {
+        font-size: 15px;
+        padding: 26px 0;
+    }
+
+    .header_tag {
+        background-size: 118px 118px;
+        width: 331px;
+        right: -200px;
+    }
+
+    .header_tag ul li {
+        width: 34px;
+    }
+
+    .header_tag a.model_link span {
+        font-size: 18px;
+    }
+
+    .modal-body .form-control,
+    .date_Birth label {
+        width: 100%;
+    }
+
+    .header_tag ul {
+        top: 10px;
+    }
+
+    .contact .inner_edel_content p a {
+        font-size: 20px;
+    }
+
+
+
+    .follow_banner p img {
+        width: 220px;
+    }
+
+    .follow_banner p {
+        font-size: 30px;
+    }
+
+    .follow_banner p span {
+        margin-top: -9px;
+        margin-left: -35px;
+    }
+
+    .inner_follow .ipad {
+        margin: 30px 0;
+        padding: 0px 0;
+    }
+
+    .modal-body .signup1 {
+        padding: 3px 20px;
+    }
+
+    .header_tag a.model_link {
+        font-size: 20px;
+        top: 57px;
+        left: 36px;
+    }
+
+    .sidenav {
+        padding-top: 30px;
+        padding-right: 30px;
+    }
+
+
+    .slick-prev {
+        left: 25px;
+        width: 30px;
+        height: 30px;
+    }
+
+    .slides .slick-prev:before {
+        font-size: 28px;
+    }
+
+    .slick-next {
+        right: 25px;
+        width: 30px;
+        height: 30px
+    }
+
+    .slides .slick-next:before {
+        font-size: 28px;
+    }
+
+    .inner_follow .ipad .fbook {
+        width: 233px;
+        margin: 65px 29px 0;
+    }
+
+    .inner_follow .ipad .ipad_img img {
+        width: 292px;
+        /*            margin-right: 41px;*/
+    }
+
+    .inner_follow.right_follow ul {
+        right: 9px;
+    }
+
+    .right_follow ul li {
+        width: 54%;
+        margin: 4px 8px;
+    }
+
+    .follow_us .col-sm-4:nth-child(3) {
+        width: 0;
+    }
+    .follow_up_socaillink a{
+        margin: 0px 2px;
+    }
+    .followsociallink img {
+        width: 30px;
+    }
+    /*    .followtext span {
+            margin-top: -13px;
+            font-size: 21px;
+        }*/
+    .followtext img {
+        width: 200px;
+    }
+    .followtext span {
+        font-size: 24px;
+        margin-top: -9px;
+    }
+    /*    .Follow_us_bottom li{
+            width: 315px;
+        }
+        .Follow_us_bottom iframe{
+            left: 33px;
+            width: 249px;
+        }*/
+    .Follow_us_bottom li {
+        width: 332px;
+    }
+    .Foriframe {
+        top: 52px;
+        left: 33px;
+        width: 265px!important;
+        height: 344px;
+        overflow: hidden;
+    }
+    .BirthdayD .subfield {
+        width: 79px;
+    }
+}
+

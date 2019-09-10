@@ -1,0 +1,708 @@
+@media(max-width:1366px){
+    .section1 img {
+        right: 0%;
+    }
+
+}
+@media(max-width:1199px){
+    /*header section start*/
+    .header .navbar-default .navbar-nav > li > a {
+        font-size: 15px;
+        padding: 15px 16px;
+    }
+
+    /*header end*/
+    /*section1 start*/
+    .section1 .top_img1{
+        display: block;
+    }
+    .section1 .top_img{
+        display: none;
+    }
+    .section2 .latest_match .static h5 {
+        font-size: 12px;
+    }
+
+    .section2 .latest_match .static h4 {
+        font-size: 10px;
+    }
+    .section1 img {
+        right: 0%;
+        top: 5%;
+    }
+    .section3 .francois_inner {
+        min-height: 205px;
+    }
+    .section1 .footbal_tips h1 {
+        font-size: 36px;
+    }
+    .section1 .footbal_tips p {
+        font-size: 17px;
+        line-height: 24px;
+    }
+    /*section1 end*/
+    /*section2 start*/
+    .section2 .latest_match .list tr td span.left, .section2 .latest_match .list tr td span.right {
+        width: 44%;
+    }
+    .section2 .latest_match .list tr th:nth-child(3) {
+        width: 24%;
+    }
+    .section2 .latest_match .list tr th:nth-child(1), .section2 .latest_match tr th:nth-child(2) {
+        width: 14.5%;
+    }
+    .section2 .latest_match h2 {
+        font-size: 20px;
+    }
+    .card .credit .credit_img1{
+        display: none;
+    }
+    .card .credit .credit_img{
+        display: block;
+    }
+    .section3 .francois p span {
+        display: inline;
+    }
+
+    /*------contact page start-------*/
+    .contact_inner .address .address_inner p{ 
+        font-size: 13px;
+    }
+    /*------contact page end-------*/
+}
+@media screen and (min-width: 992px) and (max-width: 1199px) { 
+
+} 
+@media(max-width:991px){
+    /*header start*/
+    .header .logo_img1{
+        display: block;
+    }
+    .header .logo_img{
+        display: none;
+    }
+    .header .navbar-default .navbar-nav > li > a {
+        font-size: 14px;
+        padding: 6px 12px;
+    }
+    .header {
+        padding: 15px 0px 0px 0px;
+    }
+    /*header end*/
+
+    .section1 .top_img1 {
+        display: none;
+    }
+    /*    .section1 .footbal_tips h1 span{
+            display: inline;
+        }*/
+    .section1 .footbal_tips h1 {
+        font-size: 36px;
+        text-align: center;
+    }
+    .section3 .francois_inner {
+        min-height: 179px;
+    }
+
+    .section1 {
+        margin-top: 64px;
+    }
+    .section .cick{
+        padding-left: 15px;
+    }
+    .section1 .footbal_tips p {
+        font-size: 17px;
+        line-height: 26px;
+        text-align: center;
+    }
+    .section2 ul li img {
+        margin: 0 auto;
+        width: 79%;
+    }
+    .section2 ul {
+        padding: 21px 0px 30px 0px;
+    }
+    .section2 .latest_match .list tr td a {
+        font-size: 11px;
+        padding: 3px 10px;
+        letter-spacing: 0px;
+    }
+    .section2 .latest_match .list tr a.lost {
+        padding: 3px 4px;
+    }
+    .section2 .latest_match .list tr th {
+        font-size: 11px;
+    }
+    .section2 .latest_match .list tr td {
+        color: #fff;
+        font-family: 'RobotoCondensedRegular';
+        font-size: 11px;
+        padding: 2px 0px;
+    }
+    .section2 .latest_match .list tr th:nth-child(3) {
+        width: 20%;
+    }
+    .section2 .latest_match .list tr th:nth-child(1), .section2 .latest_match tr th:nth-child(2) {
+        width: 14%;
+    }
+    .section2 .latest_match .list tr th:nth-child(3) {
+        width: 27%;
+    }
+    .section2 .latest_match .static tr td {
+        font-size: 14px;
+    }
+    /*    .section2 .latest_match .static {
+            padding: 11px 0px;
+            margin: 10px 7px 12px 7px;
+        }*/
+    .section2 .latest_match .dropdown .fa-chevron-down {
+        padding-left: 17px;
+    }
+    .section2 .latest_match .list tr td span.left, .section2 .latest_match .list tr td span.right {
+        width: 37%;
+    }
+    .section2 .latest_match .list tr td:nth-child(1) {
+        padding-left: 11px;
+    }
+    .padd{
+        padding-left: 15px;
+    }
+    .section2 .latest_match .list tr th:last-child {
+        padding-right: 11px;
+    }
+    .section2 .latest_match .list tr th:nth-child(4) {
+        text-align: center;
+        width: 33%;
+    }
+    .section2 .latest_match img{
+        float: unset;
+        margin: 10px auto 0px;
+    }
+    .section2 .latest_match h2{
+        padding: 12px 0px;
+        text-align: center;
+    }
+    .section2 .latest_match p {
+        font-size: 13px;
+        text-align: center;
+    }
+
+
+    .section2 .latest_match .static tr th {
+        width: 20.5%;
+        padding: 10px 10px;
+        text-align: left;
+    }
+    .section2 .latest_match .static tr td {
+        padding: 10px 10px;
+        text-align: left;
+    }
+    [type="radio"]:checked + label, [type="radio"]:not(:checked) + label {
+        padding-left: 30px;
+        line-height: 18px;
+        display: inline-block;
+        font-size: 15px;
+    }
+    [type="radio"]:checked + label:before, [type="radio"]:not(:checked) + label:before {
+        content: '';
+        position: absolute;
+        left: 8px;
+    }
+    [type="radio"]:checked + label:after, [type="radio"]:not(:checked) + label:after {
+        left: 12px;
+    }
+    .card .credit .credit_img {
+        display: block;
+        width: 12%;
+        margin: 5px 1px;
+    }
+    .section2 .tips_inner .buy {
+        padding: 8px 0px;
+        font-size: 19px;
+    }
+    .win1{
+        margin-left: 15px;
+    }
+    .section2 .two_tips .dollar h2 {
+        font-size: 60px;
+    }
+    .section2 .latest_match .list tr td {
+        padding: 5px 0px;
+    }
+
+    .section2 .membership h2 {
+        font-size: 18px;
+    }
+    .section2 .membership p {
+        font-size: 12px;
+    }
+    .section2 .membership .instant {
+        padding: 15px 15px 20px 15px;
+    }
+    /*footer start*/
+
+
+    .section3 .francois p {
+        font-size: 13px;
+        padding: 15px 10px 2px 10px;
+    }
+    .section3 .francois h2 {
+        font-size: 16px;
+    }
+    .footer ul li {
+        margin: 0px 7px;
+    }
+    .footer ul li a {
+        font-family: 'RobotoCondensedBold';
+        font-size: 14px;
+    }
+    .footer ul {
+        padding: 18px 0px;
+    }
+    /*---------testimpnoals page start--------*/
+    .own_testimonials textarea, .own_testimonials input{
+        padding: 9px;
+    }
+    .own_testimonials textarea{
+        height: 217px;
+    }
+    .own_testimonials button{
+        padding: 9px 0px;
+    }
+    .all_testimonials{
+        margin-top: 10px;
+    }
+    /*-------testimpnoals page start--------*/
+}
+@media screen and (min-width: 768px) and (max-width: 991px) { 
+
+}
+@media(max-width:768px){
+
+}
+@media(max-width:767px){
+    /*header start*/
+    .header .hamburger{
+        display: block;
+    }
+
+    .card .credit .credit_img{
+        display: none;
+    }
+    .card .credit .credit_img1{
+        display: block;
+    }
+    /*header  end*/
+    .section2 .edward {
+        margin-top: 22px;
+    }
+    .section3 .francois h2 span {
+        font-size: 14px;
+    }
+    .section2 .latest_match .hide_table{
+        display: block;
+    }
+    .section2 .latest_match .list1{
+        display: none;
+    }
+    .section2 .logos_img2{
+        display: none;
+    }
+    .section2 .latest_match .static h4 {
+        font-size: 11px;
+    }
+    .section2 .latest_match .static h5 {
+        font-size: 14px;
+    }
+    .section3 h1 {
+        font-size: 20px;
+    }
+    .section3 .francois h2 {
+        font-size: 18px;
+    }
+    .section3 .francois p {
+        font-size: 14px;
+    }
+    .section2 .logos_img{
+        display: block;
+        width: 100%;
+        padding: 5px 0px;
+    }
+    .section2 ul {
+        padding: 21px 0px 13px 0px;
+    }
+    .section2 .latest_match .static tr th {
+        width: 20.5%;
+        padding: 0px 10px;
+    }
+    .section2 .latest_match .static tr td {
+        padding: 0px 10px;
+    }
+    .footbal_tips{
+        padding-left: 15px;
+    }
+    .section2 .col-sm-8,.section2 .col-sm-4{
+        padding: 0px;
+    }
+    [type="radio"]:checked + label, [type="radio"]:not(:checked) + label {
+        font-size: 18px;
+    }
+    .section3 .francois_inner {
+        min-height: 197px;
+    }
+    .section2 .tips_inner .buy {
+        padding: 11px 0px;
+        font-size: 22px;
+    }
+    .section2 .membership h2 {
+        font-size: 20px;
+    }
+    .section2 .membership p {
+        font-size: 14px;
+    }
+    .section1 .footbal_tips h1 {
+        font-size: 22px;
+    }
+    .section1 .footbal_tips p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .section2 .hide_table .list p {
+        font-size: 12px;
+    }
+
+    /*footer start*/
+    .footer ul li {
+        display: inherit;
+        padding: 7px 0px;
+    }
+    .footer ul {
+        padding: 9px 0px;
+    }
+    .footer ul li a {
+        font-size: 16px;
+    }
+    /*footer end*/
+
+    /*------------help page start---------*/
+    .frequently .question .question_inner h2 {
+        font-size: 16px;
+    }
+    .frequently .question .question_inner p {
+        font-size: 13px;
+    }
+    .frequently h1 {
+        font-size: 22px;
+    }
+    /*------------help page end---------*/
+    /*-------testimonials page start--------*/
+    .own_testimonials .input_right{
+        padding-left: 15px;
+        margin-top: 10px;
+    }
+    .own_testimonials h1 {
+        font-size: 22px;
+        padding-bottom: 0px;
+    }
+    .own_testimonials p span{
+        display: inline;
+    }
+    .own_testimonials p{
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .own_testimonials textarea {
+        height: 180px;
+    }
+
+    /*-------testimonials page end--------*/
+    /*--------contact page start----------*/
+    .contact_inner h1 {
+        font-size: 22px;
+    }
+    .contact_inner p span{
+        display: inline;
+    }
+
+    .contact_inner p {
+        line-height: 21px;
+        font-size: 14px;
+        padding: 8px 0px 9px 0px;
+    }
+    .contact .contact_us .col-sm-8{
+        padding-right: 0px;
+    }
+    .contact_inner .address .address_inner{
+        border-right: none;
+        border-bottom: 2px solid #4e4e4e;
+    }
+    .contact_inner .address .address_inner1{
+        border: none;
+    }
+    .contact_inner .success h1, .contact_inner .error h2 {
+        font-size: 15px;
+        padding: 12px 0px;
+    }
+    /*--------contact page end---------*/
+
+    /*--------cookie page start---------*/
+    .cookie_inner .intro p {
+        padding: 4px 0px;
+        line-height: 20px;
+    }
+    /*-------cookie page end-----*/
+
+    /*-------thankupou page start-----------*/
+    .thankyou .thank_inner p span{
+        display:inline;
+    }
+    .thankyou .thank_inner {
+        padding: 150px 15px;
+    }
+    /*-------thankupou page end-----------*/
+}
+@media(max-width:560px){
+    /*section1 start*/
+    .section1 .footbal_tips h1 {
+
+        line-height: 26px;
+    }
+    .section1 .footbal_tips p {
+        font-size: 14px;
+        line-height: 20px;
+        padding-top: 8px;
+    }
+    .section2 .latest_match h1 {
+        font-family: 'RobotoCondensedBold';
+        font-size: 13px;
+        padding: 8px 0px;
+    }
+    .section1 {
+        padding: 29px 0px 29px 0px;
+    }
+    .section2 .logos_img {
+        padding: 8px 0px;
+        margin-bottom: 0px;
+    }
+    /*section1 end*/
+    .section2 .hide_table .list .win{
+        padding-left: 0px;
+    }
+    .section3 .francois_inner {
+        min-height: 137px;
+    }
+    .section2 .hide_table .list p {
+        font-size: 12px;
+    }.section2 .latest_match h2 {
+        padding: 30px 0px 0px 0px;
+        text-align: left; 
+    }
+    .section2 .latest_match img {
+        float: left;
+        margin: 10px 10px;
+    } 
+    .section2 .hide_table .list h4 a {
+        font-size: 12px;
+    }
+    .section2 .latest_match p {
+        font-size: 14px;
+        text-align: left; 
+    }
+
+    .section2 .tips_inner .last {
+        font-size: 10px;
+    }
+    .section2 .membership h1 {
+        font-size: 13px;
+        padding: 8px 0px;
+    }
+    .section2 .latest_match .static tr th {
+        font-size: 11px;
+    }
+    .section2 .latest_match .static tr td {
+        padding: 0px 6px;
+    }
+    .section2 .latest_match h2 span {
+        font-size: 14px;
+    }
+    .section2 .membership h2 {
+        font-size: 16px;
+    }
+    .section2 .membership p {
+        font-size: 12px;
+        padding-top: 8px;
+    }
+    /*section3 start*/
+    .section3 h1 {
+        font-size: 20px;
+    }
+    .section3 {
+        background-color: #2d2d2d;
+        padding: 17px 0px;
+        margin-top: 19px;
+    }
+    .section3 .francois h2 {
+        line-height: 20px;
+    }
+    .section3 .francois h2 span {
+        color: #858585;
+        display: block;
+    }
+
+    /*section3 end*/
+    /*---------index page end-------*/
+
+    /*--------help page start---------*/
+    .frequently h1 {
+        font-size: 19px;
+        padding-bottom: 0px;
+    }
+    .frequently .question .question_inner h2 {
+        font-size: 14px;
+        padding: 12px 15px 12px 15px;
+        line-height: 18px;
+    }
+    .frequently .question .question_inner p {
+        padding: 12px 15px 12px 15px;
+        font-size: 13px;
+    }
+    .frequently .question {
+        padding: 21px 15px 15px 15px;
+        margin: 90px 0px 25px 0px;
+
+    }
+    /*--------help page end---------*/
+    /*------contact page start--------*/
+    .contact_inner {
+        margin: 90px 0px 27px 0px;
+        padding: 20px 15px 8px 15px;
+    }
+    .contact_inner p {
+        line-height: 18px;
+        font-size: 13px;
+        padding: 7px 0px 7px 0px;
+    }
+    /*------------contact page end----------*/
+
+    /*--------cookie page start---------*/
+    .contact_inner h1 {
+        font-size: 19px;
+    }
+    .cookie_inner .intro h2 {
+        font-size: 16px;
+        padding: 18px 0px 6px 0px;
+        line-height: 21px;
+    }
+    /*-------cookie page end-----*/
+    /*-------thankupou page start-----------*/
+    .thankyou .thank_inner h1 {
+        font-size: 27px;
+    }
+    .thankyou .thank_inner p {
+        font-size: 13px;
+    }
+    .thankyou .thank_inner {
+        padding: 85px 15px;
+        margin: 88px 0px 20px 0px;
+    }
+    /*-------thankupou page end-----------*/
+}
+
+
+
+@media(max-width:414px){
+    /*section1 start*/
+
+    .section1 .footbal_tips p {
+        font-size: 14px;
+        line-height: 20px;
+        padding-top: 5px;
+    }
+    .header .logo_img1 {
+        width: 90%;
+        margin-top: 4px;
+    }
+    .section1 {
+        padding: 20px 0px 20px 0px;
+    }
+    /*section1 end*/
+    /*section2 start*/
+    .section2 .hide_table .list h4 a {
+        font-size: 11px;
+        padding: 4px 9px;
+    }
+    .section1 .footbal_tips h1 span{
+        display: inline;
+    }
+    .section2 .hide_table .list .lost3 {
+        padding: 3px 3px;
+    }
+    .section2 .latest_match img{
+        float: left;
+        margin: 10px 10px;
+    }
+    .section3 .francois_inner {
+        min-height: 160px;
+    }
+    .section2 .latest_match h2{
+        text-align: left;
+        padding: 27px 0px;
+    }
+    .card .credit .credit_img1{
+        width: 12%;
+    }
+    /*section2 end*/
+    /*------index page end----*/
+    /*------help page start-------*/
+    .frequently h1 {
+        font-size: 17px;
+    }
+    .frequently .question .question_inner h2 {
+        font-size: 13px;
+        padding: 8px 15px 8px 14px;
+    }
+    .frequently .question .question_inner p {
+        padding: 8px 15px 8px 15px;
+    }
+    /*-------help page end------*/
+    /*-------testimonials page start--------*/
+    .own_testimonials h1 {
+        font-size: 18px;
+
+    }
+    .own_testimonials p {
+        font-size: 12px;
+        line-height: 18px;
+        padding: 10px;
+    }
+    .own_testimonials{
+        padding: 25px 0px 0px 0px;
+        margin: 90px 0px 20px 0px;
+    }
+    .own_testimonials textarea {
+        height: 145px;
+    }
+    /*-------testimonials page end--------*/
+    /*---------contact page start---------*/
+    .contact_inner .success h1, .contact_inner .error h2 {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 8px 0px;
+    }
+    .contact_inner .contact_us {
+        margin: 0px;
+        padding: 22px 0px 0px 0px;
+    }
+    .contact_inner .address .address_inner {
+        padding: 15px 0px;
+    }
+    /*--------contact page end----------*/
+    /*-------thankupou page start-----------*/
+    .thankyou .thank_inner {
+        padding: 70px 15px;
+    }
+    /*-------thankupou page end-----------*/
+}
+@media(max-width:320px){
+
+}

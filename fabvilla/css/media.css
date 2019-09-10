@@ -1,0 +1,615 @@
+@media (min-width:768px) {
+    .header .navbar-nav>li>.dropdown-menu1 {
+        display: none !important;
+    }
+    .header .headerbtm .navbar-default .navbar-nav>li.dropdown:hover ul.dropdown-menu1 {
+        display: block !important;
+        z-index: 1;
+        background: #fff;
+        top: inherit;
+    }
+}
+
+@media (max-width:1199px) {
+
+    .sort .color .images p {
+        font-size: 16px;
+    }
+    .sort .color .images h4 {
+        font-size: 20px;
+    }
+    .sort .color .images h5 {
+        font-size: 14px;
+        margin-top: -23px;
+    }
+    .sort .color .images .middle img {
+        min-height: 223px;
+    }
+    .header .headermid .cart {
+        margin: 0 20px;
+    }
+    .categories .catenav a {
+        width: 19.4%;
+        font-size: 15px;
+        padding: 5px 0px;
+    }
+    .categories .category .img-wrapper {
+        padding: 5px 0;
+    }
+    .categories .catenav {
+        margin: 0 0 10px;
+    }
+    .category .detail {
+        padding: 10px 0 0;
+    }
+    .category .detail h2 {
+        font-size: 25px;
+        padding: 10px 0;
+    }
+    .category .detail h2 span {
+        font-size: 15px;
+    }
+    .category .detail h1, .addons .addtxt p {
+        font-size: 15px;
+    }
+    .category .detail a {
+        font-size: 15px;
+        padding: 5px 0;
+    }
+    .categories {
+        padding: 30px 0;
+    }
+    .footer .footertop ul li {
+        padding: 0 0 10px;
+        font-size: 14px;
+    }
+    .footer .footertop ul li:first-child {
+        font-size: 20px;
+        padding: 0 0 15px;
+    }
+    .footer .footertop .social a {
+        height: 40px;
+        width: 40px;
+        margin: 0 10px 0 0;
+        padding: 8px 0 0;
+        font-size: 15px;
+    }
+    .footer .footertop .input-group-btn>.btn {
+        padding: 10px 20px 10px 15px;
+    }
+    .footer .footertop .input-group .form-control {
+        height: 50px;
+    }
+    .footer .footertop .input-group {
+        padding: 25px 0 0;
+    }
+    .footer .footertop {
+        padding: 20px 0 0px;
+    }
+    .header .headermid .cart {
+        margin: 0 9px;
+    }
+    .fabvilla .right h2{
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .fabvilla .right .rightinner {
+        padding: 8px 0 0;
+    }
+    .fabvilla .right .rightinner h4 {
+        font-size: 30px;
+    }
+    .qty {
+        width: 56px;
+        height: 36px;
+    }
+    .fabvilla .right .rightinner h4 span {
+        font-size: 14px;
+    }
+    .fabvilla .right .rightinner h3 {
+        padding-top: 10px;
+        font-size: 20px;
+    }
+    .fabvilla .right .rightinner select {
+        font-size: 15px;
+        width: 62%;
+        margin-top: 15px;
+    }
+    .quantitybox h6 {
+        padding-bottom: 15px;
+        font-size: 20px;
+    }
+    .quantitybox input[type=button]{
+        width: 40px;
+        height: 36px;
+    }
+    .fabvilla .right .rightinner .varientimg ul li {
+        padding: 12px 10px 0;
+    }
+    .fabvilla .description ul:last-child {
+        padding-left: 38px;
+    }
+    .fabvilla .description ul li {
+        font-size: 17px;
+        padding-top: 5px;
+    }
+    .similar .slick-next {
+        right: -10px;
+    }
+    .similar .slick-prev {
+        left: -20px;
+    }
+}
+@media (max-width:1023px) {
+
+}
+@media (max-width:998px) {
+    .fabvilla .right{
+        padding-left: 20px;
+    }
+
+}
+@media (max-width:991px) {
+    .sort .color .images h4 {
+        font-size: 18px;
+    }
+    .sort .color .images .middle img {
+        min-height: 164px;
+    }
+    .sort .color .images h5 {
+        font-size: 12px;
+        margin-top: -13px;
+    }
+    .sort .color .side ul {
+        margin-top: 15px;
+        padding-left: 0px;
+    }
+    .sort .color .images .fa-plus-circle {
+
+        font-size: 21px;
+    }
+    .sort .color .images .fa-heart-o {
+        color: #323232;
+        font-size: 21px;
+
+    }
+    .header .headerbtm .navbar-default .navbar-nav>li>a {
+        padding: 15px 20px 15px 0;
+        font-size: 13px;
+    }
+    .header .headerbtm .navbar-right li {
+        font-size: 13px;
+    }
+    .hero h1 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+    .heroinner {
+        padding: 200px 0;
+    }
+    .categories .catenav a {
+        width: 19.2%;
+        font-size: 12px;
+    }
+    .category .img-wrapper img {
+        width: 74%;
+    }
+    .special {
+        padding: 20px 0;
+    }
+    .new {
+        padding: 20px 0 0px;
+    }
+    .category .detail h1, .addons .addtxt p {
+        font-size: 13px;
+    }
+    .footer .footertop ul li {
+        padding: 0 0 8px;
+        font-size: 12px;
+    }
+    .footer .footertop ul li:first-child {
+        font-size: 15px;
+        padding: 0 0 13px;
+    }
+    .footer .footertop .connect {
+        padding: 0;
+    }
+    .footer .footertop .social a {
+        margin: 0 2px 0 0;
+    }
+    .footer .footertop .input-group {
+        padding: 15px 0 0;
+    }
+    .footer .footertop .input-group-btn>.btn {
+        padding: 8px 18px 8px 10px;
+        font-size: 15px;
+    }
+    .footer .footertop .input-group .form-control {
+        height: 39px;
+    }
+    .footer .footerbtm p {
+        font-size: 12px;
+    }
+    .footer .footerbtm {
+        padding: 15px 0;
+    }
+    .header .headermid .guest h1 {
+        font-size: 12px;
+    }
+    .header .headermid .guest h1 span.user {
+        right: 2px;
+    }
+    .rightinner h4 { 
+        font-size: 30px;
+    }
+    .fabvilla .right .rightinner h5,.fabvilla .right .rightinner h4 span,.fabvilla .right .rightinner p{
+        font-size: 15px;
+    }
+    .fabvilla .right .rightinner h3{
+        font-size: 20px;
+    }
+    #myform{
+        text-align: left;
+    }
+    .sort .color .headingbg {
+        padding: 10px 10px 0;
+    }
+    .sort .color h2 {
+        font-size: 15px;
+        padding: 0 0 10px;
+    }
+    .sort .color .side .filter .checkboxes label {
+        font-size: 15px;
+        padding: 0 0 5px 10px;
+    }
+    .sort .color .side .filter {
+        padding: 10px;
+    }
+    .sort .color .side h3 {
+        font-size: 13px;
+        padding: 5px 0 0;
+    }
+    .fabvilla .description ul:last-child {
+        padding-left: 30px;
+    }
+    .fabvilla .description ul {
+        margin: 0;
+    }
+    .quantitybox h6 {
+        padding: 15px 0;
+    }
+    .header .navbar-nav>li>.dropdown-menu1 {
+        padding: 15px 0px 15px;
+        min-height: 230px;
+    }
+    .header .headerbtm .navbar-default .navbar-nav>li.dropdown ul.dropdown-menu1 li ul li a {
+        font-size: 14px;
+    }
+    .sort .color .images .prodetail {
+        padding: 5px;
+    }
+    .sort .color .images p {
+        font-size: 13px;
+    }
+
+
+}
+@media (max-width:767px) {
+    .noleft, .noright {
+        padding: 0;
+    }
+    .page .fa {
+        padding-top: 3px;
+    }
+    .page ul a {
+        font-size: 20px;
+    }
+    .sort .color .images p {
+        font-size: 14px;
+    }
+    .sort .color .images .middle img {
+        min-height: 180px;
+    }
+    .sort .color .images .fa-plus-circle {
+
+        font-size: 21px;
+
+    }
+
+    .sort .color .flat:nth-child(even){
+        padding-left: 0px;
+        padding-right: 10px;
+
+    }
+    .sort .color .flat:nth-child(odd){
+        padding-right: 0px;
+        padding-left: 10px;
+
+    }
+    .header .headertop p, .header .headerbtm .navbar-right li {
+        text-align: center;
+    }
+    .header .headertop .htright {
+        text-align: center;
+        padding: 10px 0 0;
+    }
+    .header .headertop .htright a {
+        padding: 0 15px 0 15px;
+    }
+    .header .headermid .search .input-group {
+        margin: 15px 0;
+    }
+    .header .headermid .guest h1 {
+        font-size: 16px;
+    }
+    .header .headermid .search .input-group {
+        margin: 15px 0 0;
+    }
+    .header .headerbtm .navbar-default .navbar-nav>li>a {
+        padding: 5px 0px 5px 0;
+        text-align: center;
+    }
+    .categories .sareeimg img, .specialimg img {
+        margin: 0 auto 20px;
+    }
+    .footer {
+        text-align: center;
+    }
+    .footer .footertop .infodiv {
+        padding: 0;
+    }
+    .footer .footertop .input-group {
+        padding: 15px 0;
+    }
+    .footer .footerbtm p span {
+        float: initial;
+        display: block;
+        padding: 5px 0 0;
+    }
+    .header .headermid .cart {
+        margin: 0;
+    }
+    .fabvilla .right h2{
+        font-size: 19px;
+        padding-top: 20px;
+        text-align: center;
+    }
+    .sort .home {
+        padding-right: 0;
+    }
+    .similar .sort .color .images .middle img {
+        width: 100%;
+    }
+    .fabvilla .right {
+        padding-left: 0;
+        margin: 0 0 20px;
+    }
+    .slides li {
+        width: 96%;
+    }
+    .fabvilla .right h2 {
+        padding-top: 0;
+    }
+    .fabvilla {
+        padding: 5px 0 15px;
+        text-align: center;
+    }
+    .fabvilla .right h2 span {
+        display: block;
+    }
+    #myform {
+        text-align: center;
+    }.fabvilla .right .rightinner .varientimg ul li {
+        width: 33.33%;
+    }
+    .fabvilla .description ul {
+        display: block;
+    }
+    .fabvilla .description ul li {
+        text-align: left;
+    }
+    .header .navbar-nav>li>.dropdown-menu1 {
+        display: block;
+    }
+    .similar .slick-prev::before, .similar .slick-next:before {
+        font-size: 25px;
+    }
+    .similar .slick-prev {
+        left: -10px;
+    }
+    .header {
+        position: relative;
+    }
+    .headerbtm2 {
+        width: 260px;
+        position: absolute;
+        left: -260px;
+        background-color: #fff;
+        z-index: 99;
+        transition: all 0.85s ease 0.1s;
+        top: 230px;
+        height: 100vh;
+        padding: 15px 0 0;
+    }
+    .headerbtm2.fixed_header {
+        position:fixed !important;
+        top: 0;
+        height: 100%;
+
+    }
+    .header .headerbtm .navbar-default .navbar-nav>li.dropdown ul.dropdown-menu1 li ul li.fordet, .header .headerbtm .navbar-default .navbar-nav>li.dropdown ul.dropdown-menu1 li ul li.forimg {
+        padding: 10px 0;
+    }
+    .header .headerbtm1 {
+        display: block;
+    }
+}
+@media (max-width:691px) {
+    .header .headermid .guest h1 {
+        font-size: 12px;
+    }
+}
+@media (max-width:560px) {
+    .sort .color .images .middle img {
+        min-height: 160px;
+    }
+    .sort .color .images p {
+        font-size: 16px;
+    }
+    .page ul a {
+        padding: 5px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 14px;
+    }
+    .page .fa {
+        padding-top: 1px;
+    }
+    .sort .home{
+        width: 100%;
+        padding: 0;
+    }
+    .sort .flat{
+        width: 50%;
+
+    }
+    .sort .color .flat:nth-child(even){
+        padding-left: 0px;
+        padding-right: 10px;
+
+    }
+    .sort .color .flat:nth-child(odd){
+        padding-right: 0px;
+        padding-left: 10px;
+
+    }
+    .header .headermid .cart {
+        height: 30px;
+        width: 30px;
+        font-size: 12px;
+        margin: 13px 0 0;
+    }
+    .header .headermid .cart .fa {
+        top: 7px;
+    }
+    .logodiv img {
+        width: 60%;
+    }
+    .header .headermid .guest {
+        width: 74%;
+    }
+    .header .headermid .guest h1 {
+        font-size: 10px;
+    }
+    .hero h1 {
+        font-size: 25px;
+        line-height: 35px;
+        transform: rotate(0deg);
+        margin-left: 0;
+    }
+    .hero h1 span {
+        padding: 0 0 0 20px;
+    }
+    .heroinner {
+        padding: 100px 0;
+    }
+    .categories .catenav a {
+        width: 19.1%;
+    }
+    .fabvilla .description ul li,.fabvilla .right h2{
+        font-size: 15px;
+        line-height: 20px;
+    }
+}
+@media (max-width:474px) {
+    .fabvilla .description ul:last-child,.fabvilla .description ul{
+        padding-left: 20px;
+    }
+    .fabvilla .description ul li, .fabvilla .right h2{
+        padding-top: 10px;
+    }
+}
+@media (max-width:414px) {
+    .wd100 {
+        width: 100%;
+    }
+    .categories .catenav a {
+        width: 18.9%;
+        font-size: 9px;
+    }
+    .categories .sareeimg img, .specialimg img {
+        margin: 0 auto 10px;
+    }
+    .header .headertop p, .header .headertop .htright a {
+        font-size: 12px;
+    }
+    .header .headermid .guest h1 span.dnone{
+        display: none;
+    }
+    .header .headermid .guest {
+        width: 50%;
+    }
+    .header .headermid .cart {
+        margin: 0 0 0 18px;
+    }
+    .header .headermid .guest h1 span.user {
+        right: 0;
+        top: 0;
+    }
+    .header .headertop .htright {
+        padding: 0;
+    }
+    .header .headertop {
+        padding: 3px 0;
+    }
+    .header .headermid {
+        padding: 5px 0;
+    }
+    .header .headermid .search .input-group {
+        margin: 5px 0 0;
+    }
+    .header .headerbtm1 {
+        padding: 8px 0;
+    }
+    .header .headermid .search .input-group .form-control {
+        height: 29px;
+        font-size: 12px;
+    }
+    .header .headermid .search .input-group-btn>.btn:first-child {
+        padding: 6px 6px;
+        font-size: 11px;
+    }
+    .category .img-wrapper img {
+        width: auto;
+    }
+    .special {
+        padding: 15px 0 5px;
+    }
+    .category .detail h1 {
+        padding: 0 0 15px;
+    }
+    .addons {
+        padding: 10px 0;
+    }
+    .fabvilla .right .rightinner h5, .fabvilla .right .rightinner h4 span, .fabvilla .right .rightinner p{
+        font-size: 12px;
+    }
+    .fabvilla .right .rightinner select{
+        font-size: 15px;
+        width: 60%;
+    }
+    .fabvilla .right h2 span {
+        display: inline;
+    }
+    .headerbtm2 {
+        top: 130px;
+    }
+    .header .headertop .htright a {
+        padding: 0 8px 0 8px;
+    }
+    .sort .color .images p {
+        font-size: 14px;
+    }
+}
+
+

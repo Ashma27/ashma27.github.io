@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="849" viewBox="0 0 320 849">
+    <defs>
+        <path id="b" d="M20.247 570.769h319v140h-319z"/>
+        <filter id="a" width="156.4%" height="228.6%" x="-28.2%" y="-42.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="30" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="25"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.177139946 0"/>
+            <feOffset dy="15" in="SourceAlpha" result="shadowOffsetOuter2"/>
+            <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="15"/>
+            <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0439594656 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="shadowMatrixOuter2"/>
+            </feMerge>
+        </filter>
+        <path id="d" d="M3.762 214.768V202.7H2.736a2 2 0 0 1-2-2v-50.305a2 2 0 0 1 2-2h1.026v-27.152H2.736a2 2 0 0 1-2-2V91.565a2 2 0 0 1 2-2h1.026v-57c0-17.674 14.327-32 32-32h283.949c17.673 0 32 14.326 32 32v115.83h1.025a2 2 0 0 1 2 2V200.7a2 2 0 0 1-2 2h-1.025v477.865c0 17.673-14.327 32-32 32H35.762c-17.673 0-32-14.327-32-32V269.073H2.736a2 2 0 0 1-2-2v-50.305a2 2 0 0 1 2-2h1.026z"/>
+        <filter id="c" width="131.1%" height="115.4%" x="-15.5%" y="-4.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="20" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="15"/>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.03 0"/>
+        </filter>
+        <rect id="e" width="301.166" height="538.893" rx="4"/>
+        <path id="h" d="M.342.628h306.193v663.01H.342z"/>
+        <filter id="g" width="101.3%" height="100.6%" x="-.7%" y="-.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.650589923 0 0 0 0 0.648792997 0 0 0 0 0.648792997 0 0 0 1 0"/>
+        </filter>
+        <rect id="i" width="241.652" height="40.927" rx="3.266"/>
+        <circle id="k" cx="4.083" cy="4.083" r="4.083"/>
+        <path id="n" d="M0 0h7.73v7.73H0z"/>
+        <filter id="m" width="132.3%" height="138.8%" x="-9.7%" y="-9.7%" filterUnits="objectBoundingBox">
+            <feOffset dx=".5" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".25"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.650589923 0 0 0 0 0.648792997 0 0 0 0 0.648792997 0 0 0 1 0"/>
+        </filter>
+        <path id="o" d="M8.197 6.738L1.749.3C1.35-.1.7-.1.3.3c-.4.4-.4 1.047 0 1.447 4.114 4.112 6.263 6.258 6.448 6.438.277.27 1.098.642 1.449.642.233 0 .716-.214 1.449-.642a251.017 251.017 0 0 0 6.447-6.438c.4-.4.4-1.048 0-1.447-.4-.4-1.049-.4-1.449 0L8.197 6.738z"/>
+        <path id="r" d="M186.283 177.882l18.013 15.659c-42.158 48.498-115.65 53.637-164.147 11.478A117.227 117.227 0 0 1 28.27 193.1l18.075-15.586a93.36 93.36 0 0 0 9.461 9.492c38.55 33.51 96.966 29.426 130.476-9.124z"/>
+        <filter id="q" width="102.3%" height="107.1%" x="-.6%" y="-1.8%" filterUnits="objectBoundingBox">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.650589923 0 0 0 0 0.648792997 0 0 0 0 0.648792997 0 0 0 1 0"/>
+        </filter>
+        <path id="t" d="M107.403 24.862V.994c64.26 0 116.354 52.094 116.354 116.354 0 28.48-10.286 55.4-28.624 76.432l-17.99-15.685c14.584-16.727 22.746-38.089 22.746-60.747 0-51.079-41.407-92.486-92.486-92.486z"/>
+        <filter id="s" width="143%" height="125.9%" x="-21.5%" y="-10.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.105882353 0 0 0 0 0.105882353 0 0 0 0 0.305882353 0 0 0 0.1 0"/>
+        </filter>
+        <path id="v" d="M22.545 79.362L.74 69.654C13.396 41.23 36.496 19.55 64.926 8.514l8.637 22.249c-22.616 8.78-40.951 25.988-51.018 48.6z"/>
+        <filter id="u" width="168.7%" height="170.6%" x="-34.3%" y="-28.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.105882353 0 0 0 0 0.105882353 0 0 0 0 0.305882353 0 0 0 0.1 0"/>
+        </filter>
+        <path id="x" d="M72.447 31.286l-8.94-22.13C78.124 3.25 93.532.417 108.978.673l-.397 23.865c-12.262-.204-24.495 2.046-36.135 6.749z"/>
+        <filter id="w" width="210%" height="263.2%" x="-55%" y="-65.3%" filterUnits="objectBoundingBox">
+            <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.105882353 0 0 0 0 0.105882353 0 0 0 0 0.305882353 0 0 0 0.1 0"/>
+        </filter>
+        <path id="z" d="M155.009 215.497l-8.94-22.13c14.618-5.906 30.026-8.74 45.472-8.484l-.397 23.865c-12.262-.204-24.495 2.046-36.135 6.749z"/>
+        <filter id="y" width="210%" height="263.2%" x="-55%" y="-65.3%" filterUnits="objectBoundingBox">
+            <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.105882353 0 0 0 0 0.105882353 0 0 0 0 0.305882353 0 0 0 0.1 0"/>
+        </filter>
+        <path id="B" d="M118.001 232.726l-8.94-22.13c14.618-5.906 30.026-8.74 45.472-8.484l-.397 23.864c-12.262-.203-24.495 2.047-36.135 6.75z"/>
+        <filter id="A" width="210%" height="263.2%" x="-55%" y="-65.3%" filterUnits="objectBoundingBox">
+            <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.105882353 0 0 0 0 0.105882353 0 0 0 0 0.305882353 0 0 0 0.1 0"/>
+        </filter>
+        <circle id="D" cx="20.884" cy="73.79" r="11.934"/>
+        <filter id="C" width="309.5%" height="309.5%" x="-104.7%" y="-83.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.105882353 0 0 0 0 0.105882353 0 0 0 0 0.305882353 0 0 0 0.1 0"/>
+        </filter>
+        <circle id="F" cx="122.32" cy="221.519" r="11.934"/>
+        <filter id="E" width="309.5%" height="309.5%" x="-104.7%" y="-83.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.105882353 0 0 0 0 0.105882353 0 0 0 0 0.305882353 0 0 0 0.1 0"/>
+        </filter>
+        <path id="G" d="M6.905 13.77v-1.506c-.906 0-1.812-.292-2.315-.632l.352-.972c.554.34 1.359.632 2.215.632 1.056 0 1.811-.583 1.811-1.458 0-.825-.604-1.311-1.71-1.749C5.697 7.503 4.74 6.822 4.74 5.56c0-1.214.906-2.137 2.315-2.38V1.72h.956v1.41c.906.048 1.56.242 1.963.533l-.403.972c-.302-.194-.956-.486-1.912-.486-1.158 0-1.61.68-1.61 1.263 0 .778.553 1.166 1.912 1.652 1.56.632 2.365 1.36 2.365 2.672 0 1.166-.855 2.235-2.416 2.478v1.506H6.905v.049z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="rotate(-15 328.25 232.536)">
+        <use fill="#000" filter="url(#a)" opacity=".206" xlink:href="#b"/>
+        <use fill="#000" filter="url(#c)" xlink:href="#d"/>
+        <path fill="#FFF" stroke="#F1F1F1" stroke-linejoin="square" d="M4.262 202.2v13.068H2.736a1.5 1.5 0 0 0-1.5 1.5v50.305a1.5 1.5 0 0 0 1.5 1.5h1.526v411.992c0 17.397 14.103 31.5 31.5 31.5h283.949c17.397 0 31.5-14.103 31.5-31.5V202.2h1.525a1.5 1.5 0 0 0 1.5-1.5v-50.305a1.5 1.5 0 0 0-1.5-1.5h-1.525V32.565c0-17.397-14.103-31.5-31.5-31.5H35.762c-17.397 0-31.5 14.103-31.5 31.5v57.5H2.736a1.5 1.5 0 0 0-1.5 1.5v27.678a1.5 1.5 0 0 0 1.5 1.5h1.526v28.152H2.736a1.5 1.5 0 0 0-1.5 1.5V200.7a1.5 1.5 0 0 0 1.5 1.5h1.526z"/>
+        <circle cx="177.529" cy="664.504" r="27.5" fill="#F3F6F8"/>
+        <g transform="translate(18.9 84.323)">
+            <mask id="f" fill="#fff">
+                <use xlink:href="#e"/>
+            </mask>
+            <rect width="299.636" height="537.363" x=".765" y=".765" stroke="#B5B5B5" stroke-width="1.53" rx="4"/>
+            <g mask="url(#f)">
+                <g transform="translate(-3 -41)">
+                    <use fill="#000" filter="url(#g)" xlink:href="#h"/>
+                    <use fill="#3CD0B0" xlink:href="#h"/>
+                </g>
+                <g transform="translate(30.003 504.244)">
+                    <mask id="j" fill="#fff">
+                        <use xlink:href="#i"/>
+                    </mask>
+                    <use fill="#FFF" xlink:href="#i"/>
+                    <text fill="#18446F" font-family="CircularStd-Book, Circular Std" font-size="20" font-weight="300" letter-spacing=".05" mask="url(#j)">
+                        <tspan x="80.984" y="29.798">Cash out</tspan>
+                    </text>
+                </g>
+                <text fill="#FFF" font-family="CircularStd-Book, Circular Std" font-size="21.229" font-weight="300" letter-spacing=".053" transform="translate(12.856 56.794)">
+                    <tspan x="17.147" y="21">Select amount to cash out</tspan>
+                </text>
+                <g transform="translate(12.856 66.592)">
+                    <mask id="l" fill="#fff">
+                        <use xlink:href="#k"/>
+                    </mask>
+                    <use fill="#F6A93B" fill-rule="nonzero" xlink:href="#k"/>
+                    <g mask="url(#l)">
+                        <use fill="#000" filter="url(#m)" xlink:href="#n"/>
+                        <use fill="#FFF" xlink:href="#n"/>
+                    </g>
+                </g>
+                <path stroke="#FFF" stroke-width=".817" d="M274.482-25.81c-.823 0-1.149.063-1.485.242a1.57 1.57 0 0 0-.655.656c-.18.336-.243.661-.243 1.485v3.671c0 .823.063 1.149.243 1.485.152.284.372.504.655.655.336.18.662.243 1.485.243h12.381c.823 0 1.149-.063 1.485-.243a1.57 1.57 0 0 0 .655-.655c.18-.336.243-.662.243-1.485v-3.671c0-.824-.063-1.15-.243-1.485a1.57 1.57 0 0 0-.655-.656c-.336-.18-.662-.242-1.485-.242h-12.38z" opacity=".35"/>
+                <path fill="#FFF" fill-rule="nonzero" d="M290.47-23.225v3.266a1.772 1.772 0 0 0 0-3.266" opacity=".4"/>
+                <path fill="#FFF" fill-rule="nonzero" d="M274.72-24.586h11.906c.485 0 .66.051.838.146a.99.99 0 0 1 .412.411c.095.178.145.354.145.84v3.196c0 .485-.05.66-.145.838a.99.99 0 0 1-.412.412c-.177.095-.353.145-.838.145H274.72c-.486 0-.662-.05-.839-.145a.99.99 0 0 1-.412-.412c-.094-.177-.145-.353-.145-.838v-3.197c0-.485.05-.661.145-.839a.99.99 0 0 1 .412-.411c.177-.095.353-.146.839-.146zM261.346-24.361c1.81 0 3.55.695 4.86 1.942a.251.251 0 0 0 .355-.003l.943-.953a.263.263 0 0 0-.002-.372 8.898 8.898 0 0 0-12.313 0 .263.263 0 0 0-.002.372l.944.953c.097.098.255.099.354.003a7.056 7.056 0 0 1 4.861-1.942zm0 3.099c.994 0 1.953.37 2.69 1.037.1.094.256.092.353-.005l.943-.953a.263.263 0 0 0-.004-.374 5.846 5.846 0 0 0-7.963 0 .263.263 0 0 0-.003.374l.942.953c.098.097.255.1.354.005a4.007 4.007 0 0 1 2.688-1.037zm1.812 2.273a.256.256 0 0 0-.008-.373 2.794 2.794 0 0 0-3.608 0 .256.256 0 0 0-.008.373l1.631 1.646a.254.254 0 0 0 .362 0l1.63-1.646zM237.942-20.503h.816c.451 0 .817.366.817.817v1.633c0 .45-.366.816-.817.816h-.816a.817.817 0 0 1-.817-.816v-1.633c0-.451.366-.817.817-.817zm3.81-1.633h.817c.45 0 .816.366.816.816v3.267c0 .45-.365.816-.816.816h-.817a.817.817 0 0 1-.816-.816v-3.267c0-.45.365-.816.816-.816zm3.81-1.905h.817c.451 0 .817.365.817.816v5.172c0 .45-.366.816-.817.816h-.817a.817.817 0 0 1-.816-.816v-5.172c0-.45.366-.816.816-.816zm3.81-1.905h.817c.451 0 .817.365.817.816v7.077c0 .45-.366.816-.817.816h-.816a.817.817 0 0 1-.817-.816v-7.077c0-.45.366-.816.817-.816z"/>
+                <g fill="#FFF" font-family="SFProText-Semibold, SF Pro Text" font-size="12.248" font-weight="500" letter-spacing="-.245">
+                    <text transform="translate(14.489 -28.94)">
+                        <tspan x="9.379" y="12.269">9:41</tspan>
+                    </text>
+                </g>
+                <g transform="rotate(90 8.242 9.921)">
+                    <mask id="p" fill="#fff">
+                        <use xlink:href="#o"/>
+                    </mask>
+                    <use fill="#979797" fill-rule="nonzero" xlink:href="#o"/>
+                    <g fill="#FFF" mask="url(#p)">
+                        <path d="M-8.827-13.871h35.05v35.05h-35.05z"/>
+                    </g>
+                </g>
+                <g>
+                    <g transform="translate(34.902 147.427)">
+                        <use fill="#000" filter="url(#q)" xlink:href="#r"/>
+                        <use fill="#ECF2FA" xlink:href="#r"/>
+                    </g>
+                    <path fill="#ECF2FA" d="M81.585 324.587l-18.013 15.658c-30.2-34.74-36.819-83.481-18.067-124.642l21.72 9.895c-14.91 32.728-9.65 71.47 14.36 99.089z"/>
+                    <g transform="translate(43.852 147.427)">
+                        <use fill="#000" filter="url(#s)" xlink:href="#t"/>
+                        <use fill="#18446F" xlink:href="#t"/>
+                    </g>
+                    <g transform="translate(43.852 147.427)">
+                        <use fill="#000" filter="url(#u)" xlink:href="#v"/>
+                        <use fill="#18446F" xlink:href="#v"/>
+                    </g>
+                    <g transform="translate(43.852 147.427)">
+                        <use fill="#000" filter="url(#w)" xlink:href="#x"/>
+                        <use fill="#18446F" xlink:href="#x"/>
+                    </g>
+                    <g transform="scale(1 -1) rotate(48 805.91 -24.467)">
+                        <use fill="#000" filter="url(#y)" xlink:href="#z"/>
+                        <use fill="#18446F" xlink:href="#z"/>
+                    </g>
+                    <g transform="scale(1 -1) rotate(25 1466.9 25.188)">
+                        <use fill="#000" filter="url(#A)" xlink:href="#B"/>
+                        <use fill="#18446F" xlink:href="#B"/>
+                    </g>
+                    <g transform="translate(34.902 147.427)">
+                        <use fill="#000" filter="url(#C)" xlink:href="#D"/>
+                        <use fill="#18446F" xlink:href="#D"/>
+                    </g>
+                    <g transform="translate(34.902 147.427)">
+                        <use fill="#000" filter="url(#E)" xlink:href="#F"/>
+                        <use fill="#18446F" xlink:href="#F"/>
+                    </g>
+                    <g transform="translate(45.84 209.084)">
+                        <circle cx="10.442" cy="10.442" r="10.442" fill="#3CD0B0"/>
+                        <g transform="translate(2.983 2.983)">
+                            <mask id="H" fill="#fff">
+                                <use xlink:href="#G"/>
+                            </mask>
+                            <use fill="#414753" xlink:href="#G"/>
+                            <g fill="#FFF" mask="url(#H)">
+                                <path d="M0 0h14.967v14.967H0z"/>
+                            </g>
+                        </g>
+                    </g>
+                    <text fill="#18446F" font-family="CircularStd-Book, Circular Std" font-size="39.779" font-weight="300" letter-spacing=".099" transform="translate(34.902 147.427)">
+                        <tspan x="83.944" y="106.63">$72</tspan>
+                    </text>
+                    <text fill="#FFF" font-family="CircularStd-Book, Circular Std" font-size="15.912" font-weight="300" letter-spacing=".442" transform="translate(34.902 147.427)">
+                        <tspan x="51.395" y="146.276">Select amount to </tspan> <tspan x="83.856" y="166.276">cash out</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

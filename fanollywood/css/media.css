@@ -1,0 +1,170 @@
+@media(max-width:1350px) {
+    .main {
+        padding-bottom: 20px;
+    }
+
+    .loreumtext_fanolly p {
+        padding: 130px 17px 7px;
+    }
+
+}
+
+@media(max-width:1199px) {
+    .heading_fanolly h1 {
+        font-size: 92px;
+    }
+
+    .loreumtext_fanolly2 {
+        padding-top: 10px;
+    }
+
+    .loreumtext_fanolly p {
+        padding: 120px 17px 7px;
+    }
+}
+
+@media(max-width:991px) {
+    .productions_fanolly {
+        padding: 20px 56px;
+    }
+
+    .heading_fanolly h1 {
+        font-size: 80px;
+    }
+
+    .main {
+        padding: 0 60px;
+    }
+
+}
+
+@media(max-width:768px) {}
+
+@media(max-width: 767px) {
+    .header .hamburger {
+        display: block;
+    }
+
+    .heading_fanolly h1 {
+        font-size: 65px;
+    }
+
+    .loreumtext_fanolly p {
+        padding: 14px 5px 30px;
+    }
+
+    .half_twolink_fanolly a {
+        margin-top: 6px;
+    }
+
+    .productions_fanolly {
+        padding: 20px 20px;
+    }
+
+    .main {
+        padding: 0 28px;
+    }
+
+}
+
+@media(max-width: 560px) {
+    .heading_fanolly h1 {
+        font-size: 48px;
+    }
+
+    .productions_fanolly h5 span {
+        font-size: 20px;
+        width: 172px;
+    }
+
+    .half_twolink_fanolly a {
+        color: #fff;
+        font-size: 16px;
+    }
+
+    .loreumtext_fanolly p {
+        padding: 14px 5px 10px;
+    }
+
+    .half_twolink_fanolly a {
+        margin-top: 10px;
+    }
+
+    .main {
+        padding: 0 15px;
+    }
+
+    .productions_fanolly {
+        padding: 20px 10px;
+    }
+
+
+}
+
+@media(max-width: 414px) {
+    .half_twolink_fanolly a {
+        font-size: 14px;
+    }
+
+    .heading_fanolly h1 {
+        font-size: 36px;
+    }
+
+    .productions_fanolly {
+        padding: 5px 0;
+    }
+
+    .half_twolink_fanolly a {
+        margin-top: 0px;
+    }
+
+    .loreumtext_fanolly p {
+        padding: 9px 0px 6px;
+    }
+
+    .productions_fanolly h5 span {
+        font-size: 18px;
+    }
+
+    .productions_fanolly h5 span {
+        width: 165px;
+    }
+
+    .main {
+        padding: 0 0px;
+    }
+}
+
+@media(max-width: 320px) {
+    .fanollywood_sec1 {
+        height: 100%;
+    }
+
+    .heading_fanolly h1 {
+        font-size: 35px;
+    }
+
+    .productions_fanolly h5 span {
+        font-size: 16px;
+    }
+
+    .loreumtext_fanolly2 p {
+        font-size: 12px;
+    }
+
+
+    .text-left,
+    .text-right {
+        text-align: center;
+    }
+
+
+    .half_twolink_fanolly .noleft,
+    .half_twolink_fanolly .noright {
+        padding: 0;
+    }
+
+    .half_twolink_fanolly a {
+        font-size: 13px;
+    }
+}

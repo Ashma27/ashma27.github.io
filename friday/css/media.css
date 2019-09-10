@@ -1,0 +1,758 @@
+@media(max-width:1920px) {}
+
+@media(max-width:1450px) {
+    /*
+    .home_Banner .bannerright img {
+        height: 100%;
+    }
+*/
+}
+
+@media(max-width:1366px) {
+    .container {
+        width: 1250px;
+    }
+}
+
+@media(max-width:1199px) {
+    .container {
+        width: 960px;
+        margin: 0 auto;
+    }
+
+    .home_Banner {
+        height: 100%;
+        padding: 170px 0 53px;
+    }
+
+    .header .navbar-brand,
+    .navbar-default .navbar-brand:focus,
+    .navbar-default .navbar-brand:hover {
+        font-size: 55px;
+    }
+
+    .home_Banner .bannerright {
+        bottom: -85px;
+        height: 90vh;
+    }
+
+    .bannercont h2 {
+        font-size: 50px;
+    }
+
+    .home_Banner ul li:first-child {
+        margin-right: 26px;
+    }
+
+    .bannercont {
+        padding-left: 50px;
+    }
+
+    .header {
+        padding-left: 15px;
+    }
+
+    .Mheading {
+        font-size: 34px;
+    }
+
+    .paidwork {
+        padding: 120px 0;
+    }
+
+    .paidwork .paidbox h3 {
+        font-size: 17px;
+        padding-bottom: 8px;
+    }
+
+    .how_work .all1 img {
+        width: 65%;
+    }
+
+    .righthow p {
+        font-size: 18px;
+        padding-top: 25px;
+    }
+
+    .righthow ul li a {
+        font-size: 16px;
+    }
+
+    .righthow ul li {
+        padding-top: 20px;
+    }
+
+    .righthow ul li:before {
+        top: 10px;
+    }
+
+    .righthow {
+        height: 95%;
+        padding-top: 35px;
+    }
+
+    .how_work {
+        padding-top: 60px;
+    }
+
+    .tipwork .boxs .left_tip2 {
+        padding-top: 60px;
+    }
+
+    .tipwork {
+        padding-top: 50px;
+    }
+
+    .tipwork .right_tip h2 {
+        font-size: 30px;
+    }
+
+    .tipwork .right_tip p,
+    .tipwork .right_tip ul li {
+        font-size: 13px;
+    }
+
+    .tipwork .right_tip h2 {
+        padding: 15px 0 42px;
+    }
+
+    .tipwork .right_tip p.subheading {
+        font-size: 15px;
+    }
+
+    .tipwork .boxs .lift_tip1 {
+        padding-top: 100px;
+    }
+
+    .paidwork .paidbox p {
+        font-size: 14px;
+    }
+
+    .paidwork .paidbox p br {
+        display: none;
+    }
+
+    .tipwork .right_tip h2:after {
+        left: 100px;
+    }
+
+    .tipwork .right_tip h2.mHeading:after {
+        left: 140px;
+    }
+
+    .top_footer .Mheading {
+        font-size: 32px;
+    }
+
+    .footer .footer_store li {
+        width: 160px;
+    }
+
+
+}
+
+
+
+/*@media(max-width:991px) and (min-width:768px) {}*/
+
+@media(max-width:991px) {
+    .container {
+        width: 730px;
+    }
+
+    .header .navbar-brand,
+    .header.fixed_header .navbar-brand {
+        font-size: 40px;
+    }
+
+    .header ul.nav {
+        margin-top: 8px;
+    }
+
+    .header .navbar-default .navbar-nav > li > a {
+        font-size: 16px;
+    }
+
+    .bannercont h2 {
+        font-size: 30px;
+    }
+
+    .bannercont p {
+        font-size: 16px;
+        padding: 20px 0;
+    }
+
+    .home_Banner .bannerright {
+        bottom: -55px;
+        height: 80vh;
+    }
+
+    .Mheading {
+        font-size: 30px;
+    }
+
+    .paidwork {
+        padding: 100px 0;
+    }
+
+    .paidwork .paidbox h3 {
+        font-size: 16px;
+    }
+
+    .righthow p {
+        font-size: 16px;
+        padding-top: 20px;
+    }
+
+    .righthow ul li a {
+        font-size: 14px;
+    }
+
+    .how_work {
+        padding-top: 45px;
+    }
+
+    .righthow ul li {
+        padding-top: 15px;
+    }
+
+    .how_work .all1 img {
+        width: 70%;
+    }
+
+    .righthow ul li:before {
+        top: 4px;
+    }
+
+    .righthow {
+        height: 90%;
+    }
+
+    .righthow {
+        padding-right: 10%;
+    }
+
+    .tipwork {
+        padding-top: 0;
+    }
+
+    .tipwork .right_tip h2 {
+        font-size: 22px;
+    }
+
+    .tipwork .boxs .left_tip2 {
+        padding-top: 120px;
+    }
+
+    .footer .bottom_footer p {
+        font-size: 13px;
+    }
+
+    .footer .bottom_footer ul li a {
+        font-size: 13px;
+    }
+
+    .footer .top_footer ul {
+        padding: 25px 0;
+    }
+
+    .footer {
+        padding-top: 30px;
+    }
+
+    .top_footer .Mheading {
+        font-size: 30px;
+    }
+
+    /*
+    .footer ul li a img {
+        width: 130px;
+        margin-right: 10px;
+    }
+*/
+
+    .footer ul li a img:last-child {
+        margin-right: 0;
+    }
+
+    .footer .bottom_footer {
+        margin: 0 10px;
+        text-align: center;
+    }
+
+    .footer .footer_store li {
+        width: 130px;
+    }
+}
+
+@media(max-width:767px) {
+    .header .downld_btn {
+        display: block;
+    }
+
+    .header.fixed_header .hamburger-inner,
+    .header.fixed_header .hamburger-inner::before,
+    .header.fixed_header .hamburger-inner::after {
+        background: #3cd0b0;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .home_Banner .bannerright {
+        display: block;
+        position: relative;
+        width: 100%;
+    }
+
+    .home_Banner {
+        padding: 100px 0 70px;
+        display: block;
+    }
+
+    .home_Banner .bannerright img {
+        float: none;
+        height: 100%;
+        display: block;
+        margin: 0 auto;
+        padding-top: 0;
+        position: absolute;
+        right: 0;
+    }
+
+    .home_Banner .bannerright {
+        padding-top: 0;
+    }
+
+    .bannercont h2 {
+        font-size: 50px;
+    }
+
+    .bannercont p {
+        font-size: 18px;
+    }
+
+    .bannercont {
+        padding-left: 30px;
+    }
+
+    .paidwork {
+        padding: 50px 0;
+    }
+
+    .paidwork .paidbox .paidimgs {
+        width: 40%;
+        margin: 0 auto;
+    }
+
+    .paidwork .paidbox h3 {
+        font-size: 22px;
+    }
+
+    .paidwork .paidbox p {
+        font-size: 16px;
+    }
+
+    .how_work .all1 img {
+        width: 50%;
+    }
+
+    .how_work .all1 img {
+        padding-top: 50px;
+    }
+
+    .tipwork {
+        padding-top: 0;
+    }
+
+
+    .tipwork .boxs:last-child {
+        padding-top: 0px;
+    }
+
+    .tipwork .boxs {
+        padding-top: 40px;
+    }
+
+    .tipwork .right_tip h2 {
+        font-size: 30px;
+    }
+
+    .tipwork .right_tip p,
+    .tipwork .right_tip ul li {
+        font-size: 16px;
+    }
+
+    .tipwork .right_tip.leftcont {
+        padding-left: 0;
+    }
+
+    .tipwork .tipWraper .leftcont {
+        padding-top: 40px;
+    }
+
+    .top_footer .Mheading {
+        font-size: 26px;
+    }
+
+    .footer .bottom_footer p {
+        padding-bottom: 10px;
+    }
+
+    .footer .bottom_footer .sociallinks {
+        margin-top: 10px;
+    }
+
+    .footer .bottom_footer {
+        padding: 25px 0 20px;
+    }
+
+    .floatRightCol {
+        padding-top: 40px;
+    }
+
+    .noleft {
+        padding-left: 15px;
+    }
+}
+
+@media(max-width:560px) {
+    .bannercont h2 {
+        font-size: 40px;
+    }
+
+    .bannercont p {
+        font-size: 16px;
+    }
+
+    .Mheading {
+        font-size: 24px;
+    }
+
+    .paidwork .paidbox h3 {
+        font-size: 20px;
+    }
+
+    .home_Banner {
+        padding: 90px 0 70px;
+    }
+
+    .tipwork .right_tip h2 {
+        font-size: 24px;
+    }
+
+    .tipwork .right_tip p,
+    .tipwork .right_tip ul li {
+        font-size: 14px;
+    }
+
+    .top_footer .Mheading {
+        font-size: 20px;
+    }
+
+    .footer ul li a img {
+        width: 120px;
+    }
+
+    .footer .bottom_footer {
+        margin: 0;
+    }
+
+    .how_work {
+        display: block;
+    }
+
+    .how_work .all1 img {
+        padding-top: 60px;
+        width: 68%;
+    }
+
+    .how_work {
+        padding-bottom: 45px;
+    }
+
+    .footer_store li {
+        margin-right: 0;
+    }
+
+    .home_Banner ul li:first-child {
+        margin-right: 10px;
+    }
+
+    .tipwork {
+        padding-bottom: 30px;
+    }
+
+    .righthow ul li:before {
+        font-size: 18px;
+        top: 10px;
+    }
+
+    .righthow ul li a {
+        margin-right: 28px;
+    }
+
+}
+
+@media(max-width:414px) {
+    .bannercont {
+        padding-left: 0;
+    }
+
+    .bannercont h2 {
+        font-size: 30px;
+        text-align: center;
+        padding-top: 69px;
+    }
+
+    .bannercont p {
+        font-size: 22px;
+        padding: 58px 0;
+        text-align: center;
+    }
+
+    .home_Banner {
+        padding: 90px 0 63px;
+    }
+
+    .header .navbar-brand,
+    .header.fixed_header .navbar-brand {
+        font-size: 30px;
+        margin-top: -2px;
+    }
+
+    .header .hamburger {
+        margin-right: 15px;
+        margin-top: 0;
+    }
+
+    .header {
+        padding: 15px 0px 0px;
+    }
+
+    .paidwork .Mheading {
+        font-size: 34px;
+    }
+
+    .paidwork .paidbox h3 {
+        font-size: 24px;
+        padding-bottom: 28px;
+    }
+
+    .paidwork .paidbox p {
+        font-size: 17px;
+        padding: 0;
+    }
+
+    .tipwork .right_tip h2 {
+        font-size: 20px;
+    }
+
+    .tipwork .right_tip h2 {
+        padding: 15px 0 35px;
+        text-align: center;
+        font-size: 48px;
+    }
+
+    .top_footer .Mheading {
+        font-size: 48px;
+        padding-top: 40px;
+    }
+
+    .footer ul li a img {
+        width: 90px;
+    }
+
+    .tipwork {
+        padding-bottom: 30px;
+        padding-top: 90px;
+    }
+
+    .tipwork .boxs .left_tip2 {
+        padding-top: 15px;
+    }
+
+    .home_Banner .bannerright img {
+        height: 78%;
+    }
+
+    .footer .footer_store li {
+        width: 100px;
+    }
+
+    .home_Banner .bannerright {
+        bottom: -65px;
+        height: 75vh;
+        display: none;
+    }
+
+    .paidwork {
+        padding: 30px 0;
+    }
+
+    .resImg {
+        display: block;
+    }
+
+    .appStoresR {
+        display: none;
+    }
+
+    .appStors {
+        display: block;
+    }
+
+    .home_Banner ul.appStors li {
+        display: block;
+        width: 100%;
+    }
+
+    .home_Banner ul.appStors li a img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .home_Banner ul.appStors li:last-child {
+        margin-top: 25px;
+    }
+
+    .Mheading br {
+        display: block;
+    }
+
+    .paidwork .paidbox .paidimgs {
+        width: 100%;
+    }
+
+    .paidimgs br {
+        display: block;
+    }
+
+    .righthow {
+        padding-right: 0;
+        padding-top: 20px;
+    }
+
+    .righthow p {
+        font-size: 24px;
+        margin-left: 40px;
+    }
+
+    .righthow p.con_border {
+        margin-left: 40px;
+    }
+
+    .righthow ul li a {
+        font-size: 20px;
+
+    }
+
+    .righthow ul li {
+        margin-left: 40px;
+        padding-bottom: 20px;
+    }
+
+    .how_work .all1 img {
+        width: 100%;
+        margin-top: 70px;
+    }
+
+    .right_tip img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .tipwork .right_tip h2.mHeading:after {
+        margin: 0 auto;
+        left: 0;
+        top: 130px;
+    }
+
+    .tipwork .right_tip ul {
+        margin-top: 79px;
+    }
+
+    .tipwork .right_tip ul li {
+        font-size: 20px;
+        line-height: 1.5;
+        margin-bottom: 20px;
+    }
+
+    .tipwork .right_tip ul li:last-child {
+        margin-bottom: 0;
+    }
+
+    .tipwork .tipWraper .leftcont {
+        padding-top: 130px;
+    }
+
+    .tipwork .right_tip h2:after {
+        left: 0px;
+        margin: 0 auto;
+        top: 110%;
+
+    }
+
+    .tipwork .right_tip p.subheading {
+        font-size: 22px;
+        padding-top: 90px;
+    }
+
+    .tipwork .right_tip p {
+        font-size: 17px;
+    }
+
+    .paidwork .paidbox p br {
+        display: block;
+    }
+
+    .top_footer ul.f_store1 {
+        display: none;
+    }
+
+    .top_footer ul.f_store2 {
+        display: block;
+        margin-top: 20px;
+    }
+
+    .deskLinks {
+        display: none;
+    }
+
+    .top_footer ul.resLinks {
+        display: block;
+    }
+
+    .top_footer ul.resLinks li {
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    .top_footer ul.resLinks li a {
+        font-size: 22px;
+        color: #233d63;
+        font-family: 'CircularStd-Book';
+    }
+
+    .tipwork .right_tip ul li {
+        padding-left: 32px;
+    }
+
+    .righthow ul li:before {
+        top: 14px;
+    }
+
+    .header.fixed_header .downld_btn {
+        margin-top: 1px;
+    }
+
+    .header .downld_btn {
+        font-size: 14px;
+        padding: 5px 15px;
+        margin-top: 1px;
+        margin-right: 15px;
+    }
+}
+
+@media(max-width:320px) {}
