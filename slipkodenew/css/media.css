@@ -1,0 +1,1241 @@
+@media(max-width:1560px){
+    .bill {
+        padding: 90px 0;
+    }
+} 
+@media(max-width:1366px){
+    .container {
+        width: 1170px;
+    }
+    .warnty_list p {
+        position: relative;
+    }
+    .header {
+        padding: 30px 0;
+    }
+    .skip_content .layer_img img {
+        top: -10%;
+    }
+    .founders_section2 {
+        margin: 80px 0px 80px;
+    }
+    .experience .test_top{
+        padding-bottom: 35px;
+    }
+} 
+@media(max-width:1199px){
+    .container{
+        width:970px;
+    }
+
+    /*deepak page start*/
+    .shadow_image p {
+        font-size: 17px;
+    }
+    .detailed_box p {
+        font-size: 25px;
+    }
+    .detailed_box {
+        min-height: 370px;
+    }
+    .slipkode_details h3 {
+        font-size: 32px;
+    }
+    .slipkode_details p {
+        font-size: 20px;
+    }
+    .special_features p span{
+        display:inline;
+    }
+    .detailed_box {
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+    .detailed_box p{
+        font-size: 25px;
+    }
+    /*deepak page End*/
+    .slipcode_dashboard_sec_content {
+        padding: 50px 0px 50px 40px;
+    }
+    .slipcode_dashboard_sec_content2 {
+        padding: 50px 40px 50px 0px;
+    }
+    .slipcode_dashboard_sec_content p {
+        font-size: 20px;
+    }
+    .slipcode_dashboard_sec_content h3 {
+        font-size: 26px;
+    }
+    .slipcode_business_sec2_content h3 {
+        font-size: 36px;
+    }
+    .slipcode_business_sec2_content h6 {
+        font-size: 20px;
+    }
+    .slipcode_business_sec2_content h5, .slipcode_business_sec2_content p {
+        font-size: 20px;
+    }
+    .slipcode_business_sec2_content h4 {
+        font-size: 30px;
+    }
+    .slipcode_business_sec2_content .skipcode_contact_number h2 a {
+        font-size: 54px;
+    }
+    .footer_content h6 {
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .locationfooter p, .emailfooter p a, .contactfooter p a {
+        font-size: 24px;
+        line-height: 24px;
+    }
+    .join_the_team {
+        margin: 140px 0px 25px;
+    }
+    .join_the_team h3 {
+        font-size: 30px;
+    }
+    .join_the_team .btn2 {
+        font-size: 22px;
+    }
+    .footer_content_form {
+        padding: 100px 50px 80px;
+    }/* priayank*/
+    .skip_content .layer_img img {
+        top: -8%;
+    }
+    .slip_bg {
+        max-height: 400px;
+        margin-bottom: 56%;
+    }
+    .founders_content p {
+        padding-top: 25px;
+    }
+    .founders_section2 {
+        margin: 70px 0px 70px;
+    }
+    .shadow_image {
+        min-height: 320px;
+        padding: 20px 15px;
+        margin-top: 65px;
+    }
+    .cost p, .warnty p {
+        font-size: 16px;
+    }
+    .order_box .dow {
+        padding: 20px 20px 40px;
+    }
+    .order_box {
+        min-height: 850px;
+    }
+    .slipkode_details h3 span:before {
+        width: 120px;
+    }
+    .slipkode_details h3 span:after {
+        right: 90px;
+    }
+    .founders h3 span:after {
+        right: 80px;
+    }
+    .slipCode_application_section.experience h3 span:after {
+        right: 91px;
+    }
+    .test_inner{
+        padding-top: 10px;
+    }
+    .device_offer h3 i:before {
+        width: 160px;
+    }
+    .device_offer h3:after {
+        right: 47%;
+    }
+    .skip_content .sales p {
+        font-size: 15px;
+    }
+    .slip_we {
+        padding: 95px 15px 0;
+    }
+    .experience h3:after{
+        right: 47%;
+    }
+    .image_height {
+    min-height: 234px;
+}
+.order_box a{
+        padding: 8px 30px;
+            font-size: 20px;
+}
+} 
+@media(max-width:991px){
+    .container{
+        width: 750px;
+    }
+    /*deepak page start*/
+    .founders_content p {
+        font-size: 17px;
+        padding-top: 20px;
+    }
+    .founders_content h6 {
+        font-size: 18px;
+    }
+    .founders_content h5 {
+        font-size: 24px;
+    }
+    .founders_content {
+        padding: 0px; 
+    }
+    .shadow_image p span{
+        display: inline;
+    }
+    .shadow_image p {
+        font-size: 17px;
+    }
+
+    .slipkode_details .col-sm-4{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .slipkode_details h3 span {
+        padding-bottom: 40px;
+    }
+    .slipkode_details p {
+        font-size: 18px;
+    }
+    .detailed_box p{
+        font-size: 20px;
+    }
+    /*deepak page End*/
+    /*--priyank section start--*/
+    .slipcode_dashboard_sec_content {
+        padding: 15px 0px 15px 20px;
+    }
+    .slipcode_dashboard_sec_content2{
+        padding:15px 20px 15px 0px;
+    }
+    .slipcode_dashboard_sec_content h3{
+        font-size: 24px;
+    }
+    .slipcode_dashboard_sec_content p{
+        font-size: 18px;
+        padding: 15px 0px;
+    }
+    .slipcode_business_sec2_content h3 {
+        font-size: 27px;
+    }
+    .slipcode_business_sec2_content h6 {
+        font-size: 18px;
+    }
+    .slipcode_business_sec2_content p span.slipcodeblock {
+        display: inline; 
+    }
+    .slipcode_business_sec2_content p {
+        font-size: 18px;
+    }
+    .slipcode_business_sec2_content h4 {
+        font-size: 23px;
+    }
+    .slipcode_business_sec2_content .skipcode_contact_number h2 a {
+        font-size: 44px;
+    }
+    .slipcode_business_sec2_content .skipcode_contact_number h2 img {
+        width: 52px;
+    }
+    .footer_content h6 {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .locationfooter p, .emailfooter p a, .contactfooter p a {
+        font-size: 17px;
+        line-height: 18px;
+    }
+    .footer_content .link a .fa {
+        font-size: 25px;
+    }
+    .footer_content .link a.fbb {
+        padding: 14px 11px 5px 11px;
+    }
+    .footer_content .link a {
+        margin-right: 15px;
+        padding: 14px 8px 6px 7px;
+    }
+    .footer .footer_content_form .form-group .form-control {
+        padding: 6px 12px;
+        font-size: 16px;
+        color: #cccccc;
+        height: 40px;
+    }
+    .footer_content_form {
+        padding: 87px 30px 53px;
+    }
+    .footer .footer_content_form .btnn2send .btn1 {
+        font-size: 18px;
+    }
+    .join_the_team .btn2 {
+        font-size: 16px;
+        width: 230px;
+    }
+    .join_the_team h3 {
+        font-size: 25px;
+    }
+    .footer_last p {
+        font-size: 14px;
+    }
+    .footer_content_form {
+        top: -116px;
+    }
+    /*--priyank section end--*/
+    .slipcode_business_sec2_content.now_the h6 {
+        padding: 30px 0px 0;
+    }
+    .order_box {
+        width: 32%;
+            min-height: 870px;
+    }
+    .order_inner {
+        padding-left: 5%;
+            padding: 110px 0 140px;
+
+    }
+    .order_box .dow {
+        padding: 20px 15px 40px;
+    }
+    #customers-testimonials .owl-item.active.last, #customers-testimonials .owl-item.active.last1{
+        padding-top: 19px;
+    }
+    .slipCode_application_section .col-sm-3{
+        width:33%;
+    }
+    .slipCode_application_section .col-sm-3.col-sm-offset-3{
+        margin-left: 0;
+    }
+    .slipCode_application_section .fullcenter{
+        margin-left: 33%;
+    }
+    .slipCode_application_section .fullcenter .col-sm-3{
+        width:49%
+    }
+    .device_offer h3 i:before {
+        width: 140px;
+    }
+    .device_offer h3:before {
+        width: 105px;
+    }
+    .device_offer h3:after {
+        right: 45.5%;
+    }
+    .slip_we p:first-child {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .slip_we h1 {
+        font-size: 50px;
+    }
+    .slip_we {
+        padding: 75px 25px 0;
+    }
+    .slip_we p, .slip_we h1 {
+        line-height: 27px;
+    }
+    .slip_we p:nth-child(2) {
+        font-size: 18px;
+        padding-bottom: 35px;
+    }
+    .skip_content .layer_img img {
+        top: -6%;
+    }
+    .skip_content .sales p{
+        font-size: 16px;
+        padding-bottom: 15px;
+    }
+    .journy p {
+        font-size: 20px;
+    }
+    .countdown h2 {
+        font-size: 40px;
+    }
+    .countdown p {
+        font-size: 22px;
+    }
+    .slip_bg {
+        padding-top: 21%;
+        margin-bottom: 58%;
+    }
+    .manage_list ul li{
+        font-size: 15px;
+    }
+    .manage_list ul li:before {
+        bottom: -12px;
+    }
+    .manage_content .manage_cont p {
+        font-size: 20px;
+    }
+    .experience h3 {
+        padding-bottom: 64px;
+    }
+    .experience h3 i:before{
+        width: 170px; 
+        left: 45%;
+    }
+    .experience h3:before{
+        left: 48.5%;
+    }
+    .experience h3:after{
+        right: 42.5%;
+    }
+/*    .device_offer h3:after {
+        right: 43.5%;
+    }*/
+}
+@media(max-width:767px){
+    .header .hamburger{
+        display: block;
+    }
+    .container{
+        width: 100%;
+    }
+    /*deepak page start*/
+    .founders_content p {
+        padding-left: 0px;
+    }
+    .founders_content_left p {
+        padding-right:0px;
+    }
+    .img_section{
+        float: unset;
+    }
+    .founders_content {
+        padding-top:44px; 
+    }
+    .founders {
+        padding-top: 38px;
+    }
+    .founders_section2 {
+        margin: 45px 0px 45px;
+    }
+    .founders_content {
+        text-align: justify;
+        text-align-last:center;
+    }
+    .founders_content p {
+        font-size: 17px;
+    }
+    .founders h3 {
+        color: #000;
+        font-size: 30px;
+    }
+    /*    .shadow_image p {
+            font-size: 22px;
+        }*/
+    .shadow_image p span{
+        display: block;
+    }
+    .slipkode_details h3 {
+        font-size: 27px;
+    }
+
+    /*    deepak page End*/
+    /*--priyank section start--*/
+    .container{
+        width: 100%;
+    }
+    .slipcode_business_sec2 {
+        padding: 50px 0px 120px;
+    }    
+    .slipcode_dashboard_sec_content h3{
+        font-size: 30px;
+    }
+    .slipcode_dashboard_sec_content p{
+        font-size: 20px;
+        padding: 20px 0px;
+    }
+    .slipcode_dashboard_sec_content {
+        padding: 50px 0px 15px 0px;
+    }
+    .slipcode_dashboard_sec_content2{
+        padding:50px 0px 15px 0px;
+    }
+    .slipcode_dashboard_sec1{
+        margin: 30px 0px 10px 0px;
+    }
+    .slipcode1{
+        float: right;
+    }
+    .slipcode2{
+        float: left;
+        width: 100%;
+    }
+    .footer_content_form{
+        position: static;
+        padding: 100px 50px 80px 50px;
+        margin-top: -63px;
+    }
+    .footer_content_form .firstname {
+        padding-right: 15px;
+    }
+    .join_the_team .btn2 {
+        font-size: 16px;
+        width: 230px;
+        float: right;
+    }
+    .footer_content .link {
+        margin-top: 10px;
+    }
+    .join_the_team {
+        margin: 60px 0px 25px;
+    }
+    .footer .footer_content_form .form-group .form-control {
+        font-size: 18px;
+        height: 45px;
+    }
+    .footer_content h6 {
+        font-size: 22px;
+
+    }
+    .locationfooter p, .emailfooter p a, .contactfooter p a {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .slipcode_business_sec2_content h6 {
+        font-size: 22px;
+    }
+    .slipcode_business_sec2_content h5, .slipcode_business_sec2_content p {
+        font-size: 20px;
+        padding: 30px 0px;
+    }
+    .footer_content h6 {
+        line-height: 25px;
+        padding: 18px 0px 18px;
+    }
+    .locationfooter, .emailfooter, .contactfooter {
+        margin: 20px 0px 20px 0px;
+    }
+    .footer_content .link a.fbb {
+        padding: 18px 14px 7px 13px;
+    }
+    .footer_content .link a {
+        padding: 16px 11px 8px 10px;
+    }
+    .join_the_team h3 {
+        font-size: 30px;
+    }
+    .join_the_team .btn2 {
+        font-size: 17px;
+        width: 250px;
+    }
+    .slipcode_business_sec2_img img {
+        /* margin-right: 60px; */
+        width: 40%;
+    }
+    /*--priyank section end--*/
+    .skip_content .sales p{
+        min-height: 105px;
+    }
+    .slip_bg {
+        max-height:280px;
+        padding-top: 90px;
+        margin-bottom: 140px;
+    }
+    .bill {
+        padding: 40px 0;
+    }
+    .journy p {
+        padding-bottom: 25px;
+    }
+    .skip_content .layer_img img {
+        top: -48px;
+    }
+    .letter_res{
+        display:none;
+    }
+    .letter_res_1{
+        display: block;
+    }
+    .slip_we {
+        padding: 70px 25px 20px;
+    }
+    .skip_content{
+        margin: 0 auto;
+        float: unset;
+        width: 530px;
+    }
+    .founder_flex{
+        display:block;
+    }
+    .manage_list ul li {
+        font-size: 20px;
+    }
+    .manage_list ul li:before {
+        bottom: -15px;
+    }
+    .slipCode_application_section .row, .slipcode_dashboard_sec1 .row{
+        margin: 0;
+    }
+    .letterbox .sales img{
+        margin: 0 auto;
+        padding: 15px 0; 
+    }
+    .letterbox .sales img:first-child{
+        width:60px;
+    }
+    .letterbox  .sales.nobdr {
+        border-right: 0;
+    }
+    .layer_img img{
+        display:none;
+    }
+    .skip_content{
+        background:transparent;
+    }
+    .layer_img_res{
+        position: relative;
+    }
+    .layer_img_res img{
+        display: block;
+        width: 100%;
+        max-height: 305px;
+    }
+    .slip_we{
+        position: absolute;
+        left:0;
+    }
+    .journy {
+        padding: 40px 0 110px;
+    }
+    .countdown h2 {
+        font-size: 33px;
+    }
+    .countdown p {
+        font-size: 20px;
+    }
+    .founders h3 span:after {
+        right: 64px;
+    }
+    .founders h3 span:before{
+        left: 20px;
+    }
+    .manage_content{
+        display: block;
+    }
+    .manage_list ul li{
+        width:100%;
+    }
+    .manage_list ul li:before{
+        content: none;
+    }
+    .manage_content .manage_cont{
+        padding-top: 40px;
+    }
+    .slipCode_application_section .col-sm-3 {
+        width:50%;
+    }
+    .slipCode_application_section .fullcenter .col-sm-3 {
+        width: 74%;
+    }
+    .test_inner p{
+        padding-top: 30px;
+    }
+    .order_inner{
+        padding-left: 0;
+    }
+    .order_box, .order_box.order_bottom{
+        -webkit-transform:  scale3d(1, 1, 1);
+        transform:  scale3d(1, 1, 1);
+        z-index: 99;
+  box-shadow: none;
+        background: #fff;
+    }
+    .order_box {
+    min-height: 975px;
+         border-top-right-radius:8px;
+    border-top-left-radius:8px;
+    }
+    .order_box .dow_clr p {
+        font-size: 22px;
+    }
+    .order{
+        margin-bottom: 80px;
+    }
+    .order_inner{
+        padding:0;
+        width:80%;
+        margin-left: 10%;
+         border-radius:8px;
+        -webkit-box-shadow: 1px 3px 25px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 3px 25px 1px rgba(0,0,0,0.75);
+box-shadow: 1px 3px 25px 1px rgba(0,0,0,0.75);
+/*  -webkit-box-shadow: -4px 3px 69px 20px rgba(0,0,0,0.1);
+    -moz-box-shadow: -4px 3px 69px 20px rgba(0,0,0,0.1);
+    box-shadow: -4px 3px 69px 20px rgba(0,0,0,0.1);*/
+margin-bottom: 110px !important;
+    }
+    .order_inner .slick-dots li button{
+        display:none !important;
+    }
+    .order_inner .slick-next:before{
+
+        content:url('../img/arrow-right.png');
+    }
+    .order_inner .slick-next{
+        right:-36px;
+    }
+    .order_inner .slick-prev{
+        left: -40px;
+    }
+    .order_inner .slick-prev:before{
+        content: url('../img/arrow-left.png');
+    }
+    .order_inner .slick-prev:before, .order_inner .slick-next:before{
+        font-family: FontAwesome;
+        font-style: normal;
+        font-weight: normal;
+        text-decoration: inherit;
+        /*--adjust as necessary--*/
+        color: #000;
+        font-size: 40px;
+    }
+    .cost p, .warnty p {
+        font-size: 20px;
+    }
+    .footer_last p {
+        font-size: 12px;
+    }
+    .experience h3 i:before {
+        width: 181px;
+        left: 33%;
+    }
+    .experience h3:before {
+        left: 36.5%;
+        width: 144px;
+    }
+    .experience h3 {
+        padding-bottom: 71px;
+    }.experience h3:after {
+        right: 49.5%;
+    }
+    .navbar-brand>img{
+        width:235px;
+    }
+    .header {
+        padding: 20px 0;
+    }
+    .slipCode_application_section.experience h3 {
+        font-size: 30px;
+    }
+    .owl-carousel .owl-nav .owl-next{
+        right: -70px;
+    } .owl-carousel .owl-nav .owl-prev{
+        left: -70px;
+    }
+    .footer {
+        padding: 0px 0px 10px;
+    }
+    .ceo_image img {
+        width: 50%;
+        margin: 0 auto;
+    }
+    .res_covered{
+        display:block;
+        background: #fef1ea;
+            float: left;
+    }
+    .res_order{
+        display: block;
+    }
+    .manage_list, .hide_manage, .hide_order{
+        display: none;
+    }
+    .manage_content {
+        padding:45px 0 45px;
+    }
+    .cover_top{
+        padding-bottom: 0;
+    }
+    .manage_content .manage_cont{
+        padding-left: 0;
+    }
+    .covered {
+        padding: 65px 0 60px;
+    }
+    .shadow_image p {
+        font-size: 20px;
+    }
+    .shadow_image {
+        min-height: 313px;
+        padding: 20px 10px;
+    }
+    .shadow_image img, .detailed_box img {
+        max-width: 40%;
+    }
+    .slip_exp{
+        padding: 0 0 85px;
+    }
+    .detailed_box p {
+        font-size: 24px;
+        padding-top: 35px;
+    }
+    .detailed_box {
+        min-height: 315px;
+        margin-bottom: 15px;
+    }
+    .special_features{
+        padding-top: 30px;
+    }
+    .slipkode_details p {
+        font-size: 20px;
+    }
+    .fixed_header{
+        position: fixed;
+        background: #ff6816;
+        padding: 12px 0;
+        box-shadow:1px 1px 2px #E6E6E7;
+           transition: all 0.15s ease 0s;
+    }
+    .slip_bg .col-sm-offset-1{
+        padding: 0;
+    }
+    .bill h1 {
+    font-family: 'DancingScript-Regular';
+    font-size: 50px;
+    }
+    .count_flex{
+        display: block;
+    }
+     .countdown {
+            margin-bottom: 20px;
+        padding:15px 0 10px;
+        border-right: 4px solid #ff6816; 
+    }
+    .count_res{
+        border-right: none;
+    }
+    .countdown h2 {
+    font-size:40px;
+}
+.countdown p {
+    font-size: 24px;
+}
+}
+@media(max-width:560px){
+    /*deepak page start*/
+    .founders h3 span:before {
+        width: 100px;
+        left: 17px;
+    }
+    .founders h3 span:after {
+        left: 63px;
+    }
+    .slipCode_application_section .col-xs-6, .slipCode_application_section .col-sm-3.col-sm-offset-3{
+        width: 75%;
+        margin-left: 12.5%;
+    }
+    .slipkode_details .col-xs-6{
+        width:70%;
+        margin-left: 15%;
+    }
+    .shadow_image {
+        margin-top: 45px;
+            min-height: auto;
+    }
+    .slipCode_application_section {
+        padding-bottom: 90px;
+    }
+    .detailed_box {
+        margin-bottom: 10px;
+            min-height: auto;
+    }
+    .detailed_box p {
+        font-size: 24px;
+    }
+    /*deepak page End*/
+    /*--priyank section start--*/
+    .slipcode_dashboard_sec_content h3{
+        font-size: 24px;
+    }
+    .slipcode_dashboard_sec_content p{
+        font-size: 18px;
+        padding: 20px 0px;
+    }
+    .slipcode_business_sec2_content h6 {
+        font-size: 18px;
+    }
+    .slipcode_business_sec2_content h5, .slipcode_business_sec2_content p {
+        font-size: 18px;
+        padding: 30px 0px;
+    }
+    .slipcode_business_sec2_content .skipcode_contact_number h2 a {
+        font-size: 36px;
+    }
+    .slipcode_business_sec2_content .skipcode_contact_number h2 img {
+        width: 36px;
+    }
+    .footer_content h3 {
+        font-size: 30px;
+    }
+    .footer {
+        padding: 30px 0px 10px;
+    }
+    .footer_content h6 {
+        font-size: 20px;
+    }
+    .locationfooter p, .emailfooter p a, .contactfooter p a {
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .footer_content_form {
+        padding: 102px 15px 80px;
+        margin-top: 40px;
+    }
+    .footer_content_form {
+        padding: 70px 30px 60px;
+        margin-top: 40px;
+    }
+    .join_the_team h3 {
+        font-size: 22px;
+    }
+    .join_the_team .btn2 {
+        font-size: 13px;
+        width: 190px;
+    }
+    .footer_last .col-xs-7,.footer_last .col-xs-5{
+        width: 100%;
+        text-align: center;
+    }
+    .footer_last .privacysec p {
+        text-align: center;
+    }
+    /*--priyank section end--*/
+    .slip_we {
+        padding: 70px 20px 20px;
+    }
+    .slip_we p:first-child {
+        font-size: 23px;
+        padding-bottom: 10px;
+    }
+    .slip_we p:nth-child(2) {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .letterbox .sales img {
+        padding: 10px 0;
+    }
+    .bill h1 {
+        font-size: 45px;
+    }
+    .bill {
+        padding:50px 0 70px;
+    }
+    .countdown h2 {
+        font-size: 24px;
+    }
+    .countdown p {
+        font-size: 16px;
+    }
+    .countdown {
+            margin-bottom: 20px;
+        border-right: 3px solid #ff6816; 
+    }
+    .count_res{
+        border-right: none;
+    }
+    .countdown h2 {
+    font-size: 36px;
+}
+.countdown p {
+    font-size: 22px;
+}
+    .cover_top h3{
+        font-size: 33px;
+        padding-bottom: 60px;
+    }
+    .cover_top h3 span:before{
+        left: 24px;
+    }
+    .cover_top h3 span:after{
+        right: 63px;
+    }
+
+    .slipCode_application_section .fullcenter{
+        margin-left: 0;
+    }
+    /*    .slipCode_application_section .fullcenter .col-sm-3{
+            width:100%;
+        }*/
+    .test_top h3{
+        font-size: 28px;
+    }
+    .experience h3 i:before {
+        width: 142px;
+        left: 32%;
+    }
+    .experience h3:before {
+        width: 107px;
+    }
+    .device_offer h3 i:before {
+        width: 96px;
+        left: 38%;
+    }
+    .device_offer h3:before {
+        width: 72px;
+        left: 41.5%;
+    }
+    .slipkode_details h3{
+        padding-bottom: 72px;
+    }
+    .slipkode_details h3:after{
+        right: 48.5%;
+        bottom: 29%;
+    }
+    .order h3 span:after{
+        right: 40px;
+    }
+    .order h3 span:before{
+        left:10px;
+    }
+    .order h3 {
+        padding-bottom: 45px;
+    }
+    .special_features{
+        padding-top: 20px;
+    }
+    .slipCode_application_section.founders h3{
+        font-size: 23px;
+    }
+    .slipCode_application_section.founders h3 span:after {
+        left: 51px;
+    }
+    .test_top h3 span:before{
+        width: 85px;
+        bottom: -12px;
+        left: 16px; 
+    }
+    .test_top h3 span:after{
+        right: 57px;
+    }
+    .slip_bg {
+        max-height: 270px;
+        margin-bottom: 185px;
+    }
+    .countdown p {
+        padding-bottom: 0;
+    }
+    .journy {
+        padding: 0 0 75px;
+    }
+    .owl-carousel .owl-nav .owl-next{
+        right: -52px;
+    } .owl-carousel .owl-nav .owl-prev{
+        left: -52px;
+    }
+    .skip_content {
+    width: 390px;
+}
+.layer_img_res img {
+    max-height: 345px;
+}
+.founders {
+    padding-top:0px;
+}
+.founders_section2 {
+    margin: 55px 0px 45px;
+}
+
+}
+@media(max-width:413px){
+    /*deepak page start*/
+    .founders h3 {
+        font-size: 30px;
+    }
+    /*deepak page End*/
+    /*--priyank section start--*/
+    .slipcode_dashboard_sec_content h3{
+        font-size: 21px;
+    }
+    .slipcode_dashboard_sec_content p{
+        font-size: 18px;
+        padding: 10px 0px;
+    }
+    .slipcode_dashboard_sec1 {
+        margin: 10px 0px 10px 0px;
+    }
+    .join_the_team .col-xs-7,.join_the_team .col-xs-5{
+        width: 100%;
+        text-align: center;
+    }
+    .join_the_team .btn2 {
+        font-size: 16px;
+        width: 230px;
+        float: none;
+        margin-top: 20px;
+    }
+    .slipcode_business_sec2_content h3 {
+        font-size: 18px;
+    }
+    .slipcode_business_sec2_content h6 {
+        font-size: 15px;
+    }
+    .slipcode_business_sec2_content h5 .spanblock {
+        display: inline;
+    }
+    .slipcode_business_sec2_content h5{
+        font-size: 15px;
+        padding: 30px 0px;
+    }
+    .slipcode_business_sec2_content h4 {
+        font-size: 18px;
+    }
+    .slipcode_business_sec2_content .skipcode_contact_number h2 a {
+        font-size: 24px;
+    }
+    .footer_content h3 {
+        font-size: 24px;
+    }
+    .footer_content h6 {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .locationfooter p, .emailfooter p a, .contactfooter p a {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .footer_content .link a .fa {
+        font-size: 20px;
+    }
+    .footer_content .link a.fbb {
+        padding: 12px 13px 5px 11px;
+    }
+    .footer_content .link a {
+        padding: 11px 10px 7px 9px;
+    }
+    .footer .footer_content_form .form-group .form-control {
+        font-size: 15px;
+        height: 40px;
+    }
+    .footer_content_form {
+        padding: 52px 25px 33px;
+        margin-top: 40px;
+    }
+    .footer .footer_content_form .form-group {
+        margin-top: 0px;
+    }
+    /*--priyank section end--*/
+    .letterbox .sales img:first-child{
+        width:50px;
+    }
+    .bill h1 {
+        font-size: 38px;
+    }
+    .bill {
+        padding: 40px 0 70px;
+    }
+    .countdown h2 {
+        font-size: 32px;
+    }
+    .founders h3 span:before {
+        width: 105px;
+        left: 13px;
+    }
+    .founders h3 span:after {
+        left: 65px;
+    }
+    .cover_top h3 {
+        font-size: 25px;
+    }
+    .cover_top h3 span:before {
+        left: 17px;
+        width: 74px;
+    }
+     .order .cover_top h3 span:before {
+        left: 8px;
+        width:50px;
+    }
+    .cover_top h3 span:after {
+        right: 48px;
+    }
+     .order .cover_top h3 span:after {
+        right: 30px;
+    }
+    .cover_top h3 {
+        padding-bottom: 70px;
+    }
+    .manage_content .manage_cont p {
+        font-size: 18px;
+    }
+    .slipCode_application_section.experience  h3{
+        font-size: 25px;
+    }
+    .slipCode_application_section.experience h3 span:after{
+        left: 51px;
+    }
+    .journy h3{
+        font-size: 32px;
+        padding-bottom: 65px;
+    }
+    .journy h3 span:before{
+        left:17px;
+    }
+    .journy p {
+        font-size: 18px;
+    }
+    .experience h3 i:before {
+        left: 26%;
+    }
+    .experience h3:before {
+        left: 32.5%;
+    }
+    .experience {
+        padding: 60px 0 75px;
+    }
+    .device_offer h3 i:before {
+        width: 105px;
+        left: 36%;
+        bottom: 37%;
+    }
+    .device_offer h3:before {
+        left: 41.5%;
+    }
+    .device_offer h3:after {
+        right: 44.5%;
+        bottom: 29%;
+    }
+    .device_offer p{
+        font-size: 20px;
+    }
+    .slip_bg {
+        margin-bottom: 290px;
+    }
+    .layer_img_res img {
+        min-height: 446px;
+    }
+    .countdown p {
+        font-size: 22px;
+    }
+    .experience .test_top {
+        padding-bottom: 0;
+    }
+    .owl-carousel .owl-nav .owl-next{
+        right: -40px;
+        font-size: 25px;
+    } .owl-carousel .owl-nav .owl-prev{
+        left: -40px;
+        font-size: 25px;
+    }
+    .cost p, .warnty p {
+        font-size: 17px;
+    }
+    .order_box {
+        min-height: 915px;
+    }
+    .skip_content {
+    width: 290px;
+}
+.founder_changes {
+    padding: 0px 0 60px;
+}
+ .order_inner .slick-next{
+        right:-35px;
+    }
+    .order_inner .slick-prev{
+        left: -35px;
+    }
+}
