@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Ipg360 | Human Capital</title>
+        <!-- Bootstrap -->
+        <link href="img/fav.png" rel="icon" type="icon/image">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/font-awesome.min.css" rel="stylesheet">
+        <link href="css/hamburgers.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/media.css" rel="stylesheet">
+
+    </head>
+    <body>
+        <div class="header boxs">
+            <nav class="navbar navbar-default">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button class="hamburger hamburger--squeeze" type="button" aria-label="Menu" aria-controls="navigation">
+                            <span class="hamburger-box">
+                                <span class="hamburger-inner"></span>
+                                <span class="hamburger-inner"></span>
+                            </span>
+                        </button>
+                        <a class="navbar-brand" href="index.html"><img src="img/ipglogo.svg" alt="logo"></a>
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav navbar-right fnt-sz-6 rg-fnt">
+                            <li><a href="#">IPG360 API User</a></li>
+                            <li><a href="https://ipg360.com/"><img src="img/logo.png" alt="logo"></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div class="sidenav" id="mySidenav">
+            <ul>
+                <li><a href="#">IPG360 API User</a></li>
+                <li><a href="https://ipg360.com/"><img src="img/logo.png" alt="logo"></a></li>
+            </ul>
+        </div>
+        
+<!--     Form Start-->
+        
+        <div class="formBox boxs">
+            <div class="container">
+                <div class="formInner boxs">
+                    <form method="get" action="database_marketing.html">
+                        <h2>Human Capital</h2>
+                        
+                        <div class="formGroup">
+                            <div class="form-group">
+                                <label for="humancapProgram">How many employees will be participating in the Human Capital Program for</label>
+                                <input type="number" id="humancapProgram" class="width5"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="avgSalary">What is the average salary for employees</label>
+                                <input type="number" id="avgSalary" class="width5"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="avgBonus">What is the average bonus target for employees</label>
+                                <input type="text" id="avgBonus" class="width5"> 
+                            </div>                        
+                            <div class="form-group">
+                                <label for="avgEmployee">What is the average employee development allocation</label>
+                                <input type="text" id="avgEmployee" class="width5"> 
+                            </div>                  
+                            <div class="form-group">
+                                <label for="typicalBudget">What is the typical recognition budget for employees</label>
+                                <input type="text" id="typicalBudget" class="width5"> 
+                            </div>                        
+                            <div class="form-group">
+                                <label for="trainingBudget">How much is your annual employee training budget</label>
+                                <input type="text" id="trainingBudget" class="width5">
+                            </div>                            
+                        </div>                        
+                        <div class="formGroup">
+                            <div class="form-group">
+                                <label for="recruitBudget">How much is your annual recruiting budget</label>
+                                <input type="text" id="recruitBudget" class="width5">
+                            </div>                        
+                            <div class="form-group">
+                                <label for="meetBudget">How much is your annual sales meeting budget</label>
+                                <input type="text" id="meetBudget" class="width5">
+                            </div>                        
+                            <div class="form-group">
+                                <label for="bodmeedBudget">How much is your annual executive retreat/BOD meeting budget</label>
+                                <input type="text" id="bodmeedBudget" class="width5">
+                            </div>
+                            <div class="form-group">
+                                <label for="outingBudget">How much is department “team building” outings budget</label>
+                                <input type="text" id="outingBudget" class="width5">
+                            </div>                        
+                            <div class="form-group">
+                                <label for="retreatBudget">How much is your annual corporate retreat  budget</label>
+                                <input type="text" id="retreatBudget" class="width5">
+                            </div>
+                        </div>                             
+                        <div class="formGroup">
+                            <div class="form-group">
+                                <label for="bonusAllocation">Total Bonus Allocation</label>
+                                <input type="text" id="bonusAllocation" class="width5">
+                            </div>             
+                            <div class="form-group">
+                                <label for="depAllocation">Total Employee Development Allocation</label>
+                                <input type="text" id="depAllocation" class="width5">
+                            </div>
+                            <div class="form-group">
+                                <label for="recogBudget">Total Recognition Budget/Allocation</label>
+                                <input type="text" id="recogBudget" class="width5">
+                            </div>
+                            <div class="form-group">
+                                <label for="training_Budget">Total Employee Training Budget</label>
+                                <input type="text" id="training_Budget" class="width5">
+                            </div>
+                        </div>
+                        <div class="formGroup">
+                            <div class="form-group">
+                                <label for="hrBudget">Total HR Budget for Region</label>
+                                <input type="text" id="hrBudget" class="width5">
+                            </div>
+                            <div class="form-group">
+                                <label for="cotaHospitality">Percent Reallocation for COTA for Hospitality</label>
+                                <input type="number" id="cotaHospitality" class="width5">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="sponsorshipAsset">Sponsorship Assets Allocated for Human Capital Programs</label>
+                            <input type="text" id="sponsorshipAsset" class="width5">
+                        </div>                     
+                        <button type="submit">Next</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        
+        
+        
+        
+        
+        
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+<!--     Form End-->
+        
+        <script src="js/jquery.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/custom.js"></script>
+    </body>
+</html>

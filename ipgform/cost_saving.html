@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Ipg360 | Cost Savings/Reallocation Model</title>
+         <!-- Bootstrap -->
+        <link href="img/fav.png" rel="icon" type="icon/image">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/font-awesome.min.css" rel="stylesheet">
+        <link href="css/hamburgers.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/media.css" rel="stylesheet">
+
+    </head>
+    <body>
+        <div class="header boxs">
+            <nav class="navbar navbar-default">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button class="hamburger hamburger--squeeze" type="button" aria-label="Menu" aria-controls="navigation">
+                            <span class="hamburger-box">
+                                <span class="hamburger-inner"></span>
+                                <span class="hamburger-inner"></span>
+                            </span>
+                        </button>
+                        <a class="navbar-brand" href="index.html"><img src="img/ipglogo.svg" alt="logo"></a>
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav navbar-right fnt-sz-6 rg-fnt">
+                            <li><a href="#">IPG360 API User</a></li>
+                            <li><a href="https://ipg360.com/"><img src="img/logo.png" alt="logo"></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div class="sidenav" id="mySidenav">
+            <ul>
+                <li><a href="#">IPG360 API User</a></li>
+                <li><a href="https://ipg360.com/"><img src="img/logo.png" alt="logo"></a></li>
+            </ul>
+        </div>
+        
+<!--     Form Start-->
+        
+        <div class="formBox boxs">
+            <div class="container">
+                <div class="formInner boxs">
+                    <form  method="get" action="human_capital.html">
+                        <h2>Cost Savings/Reallocation Model</h2>
+                        
+                        <div class="formGroup">
+                            <div class="form-group">
+                                <label for="corpBudget">What is your current annual corporate foundation budget?</label>
+                                <input type="text" id="corpBudget" class="width2"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="regionOperate">What region do you operate in?</label>
+                                <input type="text" id="regionOperate" class="width2"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="partnershipWith">What % is allocated to the region where you're evaluating property?</label>
+                                <input type="text" id="partnershipWith" class="width2"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="budgetPercent">What % of this total budget could be shifted to the property's efforts for no charge?</label>
+                                <input type="number" id="budgetPercent" class="width2"> 
+                            </div>
+                        </div>
+                        
+                        <div class="formGroup">
+                            <p class="sectionHeading" style="font-weight: normal">Work with Brand to identify their criteria for funding projects and then build program to ensure funds can be shifted/allocated</p>
+                            <p class="sectionHeading" style="display: block">Multipliers</p>
+                            <div class="form-group selectBox">                          
+                                <label for="profit">What type of brand are you? (for profit/non-profit)</label>
+                               <div class="select">
+                                   <select id="profit">
+                                    <option selected>For Profit</option>
+                                    <option>Non-Profit</option>
+                                </select>     
+                               </div>
+                            </div>                        
+                            <div class="form-group">
+                                <label for="whichBrand">Which of the following is your brand (Global Top 100 CSR Brands)?</label>
+                                <input type="text" id="whichBrand" class="width1"> 
+                            </div>
+                            <div class="form-group radioOption">
+                                <p>Would the CSR tied to this property drive employee engagement?</p>         <input type="radio" id="csrTied1" name="csr_Tied" class="width1">
+                                <label for="csrTied1">Yes</label>                            
+                                <input type="radio" id="csrTied2" name="csr_Tied" class="width1">   
+                                <label for="csrTied2">No</label>
+                            </div>
+                            <div class="form-group selectBox">                          
+                                <label for="promot">Would the CSR tied to this property be genuine or self-promoting?</label>
+                                <div class="select">
+                                    <select id="promot">
+                                    <option selected>Genuine</option>
+                                    <option>Self-Promoting</option>
+                                </select> 
+                                </div>
+                            </div>
+                            <div class="form-group radioOption">
+                                <p>Is the property’s foundation well-aligned with your brand purpose?</p>
+                                
+                                <input type="radio" id="brandpurpose1" name="brandpurpose" class="width1">
+                                <label for="brandpurpose1">Yes</label>                            
+                                <input type="radio" id="brandpurpose2" name="brandpurpose" class="width1">   
+                                <label for="brandpurpose2">No</label>
+                            </div>
+                            <div class="form-group radioOption">
+                                <p>Is your leadership activey engaged in your CSR agenda?</p>
+                                
+                                <input type="radio" id="casAgenda1" name="casAgenda" class="width1">
+                                <label for="casAgenda1">Yes</label>                            
+                                <input type="radio" id="casAgenda2" name="casAgenda" class="width1">   
+                                <label for="casAgenda2">No</label>
+                            </div>
+                            <div class="form-group selectBox">                          
+                                <label for="scorerank">What is the delta between your brand and the property’s socially responsible score? (1-7 rank based on Brand Fit)</label>
+                                <div class="select width5">
+                                    <select id="scorerank">
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>6</option>
+                                    <option selected>7</option>
+                                </select>  
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="fairBrand">Is your brand fair in the way it does business? (Rank 1-100)</label>
+                                <input type="number" id="fairBrand" class="width6"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="openBrand">Is your brand open and transparent about the way it operates? (Rank 1-100)</label>
+                                <input type="number" id="openBrand" class="width6"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="brandInfluence">Does your brand have a postiive influence on society? (Rank 1-100)</label>
+                                <input type="number" id="brandInfluence" class="width6"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="protectEnvironmnt">Does your brand act responsibly to protect the environment? (Rank 1-100)</label>
+                                <input type="number" id="protectEnvironmnt" class="width6"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="godCauses">Does your brand support good causes? (Rank 1-100)</label>
+                                <input type="number" id="godCauses" class="width6"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="empconcern">Does your brand demonstrate concern for its employees? (Rank 1-100)</label>
+                                <input type="number" id="empconcern" class="width6"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="empReward">Does your brand reward employees fairly? (Rank 1-100)</label>
+                                <input type="number" id="empReward" class="width6"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="equalOpportunity">Does your brand offer equal opportunities in the workplace? (Rank 1-100)</label>
+                                <input type="number" id="equalOpportunity" class="width6"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="csrIndex">This is your brand’s CSR index</label>
+                                <input type="text" id="csrIndex" class="width6"> 
+                            </div>                            
+                            <div class="form-group selectBox">                          
+                                <label for="brandCategory">What category is your brand?</label>
+                              <div class="select">
+                                  <select id="brandCategory">
+                                    <option>Technology</option>
+                                    <option selected>Hospitality</option>
+                                    <option>Pharmaceuticals</option>
+                                    <option>Industrial</option>
+                                    <option>Consumer</option>
+                                    <option>Information</option>
+                                    <option>Airlines</option>
+                                    <option>Transport</option>
+                                    <option>Retail</option>
+                                    <option>Automotive</option>
+                                    <option>Food & Beverage</option>
+                                    <option>Financial</option>
+                                    <option>Other</option>
+                                </select> 
+                              </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="csrindexMulti">This is the CSR Index multilplier</label>
+                                <input type="text" id="csrindexMulti" class="width6"> 
+                            </div>                                                                            
+                        </div>
+                        
+                            <div class="form-group">
+                                <label for="percentCSR">What is the likelihood that decision maker evelauting COTA can earmark % CSR (foundation) funds to opportunity</label>
+                                <input type="text" id="percentCSR" class="width6"> 
+                            </div> 
+                            <div class="form-group radioOption">
+                                <p>Does Brand want to incude CSR reallocation into model?</p>                           
+                                <input type="radio" id="csrReallocation1" name="csrReallocation" class="width1">
+                                <label for="csrReallocation1">Yes</label>                            
+                                <input type="radio" id="csrReallocation2" name="csrReallocation" class="width1">   
+                                <label for="csrReallocation2">No</label>
+                            </div>
+                            <div class="form-group">
+                                <label for="csrreBudget">Total CSR Reallocated Budget</label>
+                                <input type="text" id="csrreBudget" class="width4"> 
+                            </div>                      
+                        <button type="submit">Next</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        
+        
+<!--     Form End-->
+        
+        <script src="js/jquery.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/custom.js"></script>
+    </body>
+</html>

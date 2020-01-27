@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Ipg360 | Hospitality</title>
+         <!-- Bootstrap -->
+        <link href="img/fav.png" rel="icon" type="icon/image">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/font-awesome.min.css" rel="stylesheet">
+        <link href="css/hamburgers.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/media.css" rel="stylesheet">
+
+    </head>
+    <body>
+        <div class="header boxs">
+            <nav class="navbar navbar-default">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button class="hamburger hamburger--squeeze" type="button" aria-label="Menu" aria-controls="navigation">
+                            <span class="hamburger-box">
+                                <span class="hamburger-inner"></span>
+                                <span class="hamburger-inner"></span>
+                            </span>
+                        </button>
+                        <a class="navbar-brand" href="index.html"><img src="img/ipglogo.svg" alt="logo"></a>
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav navbar-right fnt-sz-6 rg-fnt">
+                            <li><a href="#">IPG360 API User</a></li>
+                            <li><a href="https://ipg360.com/"><img src="img/logo.png" alt="logo"></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div class="sidenav" id="mySidenav">
+            <ul>
+                <li><a href="#">IPG360 API User</a></li>
+                <li><a href="https://ipg360.com/"><img src="img/logo.png" alt="logo"></a></li>
+            </ul>
+        </div>
+        
+<!--     Form Start-->
+        
+        <div class="formBox boxs">
+            <div class="container">
+                <div class="formInner boxs">
+                    <form method="get" action="thanku.html">
+                        <h2>Hospitality</h2>
+                        
+                        <div class="formGroup"> 
+                            <div class="form-group">
+                                <label for="eventsPerYear">How many events per year are there?</label>
+                                <input type="number" id="eventsPerYear" class="width3"> 
+                            </div>
+                        </div>
+                        
+                        <div class="formGroup">                            
+                            <div class="form-group">
+                                <label for="tickets">How many tickets are included?</label>
+                                <input type="number" id="tickets" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="ticketsSale">What % of these tickets are used for sales purposes?</label>
+                                <input type="number" id="ticketsSale" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="ticketsFill">When used by sales, what % of tickets are filled by prospects rather than salespeople?</label>
+                                <input type="number" id="ticketsFill" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="conversionRateavg">What is the average conversion rate?</label>
+                                <input type="number" id="conversionRateavg" class="width3"> 
+                            </div> 
+                            <div class="form-group">
+                                <label for="avgDealsize">What is the average deal size?</label>
+                                <input type="number" id="avgDealsize" class="width3"> 
+                            </div> 
+                            <div class="form-group">
+                                <label for="nosProspects">What is the average number of prospects in attendance from the same company?</label>
+                                <input type="number" id="nosProspects" class="width3"> 
+                            </div>                             
+                        </div>
+                        
+                        <div class="formGroup">                            
+                            <div class="form-group">
+                                <label for="suites">How many suites are included?</label>
+                                <input type="number" id="suites" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="suiteCapacity">What is the capacity of a suite?</label>
+                                <input type="number" id="suiteCapacity" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="capacityPercent">What % of capacity is used for sales purposes?</label>
+                                <input type="number" id="capacityPercent" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="seatsFilled">When used by sales, what % of seats are filled by prospects rather than salespeople?</label>
+                                <input type="number" id="seatsFilled" class="width3"> 
+                            </div> 
+                            <div class="form-group">
+                                <label for="avgConvRate">What is the average conversion rate?</label>
+                                <input type="number" id="avgConvRate" class="width3"> 
+                            </div> 
+                            <div class="form-group">
+                                <label for="avgDealSize2">What is the average deal size?</label>
+                                <input type="number" id="avgDealSize2" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="nosProspects2">What is the average number of prospects in attendance from the same company?</label>
+                                <input type="number" id="nosProspects2" class="width3"> 
+                            </div> 
+                        </div>
+                        
+                        <div class="formGroup">                            
+                            <div class="form-group">
+                                <label for="premiumExp">How many premium experiences do you get per year?</label>
+                                <input type="number" id="premiumExp" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="premiumExpAttend">How many people can attend each premium experiences (not including your team)?</label>
+                                <input type="number" id="premiumExpAttend" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="attSalespurpose">What % of attendees would be for sales purposes?</label>
+                                <input type="number" id="attSalespurpose" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="attendancePercent">When used by sales, what % of attendees are prospects rather than salespeople?</label>
+                                <input type="number" id="attendancePercent" class="width3"> 
+                            </div> 
+                            <div class="form-group">
+                                <label for="avgConvRate2">What is the average conversion rate?</label>
+                                <input type="number" id="avgConvRate2" class="width3"> 
+                            </div> 
+                            <div class="form-group">
+                                <label for="avgDealSize3">What is the average deal size?</label>
+                                <input type="number" id="avgDealSize3" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="nosProspect3">What is the average number of prospects in attendance from the same company?</label>
+                                <input type="number" id="nosProspects3" class="width3"> 
+                            </div> 
+                        </div>
+                        
+                        <div class="formGroup">                            
+                            <div class="form-group">
+                                <label for="extraDates2">Are there extra dates (i.e. playoffs) associated with this property?</label>
+                                <input type="number" id="extraDates2" class="width3"> 
+                            </div>
+                            
+                            <div class="form-group radioOption">
+                                <p>If yes, what % of years will there be extra dates (i.e. playoffs)?</p>                           
+                                <input type="radio" id="extradatesPercent1" name="extradatesPercent" class="width1">
+                                <label for="extradatesPercent1">Yes</label>                            
+                                <input type="radio" id="extradatesPercent2" name="extradatesPercent" class="width1">   
+                                <label for="extradatesPercent2">No</label>
+                            </div>
+                            <div class="form-group">
+                                <label for="avgextraDates">In years there are extra dates, how many will there be on average?</label>
+                                <input type="number" id="avgextraDates" class="width3"> 
+                            </div>                             
+                        </div>
+                        
+                        <div class="formGroup">                            
+                            <div class="form-group">
+                                <label for="tktsIncluded">How many tickets are included?</label>
+                                <input type="number" id="tktsIncluded" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="tktsPercent">What % of these tickets are used for sales purposes?</label>
+                                <input type="number" id="tktsPercent" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="tktsFilled">When used by sales, what % of tickets are filled by prospects rather than salespeople?</label>
+                                <input type="number" id="tktsFilled" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="avgConRate">What is the average conversion rate?</label>
+                                <input type="number" id="avgConRate" class="width3"> 
+                            </div> 
+                            <div class="form-group">
+                                <label for="avgDealSize4">What is the average deal size?</label>
+                                <input type="number" id="avgDealSize4" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="nosProspect4">What is the average number of prospects in attendance from the same company?</label>
+                                <input type="number" id="nosProspects4" class="width3"> 
+                            </div> 
+                        </div>
+                        
+                        <div class="formGroup">                            
+                            <div class="form-group">
+                                <label for="suitesperDate">How many suites are included per extra date?</label>
+                                <input type="number" id="suitesperDate" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="suiteCapacity">What is the capacity of a suite per extra date?</label>
+                                <input type="number" id="suiteCapacity" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="suiteCapacity2">What % of capacity is used for sales purposes per extra date?</label>
+                                <input type="number" id="suiteCapacity2" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="seatsFilled2">When used by sales, what % of seats are filled by prospects rather than salespeople?</label>
+                                <input type="number" id="seatsFilled2" class="width3"> 
+                            </div> 
+                            <div class="form-group">
+                                <label for="avgConRate2">What is the average conversion rate at extra dates?</label>
+                                <input type="number" id="avgConRate2" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="avgDealSize5">What is the average deal size at extra dates?</label>
+                                <input type="number" id="avgDealSize5" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="nosProspects5">What is the average number of prospects in attendance from the same company at extra dates?</label>
+                                <input type="number" id="nosProspects5" class="width3"> 
+                            </div> 
+                        </div>
+                      
+                        <div class="formGroup">                            
+                            <div class="form-group">
+                                <label for="premiumExperience">How many premium experiences do you get per extra dates?</label>
+                                <input type="number" id="premiumExperience" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="premiumAttend">How many people can attend each premium experiences (not including your team) per extra date?</label>
+                                <input type="number" id="premiumAttend" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="extradatesPercent">What % of attendees at extra dates would be for sales purposes?</label>
+                                <input type="number" id="extradatesPercent" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="attendProspects">When used by sales, what % of attendees are prospects rather than salespeople?</label>
+                                <input type="number" id="attendProspects" class="width3"> 
+                            </div> 
+                            <div class="form-group">
+                                <label for="avgConRate3">What is the average conversion rate at extra dates?</label>
+                                <input type="number" id="avgConRate3" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="avgDealSize6">What is the average deal size at extra dates?</label>
+                                <input type="number" id="avgDealSize6" class="width3"> 
+                            </div>
+                            <div class="form-group">
+                                <label for="nosProspects5">What is the average number of prospects in attendance from the same company at extra dates?</label>
+                                <input type="number" id="nosProspects5" class="width3"> 
+                            </div> 
+                        </div>
+                        
+                            <div class="form-group">
+                                <label for="uniqueProspect">What % of prospects would be unique (not returning guests)?</label>
+                                <input type="number" id="uniqueProspect" class="width3"> 
+                            </div>
+                        <button type="submit">Finish</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+                
+<!--     Form End-->        
+        <script src="js/jquery.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/custom.js"></script>
+    </body>
+</html>

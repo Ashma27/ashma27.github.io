@@ -1,0 +1,112 @@
+@media(max-width:1199px){
+    .banner {
+    padding: 220px 0;
+}
+.thLogo {
+    padding-bottom: 54px;
+    width: 230px;
+}
+}
+@media(max-width:991px){
+.header .navbar-brand {
+    padding: 16px 20px;
+}
+
+}
+@media(max-width:767px){
+    .header .hamburger{
+        display: block;
+            position: absolute;
+    right: -25px;
+    top: -5px;
+    }
+    .fixed_header .navbar-brand>img {
+    width: 55%;
+    }
+    .banner {
+    padding: 220px 0;
+}
+.header {
+    padding: 25px 30px;
+}
+.header .navbar-header {
+    top: -25px;
+}
+.thLogo {
+    padding-bottom: 45px;
+    width: 205px;
+}
+.thankcont h2 {
+    padding-bottom: 30px;
+}
+/*score page*/
+.formBox {
+    margin-top: 50px;
+    padding: 120px 0;
+}
+}
+@media(max-width:560px){
+    .banner {
+    /*padding: 150px 0 150px;*/
+}
+.bnForm {
+    margin-top: 0;
+}
+.thank {
+    padding: 160px 0 0px;
+}
+.thankcont h2 {
+    font-size: 32px;
+        padding-bottom: 24px;
+}
+.thankcont h3 {
+    font-size: 20px;
+}
+.thLogo {
+    padding-bottom: 40px;
+    width: 190px;
+}
+/*score page*/
+.formInner form label, .formInner form .radioOption p{
+    display:block;
+}
+form textarea {
+    width: 100%;
+}
+.formInner form .radioOption p{
+    margin-bottom: 5px;
+}
+form .formGroup {
+    padding: 0 0 30px;
+}
+form button, .Directform form button{
+        margin-top: 30px;
+            width: 100px;
+    padding: 10px 0;
+}
+.formInner form label, .formInner form p{
+    line-height: 18px;
+}
+.formBox {
+    padding: 120px 0 60px;
+}
+}
+@media(max-width:414px){
+    .bnForm p {
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.formInner h2 {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.Directform .select {
+    width: 260px;
+    height: 44px;
+    line-height: 44px;
+}
+.Directform .selectBox label {
+    margin-bottom: 15px;
+}
+}

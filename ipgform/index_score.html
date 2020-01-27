@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Ipg360 | Intellectual Property Index Score</title>
+         <!-- Bootstrap -->
+        <link href="img/fav.png" rel="icon" type="icon/image">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/font-awesome.min.css" rel="stylesheet">
+        <link href="css/hamburgers.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/media.css" rel="stylesheet">
+
+    </head>
+    <body>
+        <div class="header boxs">
+            <nav class="navbar navbar-default">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button class="hamburger hamburger--squeeze" type="button" aria-label="Menu" aria-controls="navigation">
+                            <span class="hamburger-box">
+                                <span class="hamburger-inner"></span>
+                                <span class="hamburger-inner"></span>
+                            </span>
+                        </button>
+                        <a class="navbar-brand" href="index.html"><img src="img/ipglogo.svg" alt="logo"></a>
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav navbar-right fnt-sz-6 rg-fnt">
+                            <li><a href="#">IPG360 API User</a></li>
+                            <li><a href="https://ipg360.com/"><img src="img/logo.png" alt="logo"></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div class="sidenav" id="mySidenav">
+            <ul>
+                <li><a href="#">IPG360 API User</a></li>
+                <li><a href="https://ipg360.com/"><img src="img/logo.png" alt="logo"></a></li>
+            </ul>
+        </div>
+        
+<!--     Form Start-->
+        
+        <div class="formBox boxs">
+            <div class="container">
+                <div class="formInner boxs">
+                    <form   method="get" action="cost_saving.html">
+                        <h2>Intellectual Property Index Score</h2>
+                        
+                        <div class="form-group">
+                            <label for="bussCategory">What is the business category?</label>
+                            <input type="text" id="bussCategory" class="width1"> 
+                        </div>
+                        <div class="form-group">
+                            <label for="buss_subCategory">What is the business sub-category?</label>
+                            <input type="text" id="buss_subCategory" class="width1"> 
+                        </div>
+                        <div class="form-group selectBox">
+                            <label for="partnershipWith">What property category is the partnership with?</label>
+                            <div class="select">
+                                <select id="partnershipWith">
+                                    <option selected>League</option>
+                                    <option>Team</option>
+                                    <option>Stadium</option>
+                                    <option>Jersey</option>
+                                    <option>Events/Festivals</option>
+                                    <option>Entertainment Venue</option>
+                                    <option>Prestige Real Estate Properties</option>
+                                    <option>Municipalities</option>
+                                    <option>Universities</option>
+                                    <option>Celebrity Endorsements </option>
+                                    <option>eSports</option>
+                                </select>   
+                            </div>
+                            
+                        </div>
+                        <div class="form-group">
+                            <label for="catAssociation">What is the category association?</label>
+                            <input type="text" id="catAssociation" class="width1"> 
+                        </div>
+                        <div class="form-group">
+                            <div>
+                                <label for="otherAssociation">If association is “Other,” enter details here</label>
+                            </div>
+                            <div>
+                                <textarea id="otherAssociation"></textarea>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="propName">What is the property name?</label>
+                            <input type="text" id="propName" class="width1"> 
+                        </div>
+                        <div class="form-group">
+                            <div>
+                                <label for="otherPropName">If property name is “Other,” enter details here</label>
+                            </div>
+                            <div>
+                                <textarea id="otherPropName"></textarea>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="catAssociation">Recommended Property Index Score (Property Valua+or)</label>
+                            <input type="text" id="catAssociation" class="width5">
+                        </div>
+                        <div class="form-group">
+                            <label for="catAssociation">User input: Property Index Score</label>
+                            <input type="text" id="catAssociation" class="width1">
+                        </div>
+                        <div class="form-group">
+                            <label for="catAssociation">What is the annual deal value?</label>
+                            <input type="text" id="catAssociation" class="width1">
+                        </div>
+                        
+                        <div class="form-group radioOption">
+                            <p>Is the brand endemic?</p>                           
+                            
+                            <input type="radio" id="brandendemic1" name="brandendemic" class="width1">
+                            <label for="brandendemic1">Yes</label>                            
+                            <input type="radio" id="brandendemic2" name="brandendemic" class="width1">   
+                            <label for="brandendemic2">No</label>
+                        </div>
+                        
+                        <div class="form-group selectBox">                          
+                            <label for="exlcusivity">What level of exclusivity is the deal?</label>
+                            <div class="select">
+                                  <select id="exlcusivity">
+                                      <option selected>Exclusive</option>
+                                <option>Co-exclusive</option>
+                                <option>Non-exclusive</option>
+                            </select>   
+                            </div>
+                        </div>
+                        
+                        <div class="form-group selectBox">                          
+                            <label for="partnership">What level is the partnership?</label>
+                             <div class="select">
+                            <select id="partnership">
+                                <option>Local</option>
+                                <option>Regional</option>
+                                <option>National</option>
+                                <option selected>Global</option>
+                            </select> 
+                             </div>
+                        </div>             
+                        
+                        <div class="form-group radioOption">
+                            <p>Is your brand’s business cycle in sync with the property?</p>
+                            
+                            <input type="radio" id="bussCycle1" name="bussCycle" class="width1">
+                            <label for="bussCycle1">Yes</label>                            
+                            <input type="radio" id="bussCycle2" name="bussCycle" class="width1">   
+                            <label for="bussCycle2">No</label>
+                        </div>                        
+                        <div class="form-group">
+                            <label for="deal">What is the length of the deal (in years)?</label>
+                            <input type="number" id="deal" class="width1">
+                        </div>        
+                        <button type="submit">Next</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        
+        
+<!--     Form End-->
+        
+        <script src="js/jquery.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/custom.js"></script>
+    </body>
+</html>

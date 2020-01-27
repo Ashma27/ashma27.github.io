@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_508" width="28.905" height="28.905" data-name="Group 508" viewBox="0 0 28.905 28.905">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#fff}.cls-2{fill-rule:evenodd}
+        </style>
+    </defs>
+    <g id="Group_506" data-name="Group 506">
+        <path id="Path_139" d="M1273.261 568.325a14.452 14.452 0 1 1 14.453-14.453 14.469 14.469 0 0 1-14.453 14.453zm0-27.352a12.9 12.9 0 1 0 12.9 12.9 12.914 12.914 0 0 0-12.9-12.9z" class="cls-1" data-name="Path 139" transform="translate(-1258.808 -539.42)"/>
+    </g>
+    <g id="Group_507" data-name="Group 507" transform="translate(10.413 5.789)">
+        <path id="Path_140" d="M1280.245 559.084v8.376a.218.218 0 0 0 .218.218h3.11a.218.218 0 0 0 .218-.218v-8.513h2.255a.218.218 0 0 0 .217-.2l.217-2.565a.218.218 0 0 0-.218-.236h-2.472v-1.82a.772.772 0 0 1 .773-.772h1.738a.219.219 0 0 0 .218-.218v-2.565a.219.219 0 0 0-.218-.218h-2.937a3.12 3.12 0 0 0-3.121 3.121v2.473h-1.555a.218.218 0 0 0-.218.218v2.565a.218.218 0 0 0 .218.218h1.555z" class="cls-2" data-name="Path 140" transform="translate(-1278.472 -550.353)"/>
+    </g>
+</svg>
