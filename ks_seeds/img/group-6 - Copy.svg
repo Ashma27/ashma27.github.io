@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="114" viewBox="0 0 59 114">
+    <defs>
+        <radialGradient id="b" cy="0%" r="623.702%" fx="50%" fy="0%" gradientTransform="matrix(.1317 .26792 -.99129 .0356 .434 -.134)">
+            <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+            <stop offset="100%" stop-opacity=".5"/>
+        </radialGradient>
+        <path id="a" d="M20 0h20v74H20z"/>
+        <path id="c" d="M39 27h20v74H39z"/>
+        <path id="d" d="M0 40h20v74H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <use fill="#8CA12F" xlink:href="#a"/>
+            <use fill="url(#b)" style="mix-blend-mode:overlay" xlink:href="#a"/>
+        </g>
+        <g>
+            <use fill="#1A4B47" xlink:href="#c"/>
+            <use fill="url(#b)" style="mix-blend-mode:overlay" xlink:href="#c"/>
+        </g>
+        <g>
+            <use fill="#D78A4F" xlink:href="#d"/>
+            <use fill="url(#b)" style="mix-blend-mode:overlay" xlink:href="#d"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,802 @@
+@media screen and (max-width:1920px) {}
+
+@media screen and (max-width:1560px) {
+
+    .container {
+        max-width: 1200px;
+    }
+    .banner {
+        height: 300px;
+    }
+    .career_fix img {
+        bottom: 0.125rem;
+    }
+/* index start */
+.btn-group button {
+    font-size: 16px;
+    padding: 14px 13px;
+}
+.btngrey:first-child::before {
+    top: 14px;
+    height: 30px;
+}
+.inner_img h2 {
+    padding: 0rem 3.0625rem;
+}
+.inner_img h3 {
+    padding: 2.4375rem 0rem 0.5625rem;
+}
+.team {
+    padding: 4.5rem 3.5rem;
+}
+.row_lt {
+    padding: 2.5rem 3.1875rem 0 2.4375rem;
+}
+.row_rt {
+    padding: 2.5rem 2.4375rem 0 3.1875rem;
+}
+.header .navbar-default .navbar-nav > li > a {
+    padding: 13px 22px;
+}
+/* index end */
+}
+
+@media screen and (max-width:1367px) {
+    .team_bio {
+        padding-top: 5rem;
+    }
+    .green_slide .slick-prev {
+        left: 5.625rem;
+    }
+    .header .hamburger1 {
+        padding: 16px 14px;
+    }
+    .pack_par p::before {
+        top: 0.8rem;
+    }
+    .pl-5, .px-5 {
+        padding-left: 1rem!important;
+    }
+    .container {
+        max-width: 1140px;
+    }
+    /* index start */
+    .header .navbar-default .navbar-nav > li > a {
+        font-size: 15px;
+    }
+    /* .header .hamburger {
+        width: 60px;
+        height: 52px;
+    } */
+    .hamburger-box {
+        height: 22px;
+    }
+    .header .navbar-brand {
+        height: 50px;
+        width: 50px;
+    }
+    .ban_sec h2 {
+        font-size: 65px;
+    }
+    .ban_sec_p p {
+        font-size: 16px;
+    }
+    .mt-5 {
+        margin-top: 2rem!important;
+    }
+    .ban_sec_p h4 {
+        font-size:1.125rem;
+    }
+    .ban_sec_p h4 {
+        font-size: 1rem;
+    }
+    .slick-prev, .slick-next {
+        width: 1.8rem;
+        height: 1.6rem;
+        border-radius: 4px;
+    }
+    .gr_img {
+        height: 5.0625rem;
+    }
+    .inner_img h2 {
+        font-size: 2.75rem;
+    }
+    .varity {
+        padding: 3.25rem 0rem 0;
+    }
+    .card-body h4 {
+        font-size: 18px;
+    }
+    .card-img-top {
+        height: 177px;
+    }
+    .rowtp {
+        margin: 3.625rem 0 0;
+    }
+    .inner_img h3 {
+        padding: 1.4375rem 0rem 0.5625rem;
+        font-size: 2.1rem;
+    }
+    p {
+        font-size:1.125rem;
+        line-height: 35px;
+    }
+    .form_inner .form-group .form-control {
+        font-size: 1.125rem;
+    }
+    .form_inner1 textarea.form-control {
+        font-size: 1.125rem;
+        height: 10.0625rem;
+    }
+    .form-group .btnn {
+        font-size: 1.3625rem;
+        padding: 0.5rem 5.1875rem;
+    }
+    .team {
+        padding: 2.5rem 3.5rem;
+    }
+    .gre_slick {
+        width: 33.625rem;
+    }
+    .gre_slick p {
+        padding: 0 1.75rem 0.25rem 0.5rem;
+        line-height: 1.35;
+    }
+    .gre_slick h4 {
+        font-size: 1.95rem;
+    }
+    .buy_sec {
+        padding: 130px 0px;
+    }
+    .buy_p {
+        width: 70%;
+        padding: 1.25rem 2.25rem;
+    }
+    .footer {
+        padding: 0.6875rem 0;
+    }
+    /* index end */
+
+    /* corn start */
+    .corn_varity {
+        padding: 3.25rem 0rem 6.25rem;
+    }
+    /* corn end */
+    .pdf form .form-group .form-control {
+        padding: 13px 35px;
+    }
+    
+    .pdf a {
+        padding: 13px 35px;
+    }
+}
+
+@media screen and (max-width:1199px) {
+    /* .team_bio {
+        padding-top: 5.5625rem;
+    } */
+
+    .form_inner .form-group .form-control {
+        padding-left: 1rem;
+    }
+    .btn-group button {
+        margin: 24px 0px 33px;
+    }
+    .padding_left {
+        padding-left: 3.9375rem;
+    }
+    .container {
+        max-width: 960px;
+    }
+
+    .career_left p br {
+        display: none;
+    }
+    /* index start */
+    .card-body {
+        min-height: 247px;
+    }
+    .ban_sec h2 {
+        font-size: 50px;
+    }
+    .ban_sec_p p {
+        font-size: 15px;
+    }
+    .ban_sec_p h4 {
+        font-size: 1.125rem;
+    }
+    .slider {
+        padding: 1.25rem 8.125rem 1.25rem 0.9375rem;
+    }
+    .slider .slick-prev {
+        right: 1.75rem;
+        left: initial;
+    }
+    .slider .slick-next {
+        right: 4.5625rem;
+    }
+    .inner_img h2 {
+        font-size: 2.1875rem;
+    }
+    .row_lt {
+        padding: 2.5rem 1.1875rem 0 1rem;
+    }
+    .row_rt {
+        padding: 2.5rem 1rem 0 1.1875rem;
+    }
+    .card-body {
+        padding: 1rem;
+    }
+    .buy_p h3 {
+        font-size: 30px;
+    }
+    .footer_right h5 {
+        font-size: 1rem;
+        padding: 0.1rem 0rem;
+    }
+    .footer_left img{
+        width: 35%;
+    }
+    .buy_sec {
+        padding: 80px 0px;
+    }
+    .careers {
+        padding: 5.0625rem 0 4.0625rem;
+    }
+    .career_form {
+        margin-top: -5.45rem;
+    }
+    .career_fix img {
+        bottom: 0;
+    }
+    /* index end */
+    /* corn start */
+    .header .navbar-default .navbar-nav > li > a {
+        padding: 13px 13px;
+    }
+    .header .hamburger1 {
+        padding: 15px 15px;
+    }
+    .corn_sec {
+        padding: 18.25rem 0rem 0rem;
+    }
+    /* corn end */
+    .pad_lt {
+        padding-right: 2.1875rem;
+    }
+    .pad_rt {
+        padding-left: 2.1875rem;
+    }
+}
+
+@media screen and (max-width:991px) {
+    .team_bio img{
+        width: 60%;
+    }
+    .banner_inner1 {
+        top: 8.625rem;
+    }
+    .container {
+        max-width: 720px;
+    }
+
+    .inner_img h2 {
+        font-size: 2rem;
+        line-height: 2.75rem;
+        padding: 0rem 6.25rem;
+    }
+
+    .inner_img h3 {
+        font-size: 1.75rem;
+        line-height: 2.625rem;
+        padding: 3.125rem 0rem 0.9375rem;
+    }
+
+    p {
+        font-size: 1.25rem;
+        line-height: 1.875rem;
+    }
+
+    .bottom_img img {
+        padding-top: 3.0625rem;
+    }
+
+    .inner_page {
+        padding: 1.875rem 0rem 5.375rem 0rem;
+    }
+
+    .form_inner .form-group .form-control {
+        font-size: 1.125rem;
+    }
+
+    .form_inner1 textarea.form-control {
+        font-size: 1.125rem;
+    }
+
+    .form-group .btnn {
+        font-size: 22px;
+        padding: 0.625rem 4.125rem;
+    }
+
+    .footer_right h5 {
+        font-size: 1.2rem;
+
+    }
+
+    .footer_right h6 {
+        font-size: 1.2rem;
+
+    }
+
+    .right {
+        padding-top: 0.3125rem;
+    }
+    /* index start */
+    .padding_left {
+        padding-left: 1.9375rem;
+    }
+    .ban_sec img{
+        width: 20%;
+    }
+    
+    .ban_sec_p h4 {
+        font-size: 1rem;
+    }
+    .card-body {
+        min-height: 189px;
+    }
+    .rowtp {
+        margin: 1.625rem 0 0;
+    }
+    .row_lt {
+        padding: 1rem 1rem;
+    }
+    .rttp{
+        border-right: none;
+    }
+    .row_rt {
+        padding: 1rem 1rem;
+    }
+    .green_slide .slick-next {
+        bottom: 19px;
+    }
+    .green_slide .slick-prev {
+        left: 5.625rem;
+        bottom: 19px;
+    }
+    .gre_slick {
+        margin-top: -23.875rem;
+    }
+    .buy_img {
+        width: 53%;
+        height: 257px;
+    }
+    .buy_img img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    /* index end */
+    #content .file_pdf1{
+        height: 350px!important;
+    }
+   .seed_sec  {
+        height: 450px;
+    width: 100%;
+    }
+    .seed_sec img.seed_bns{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .pack_par p::before {
+        top: 10px;
+    }
+    .pdf form .form-group .form-control {
+        padding: 10px 35px;
+        width: 399px;
+
+    }
+    .pdf a{
+        padding: 10px 35px; 
+    }
+    .pdf2 form .form-group .form-control {
+        width: 100%;
+    }
+    
+}
+
+@media screen and (max-width:767px) {
+    .hambox1{
+        display: none;
+    }
+   .ham_div {
+        display: block!important;
+    }
+    .hambox{
+        display: block;
+    }
+    .container {
+        max-width: 100%;
+    }
+
+    .inner_img h3 {
+        font-size: 1.5rem;
+        line-height: 2.1875rem;
+    }
+
+    .inner_img h3 {
+        padding: 2.8125rem 0rem 0.9375rem;
+    }
+
+    p {
+        font-size: 1.125rem;
+        line-height: 1.625rem;
+    }
+
+    .career_left {
+        padding-left: 0rem;
+    }
+
+    .career_right img {
+        display: inherit;
+        margin: 0 auto;
+        float: none;
+    }
+
+    .career_form {
+        margin-top: -5.45rem;
+    }
+
+    .form_inner1 textarea.form-control {
+        height: 8.0625rem;
+        padding-left: 1rem;
+    }
+
+    .form_inner1 {
+        margin-top: 0rem;
+
+    }
+
+    .career_form .col-sm-6 {
+        width: 100%;
+        float: left;
+    }
+
+    .footer .col-md-6 {
+        width: 50%;
+    }
+    /* index start */
+     .navbar-collapse{
+         display: none;
+     } 
+     .padding_left {
+        padding-left: 1.9375rem;
+        padding-right: 1rem;
+    }
+    .ban_sec_p p br{
+        display: none;
+    }
+    .ban_sec_p i {
+        font-size: 1.5rem;
+    }
+    .ban_sec_p h4 {
+        font-size: 1rem;
+    }
+    .inner_img h2 {
+        padding: 0rem 2.25rem;
+    }
+    .row_width .col-sm-6{
+        width: 50%;
+        float: left;
+    }
+    .form_btn {
+        text-align: center;
+        margin-top: 1.1875rem;
+    }
+    .team {
+        padding: 1rem 2rem;
+    }
+    .gre_slick p {
+            line-height: 1.3;
+            font-size: 16px;
+        
+    }
+    .ban_inn  img{
+        height: 425px;
+    }
+    .gre_slick {
+        margin-top: -21.875rem;
+        width: 27.625rem;
+    }
+    .buys {
+        display: block!important;
+    }
+    .buy_img {
+        width: 100%;
+        height: 100%;
+    }
+    .buy_p {
+        width: 100%;
+        padding: 3.25rem 2.25rem;
+    }
+    .buy_p h3 {
+        margin-bottom: 15px;
+    }
+    .careers {
+        padding: 5.0625rem 0 2.0625rem;
+    }
+    .gre_slick {
+        margin-top: -18.875rem;
+        width: 26.625rem;
+    }
+    .gre_slick p {
+        padding: 0 0rem;
+    }
+    .green_slide .slick-next {
+        left: 2.125rem;
+    }
+    .green_slide .slick-prev {
+        left: 4.625rem;
+    }
+    .career_right img {
+        width: 40%;
+    }
+    .career_form {
+        margin-top: -1.45rem;
+    }
+    /* index end */
+    /* seed varity start */
+    .seed_sec {
+        height: 380px;
+    }
+    .banner_inner1 {
+        top: 7.625rem;
+    }
+    /* seed varity end */
+    .pdf2 form .form-group .form-control {
+        margin: 26px 0px;
+    }
+    .pad_lt {
+        padding-right: 1rem;
+    }
+    .pad_rt {
+        padding-left: 1rem;
+    }
+}
+
+@media screen and (max-width:560px) {
+    .team_bio {
+        padding-top: 4rem;
+    }
+    .banner {
+        height: 220px;
+    }
+    .inner_img h2 {
+        padding: 0rem 0.9rem;
+    }
+    .pdf1 {
+        width: 100%;
+    }
+    .btn-group button {
+        font-size: 14px;
+    }
+    .form_inner .form-group .form-control {
+        padding-left: 0.5rem;
+    }
+    .form_inner1 textarea.form-control {
+        padding-left: 0.5rem;
+    }
+    .header {
+        padding: 10px 10px;
+    }
+    .header .navbar-brand {
+        height: 45px;
+        width: 45px;
+    }
+    .rw_wdth .col-md-4{
+        padding:0;
+    }
+    .rw_wdth  .col-sm-12{
+        padding:0;
+    }
+    .banner_inner img {
+        display: none;
+    }
+
+    .inner_img h2 {
+        font-size: 1.9rem;
+
+        line-height: 2rem;
+    }
+
+    .inner_img h3 {
+        padding: 2.1875rem 0px 0.75rem;
+    }
+
+    .inner_img h3 {
+        font-size: 1.5rem;
+        line-height: 2.25rem;
+    }
+
+    p {
+        font-size: 1.0625rem;
+        line-height: 1.5rem;
+    }
+
+    .bottom_img img {
+        padding-top: 2rem;
+    }
+
+    .inner_page {
+        padding: 1.875rem 0rem 3.375rem 0rem;
+    }
+
+    .career_inner {
+        padding: 3.0625rem 0rem 0.3rem;
+
+    }
+    
+.footer_right h5 {
+    padding: 0.125rem 0rem;
+    }
+    /* index start */
+    .row_width .col-sm-6 {
+        width: 100%;
+        float: left;
+    }
+    .buy_p {
+        padding: 1rem 2rem;
+    }
+    .padding_left {
+        padding-left: 1rem;
+    }
+    .ban_sec h2 {
+        font-size: 41px;
+    }
+    .mt-5 {
+        margin-top: 1rem!important;
+    }
+    .ban_sec_p h4 a {
+        font-size: 1rem;
+    }
+    .gre_slick {
+        width: 90%;
+    }
+    .pl-5{
+        padding-left: 0rem!important;
+    }
+    .card-body {
+        min-height: initial;
+    }
+    .row_lt {
+        padding: 0;
+    }
+    .row_rt {
+        padding: 0;
+    }
+    .inner_img {
+        margin-top: 1rem;
+    }
+    .varity {
+        padding: 2.25rem 0rem 0;
+    }
+    .rowtp {
+        margin: 0.625rem 0 0;
+    }
+    .buy_p {
+        padding: 1rem 1rem;
+    }
+    .careers {
+        padding: 0.0625rem 0 2.0625rem;
+    }
+    .footer_left img {
+        width: 60%;
+    }
+    /* index end */
+    /* seed varity start */
+    .seed_sec {
+        height: 280px;
+    }
+    .pdf form .form-group .form-control {
+        padding: 5px 12px;
+        width: 300px;
+        font-size: 20px;
+        border-radius: 12px;
+    }
+    .pdf a{
+        padding: 5px 23px;
+    }
+    .pack_par p::before {
+        top: 7px;
+    }
+    .pdf {
+        padding: 1.75rem 0rem;
+    }
+      /* seed varity end*/
+      .pdf form .form-group .form-control {
+          width: 100%;
+      
+    }
+}
+
+@media screen and (max-width:414px) {
+    .team_bio {
+        padding-top: 3.4rem;
+    }
+    .pdf a {
+        border-radius: 0px 12px 12px 0;
+    }
+    .btn-group button {
+        font-size: 14px;
+        padding: 11px 6px;
+    }
+    .btn-group button i {
+        margin: 0px 5px;
+        font-size: 12px;
+    }
+    .btn-group button img{
+        width: 20px;
+    }
+    .inner_img h2 {
+        font-size: 1.7rem;
+
+    }
+
+    .pdf form .form-group .form-control {
+           width: 100%;
+    }
+    .ban_sec h2 {
+        font-size: 30px;
+    }
+    .footer_left img {
+        width: 79%;
+    }
+    .inner_img h2 {
+        padding: 0rem 0rem;
+    }
+    .footer_right h6 {
+        font-size: 1rem;
+            line-height: 1.25rem;
+    }
+    .footer_right h5 {
+        font-size: 1rem;
+            line-height: 1.25rem;
+    }
+    /* index start */
+    .row_width .col-sm-6 {
+        padding: 0;
+    }
+    .gre_slick {
+        margin-top: -22.875rem;
+    }
+    .gre_slick h4 {
+        margin-top: 1rem;
+    }
+    /* index end */
+    /* corn start */
+    .corn_sec {
+        padding: 11.25rem 0rem 0rem;
+    }
+    /* corn end */
+
+    /* seed varity start */
+    .seed_sec {
+        height: 240px;
+    }
+    .header {
+        padding: 6px 10px;
+    }
+    .header .navbar-brand {
+        height: 40px;
+        width: 40px;
+    }
+    .pack_par p::before {
+        top: 7px;
+        width: 0.3rem;
+        height: 0.3rem;
+    }
+/* seed varity end */
+}
+
+@media screen and (max-width:320px) {}

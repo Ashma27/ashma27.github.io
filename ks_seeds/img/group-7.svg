@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="368" height="233" viewBox="0 0 368 233">
+    <defs>
+        <filter id="a" width="216.9%" height="161.1%" x="-58.4%" y="-30.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="21.5"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.0953068388 0 0 0 0 0.0953068388 0 0 0 0 0.0953068388 0 0 0 0.219733392 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <radialGradient id="c" cy="0%" r="626.068%" fx="50%" fy="0%" gradientTransform="matrix(.13121 .2669 -.99135 .03533 .434 -.133)">
+            <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+            <stop offset="100%" stop-opacity=".5"/>
+        </radialGradient>
+        <path id="b" d="M50.5.5h49v182h-49z"/>
+        <path id="d" d="M98.5 66.5h49v182h-49z"/>
+        <path id="e" d="M.5 100.5h49v182H.5z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" filter="url(#a)" transform="rotate(90 142.5 183)">
+        <use fill="#8CA12F" xlink:href="#b"/>
+        <use fill="url(#c)" style="mix-blend-mode:overlay" xlink:href="#b"/>
+        <use fill="#1A4B47" xlink:href="#d"/>
+        <use fill="url(#c)" style="mix-blend-mode:overlay" xlink:href="#d"/>
+        <g>
+            <use fill="#D78A4F" xlink:href="#e"/>
+            <use fill="url(#c)" style="mix-blend-mode:overlay" xlink:href="#e"/>
+        </g>
+    </g>
+</svg>

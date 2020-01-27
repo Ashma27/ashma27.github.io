@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="121" viewBox="0 0 128 121">
+    <defs>
+        <radialGradient id="b" cy="0%" r="188.345%" fx="50%" fy="0%" gradientTransform="scale(.94531 1) rotate(62.523 .514 .024)">
+            <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+            <stop offset="100%" stop-opacity=".5"/>
+        </radialGradient>
+        <path id="a" d="M1792 7233h1.149L1920 7112h-127.408z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="rotate(180 960 3616.5)">
+        <use fill="#D78A4F" xlink:href="#a"/>
+        <use fill="url(#b)" style="mix-blend-mode:overlay" xlink:href="#a"/>
+    </g>
+</svg>
