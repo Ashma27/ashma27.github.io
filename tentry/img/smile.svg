@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="smile" width="16.635" height="16.635" viewBox="0 0 16.635 16.635">
+    <defs>
+        <style>
+            .cls-1{fill:#bebebe}
+        </style>
+    </defs>
+    <path id="Path_1006" d="M111.559 225.8a3.514 3.514 0 0 1-4.627 0l-.521-.457-.915 1.042.521.457a4.9 4.9 0 0 0 6.456 0l.521-.457-.914-1.042zm0 0" class="cls-1" transform="translate(-100.926 -215.581)"/>
+    <path id="Path_1007" d="M8.318 0a8.318 8.318 0 1 0 8.318 8.318A8.327 8.327 0 0 0 8.318 0zm0 15.249a6.931 6.931 0 1 1 6.931-6.931 6.939 6.939 0 0 1-6.931 6.931zm0 0" class="cls-1"/>
+    <path id="Path_1008" d="M112 144h1.386v1.386H112zm0 0" class="cls-1" transform="translate(-107.148 -137.762)"/>
+    <path id="Path_1009" d="M240 144h1.386v1.386H240zm0 0" class="cls-1" transform="translate(-229.603 -137.762)"/>
+</svg>

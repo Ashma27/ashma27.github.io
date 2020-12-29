@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200.041" height="44" viewBox="0 0 200.041 44">
+    <defs>
+        <style>
+            .cls-1{fill:#f6ae42}
+        </style>
+    </defs>
+    <g id="Group_66087" transform="translate(-57.946 -16)">
+        <path id="Rectangle_2085" d="M0 0H3.58V2.506H0z" class="cls-1" transform="translate(71.582 40.761)"/>
+        <path id="Rectangle_2086" d="M0 0H3.58V2.506H0z" class="cls-1" transform="translate(71.582 44.341)"/>
+        <path id="Rectangle_2087" d="M0 0H3.58V2.506H0z" class="cls-1" transform="translate(76.953 40.761)"/>
+        <path id="Rectangle_2088" d="M0 0H3.58V2.506H0z" class="cls-1" transform="translate(76.953 44.341)"/>
+        <path id="Path_68002" d="M429.2 104.723l7.7-3.759v3.849z" class="cls-1" transform="translate(-360.483 -74.525)"/>
+        <path id="Path_68004" fill="#f6ae42" stroke="#f6ae42" stroke-width="0.582px" d="M441.418 106.782v3.759" transform="translate(-365.182 -76.762)"/>
+        <path id="Path_68005" fill="none" stroke="#f6ae42" stroke-width="2px" d="M417.622 121.685l13.866-7.34 13.138 7.34-2.3 8.951-10.838 2.686-10.346-1.969z" transform="translate(-354.667 -79.671)"/>
+        <g id="Group_66086" transform="translate(59.946 16)">
+            <path id="Path_68000" fill="#fff" d="M504.414 102.752v-5.971h18.735v5.971h-6.317v24.318h-6.1v-24.318zm21.2 24.318V96.781h15.75v6.058h-9.649v6.144h5.585v6.1h-5.582v5.885h9.649v6.1zm19.212 0v-21.289h.346l5.755 9.26v12.029zm0-26.308v-3.981h4.974l14.279 23.02v7.269h-2.9zm13.154 4.759v-8.74h6.1v18h-.346z" transform="translate(-449.356 -88.916)"/>
+            <path id="Path_68001" d="M629.559 95.727v3.245h-9.735v27.692h-4V98.972h-9.735v-3.245zm4.782 30.937V95.727h13.2q8.827 0 8.827 7.421 0 6.036-8.632 8.935l10.622 14.582h-5.279l-9.844-13.911v-2.618q8.871-1.407 8.87-6.815 0-4.283-4.932-4.284h-8.827v27.628zm25.118-30.937h4.435l8.914 16.161 9.043-16.161h4.649l-11.813 20.12v10.817h-4v-10.817z" class="cls-1" transform="translate(-488.461 -88.51)"/>
+            <circle id="Ellipse_13" cx="16.649" cy="16.649" r="16.649" fill="none" stroke="#f6ae42" stroke-width="4px" transform="translate(0 4.89)"/>
+            <path id="Path_68006" fill="#fff" stroke="#fff" stroke-width="3px" d="M490 84v44" transform="translate(-443.813 -84)"/>
+        </g>
+    </g>
+</svg>

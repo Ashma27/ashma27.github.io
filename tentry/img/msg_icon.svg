@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="86" viewBox="0 0 86 86">
+    <defs>
+        <filter id="Ellipse_19" width="86" height="86" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .cls-2{stroke:#000;stroke-width:.5px}
+        </style>
+    </defs>
+    <g id="Group_719" transform="translate(-1202.592 -669)">
+        <g filter="url(#Ellipse_19)" transform="translate(1202.59 669)">
+            <circle id="Ellipse_19-2" cx="34" cy="34" r="34" fill="#f6ae42" transform="translate(6 6)"/>
+        </g>
+        <g id="speak" transform="translate(1224.139 694.498)">
+            <path id="Path_1001" d="M36.07 7.692a.719.719 0 0 0-.719.719v2.561a2.668 2.668 0 0 1-2.665 2.665h-4.1a.719.719 0 0 0-.508.21l-4.965 4.966v-4.458a.718.718 0 0 0-.719-.719H12.112a2.668 2.668 0 0 1-2.665-2.665V.1a2.668 2.668 0 0 1 2.665-2.665h20.575A2.668 2.668 0 0 1 35.352.1v2.56a.719.719 0 1 0 1.437 0V.1a4.107 4.107 0 0 0-4.1-4.1H12.112A4.107 4.107 0 0 0 8.009.1v9.233H2.78A2.783 2.783 0 0 0 0 12.113v6.621a2.783 2.783 0 0 0 2.78 2.78h2.2l3.561 3.561a.719.719 0 0 0 1.227-.508v-3.053h5.548a2.783 2.783 0 0 0 2.78-2.78v-3.66h3.587v5.473a.718.718 0 0 0 1.227.508l5.981-5.981h3.8a4.107 4.107 0 0 0 4.1-4.1V8.411a.719.719 0 0 0-.721-.719zM16.657 18.734a1.344 1.344 0 0 1-1.343 1.343H9.047a.719.719 0 0 0-.719.719v2.037l-2.545-2.546a.719.719 0 0 0-.508-.211H2.78a1.344 1.344 0 0 1-1.343-1.343v-6.62A1.344 1.344 0 0 1 2.78 10.77h5.23v.2a4.107 4.107 0 0 0 4.1 4.1h4.545zm0 0" class="cls-2" transform="translate(0 4)"/>
+            <path id="Path_1002" d="M270.023 77.914h-14.012a.719.719 0 1 0 0 1.437h14.011a.719.719 0 1 0 0-1.437zm0 0" class="cls-2" transform="translate(-240.618 -73.205)"/>
+            <path id="Path_1003" d="M270.741 146.137a.719.719 0 0 0-.719-.719h-14.011a.719.719 0 1 0 0 1.437h14.011a.718.718 0 0 0 .719-.718zm0 0" class="cls-2" transform="translate(-240.618 -136.829)"/>
+            <path id="Path_1004" d="M256.011 212.918a.719.719 0 1 0 0 1.437h8.083a.719.719 0 0 0 0-1.437zm0 0" class="cls-2" transform="translate(-240.618 -200.449)"/>
+            <path id="Path_1005" d="M615.719 149.4a.719.719 0 1 0 .718.719.72.72 0 0 0-.718-.719zm0 0" class="cls-2" transform="translate(-579.648 -140.584)"/>
+        </g>
+    </g>
+</svg>

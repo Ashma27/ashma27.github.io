@@ -1,0 +1,811 @@
+@media(max-width:1560px){
+
+}
+@media(max-width:1367px){
+
+}
+@media(max-width:1199px){
+
+    /* Why Here Modal Start */
+    .whyHere .modal-dialog {
+        max-width: 810px;
+    }
+    .whyHereCards .cardDetailsInner{
+        min-height: 125px;
+    }
+    .whyHereCards .col-sm-4{
+        flex: 0 0 50%;
+        max-width: 50%;
+        margin-bottom: 115px;
+    }
+    .whyHereCards .col-sm-4:last-child{
+        margin-bottom: 0;
+        margin-left: 25%;
+    }
+    /* Why Here Modal End */
+/* Header start  */
+.wrap .loginsearch input {
+    margin: 0 2px 0 0;
+    width: 230px;
+}
+.loggedMenu ul li {
+    margin-left: 20px;
+}
+/* Header END  */
+/* Rent Form  */
+.pignose-calendar .pignose-calendar-top .pignose-calendar-top-date {
+    padding: 15px 0;
+}
+.pignose-calendar .pignose-calendar-top .pignose-calendar-top-month {
+    margin-bottom: 0;
+    line-height: 30px;
+}
+.pignose-calendar .pignose-calendar-top {
+    padding: 30px 0;
+}
+/* Rent Form END  */
+/* My request  */
+.rentalmain {
+    padding: 0;
+}
+/* My Request END  */
+/* Detail PAge  */
+.slider-nav-thumbnails .thunmnail_img {
+    height: 60px;
+}
+.descr_bx {
+    margin: 10px 0px;
+}
+/* Detail PAge END  */
+/* Home Start  */
+.packagesList {
+    min-height: 280px;
+}
+.paddingClass {
+    padding: 40px 35px;
+}   
+.body_outer {
+    height: 300px;
+}
+/* Home END  */
+}
+@media(max-width:991px){
+/* Header start  */
+.container {
+    max-width: 100%;
+}
+.wrap .loginsearch input {
+    width: 200px;
+    padding: 10px 14px;
+}
+.wrap .search button {
+    padding: 10px 15px;
+}
+.profileUser .profileName{
+    display: none;
+}
+.loggedMenu ul li {
+    margin-left: 10px;
+}
+.profileUser .menuDropbox {
+    left: -144px;
+}
+.loggedMenu ul li .loginprofile li{
+    margin-left: 0;
+}
+.menuDropbox.loginDropbox ul li a {
+    padding: 8px 15px;
+}
+.menuDropbox.loginDropbox ul li a span.viewdrop {
+    padding: 0 15px 0 0px;
+    height: 20px;
+    width: 35px;
+}
+.menuDropbox.notoficDropbox {
+    width: 340px;
+    left: -275px;
+    padding: 10px 0;
+}
+.menuDropbox.notoficDropbox.filterbox {
+    padding: 0 0 15px;
+    width: 350px;
+}
+.notificLists {
+    padding: 0 15px;
+}
+.loggedMenu ul li ul li{
+    margin-left: 0;
+}
+/* Header END  */
+/* Footer  */
+.footerall h4 {
+    padding-bottom: 10px;
+}
+.footerall ul{
+    padding-bottom: 10px;
+}
+.btmleft {
+    width: 30%;
+}
+/* Footer ENd  */
+/* Rent Form  */
+.rentalform {
+    padding: 20px 80px;
+}
+/* Rent Form ENd  */
+/* Detail PAge  */
+.rental_left {
+    height: auto;
+}
+.slide_main .slide{
+    padding-bottom: 15px;
+}
+.slider .slick-slide {
+    height: auto;
+}
+.carRentalPage .rental_left {
+    height: 100%;
+}
+/* Detail PAge END  */
+/* Home Start  */
+.mustord_box {
+    width: 390px;
+    height: 500px;
+    left: -35px;
+}
+.home_left h2.rental_font {
+    font-size: 115px;
+    line-height: 92px;
+}
+.home_left h2 {
+    line-height: 76px;
+}
+.home_left p.rental_para {
+    padding-right: 15px;
+}
+.petProducts  .card-body p {
+    font-size: 15px;
+    line-height: 18px;
+}
+.petProducts  h4.card-title {
+    font-size: 18px;
+}
+.sectionTop h3 {
+    margin-bottom: 15px;
+}
+.lineStyle span:before {
+    top: 12px;
+}
+.lineStyle {
+    height: 15px;
+}
+.lineStyle span{
+    height: 3px;
+    width: 105px;
+}
+.lineStyle span:before {
+    top: 8px;
+    height: 3px;
+}
+
+/* Hone END  */
+} 
+@media(max-width:767px){ 
+    
+    /* Sidenav Start */
+    .topBoxs {
+        margin-top: 85px;
+    }
+    .navbar-expand-md .navbar-toggler {
+        display: block;
+    }
+    .navbar-expand-md .navbar-collapse {
+        position: fixed;
+        width: 100%;
+        top: -100%;
+        left: 0;
+        background:var(--BlueShade);
+        height: auto;
+        transition: all 0.3s ease;
+        display: initial !important;
+        margin-top: 70px;
+        padding: 0 12px;
+        z-index: 9;
+    }    
+    .nav-link:hover, .nav-link:focus
+    {
+        border-bottom: none;
+    }
+    .navbar-expand-md .navbar-nav {
+        flex-direction: column;
+    }
+    .navbar-light .navbar-nav .nav-item {
+        margin-bottom: 5px;
+    }
+    .headerBox 
+    {
+        display: block !important;
+        float: left !important;
+        text-align: center;
+        width: 100%;
+    }
+    .navbar-expand-md .navbar-nav .nav-link
+    {
+        padding: 0;
+    }
+    .nav-item
+    {
+        margin-bottom: 15px;
+    }
+    .navbar-expand-md .navbar-nav .dropdown-menu
+    {
+        position: relative;
+        background: transparent;
+        border: none;
+        padding-bottom: 0;
+    }
+    .navbar-expand-md .navbar-nav .dropdown-menu.show
+    {
+        transition: all 0.3s ease;
+    }
+    
+    .dropdown-item
+    {
+        color: #fff;
+    }
+    .sidenavBtn {
+        position: absolute;
+        right: 0px;
+        top: 13px;
+        display: block;
+    }
+.loggedMenu{
+    margin-right: 40px;
+}
+.wrap .loginsearch input {
+    width: 420px;
+}
+.wrap .search button {
+    padding: 10px 22px;
+}
+.loginHeader .loginList{
+    display: none;
+}
+.loginMob{
+    display: block;
+    margin-right: 45px;
+}
+    /* Sidenav End */
+    /* Footer  */
+    .footleft {
+        width: 100%;
+    }
+    .footerLogo {
+        margin-bottom: 25px;
+    }
+    .footmiddle {
+        width: 100%;
+        margin-top: 25px;
+    }
+    /* Footer END  */
+    /* About page  */
+    .paraConts {
+        padding: 20px;
+    }
+    .faqs .card {
+        margin-bottom: 5px;
+        margin-right: 0;
+    }
+    .faqs .card-header {
+        padding: 10px 15px 10px 0;
+    }
+    .faqs .card-body {
+        padding: 7px 0;
+    }
+    /* About Page END  */
+    /* My Request  */
+.requestPage .col-sm-4, .requestPage  .col-sm-8{
+    max-width: 100%;
+    flex: 100%;
+    -ms-flex:100%;
+}
+.requestBtns button {
+    width: 48%;
+}
+.requestBtns {
+    margin-bottom: 15px;
+    text-align: center;
+}
+.card_rental {
+    padding: 20px 0px 10px;
+}
+    /* My Request END  */
+    /* Detail PAge  */
+    .rental_formleft {
+        border-bottom: none;
+        padding: 0;
+    }
+    .padding-left {
+        padding-left: 15px;
+    }
+    .padding-right {
+        padding-right: 15px;
+    }
+    .rental_outer {
+        margin-bottom: 0;
+    }
+    .carRentalPage .rental_outer {
+        margin-bottom: 15px;
+    }
+/* Detail PAge END  */
+/* Home Start  */
+.home_contain .row{
+    flex-direction: column-reverse;
+}
+.mustord_box {
+    width: 90%;
+    height: 95%;
+    top: 38px;
+    left: -10px;
+}
+.home_left {
+    margin-top: 58px;
+    padding-left: 40px;
+}
+.home_left:before {
+    top: -3px;
+    left: 6px;
+}
+.home_contain .col-sm-7, .home_contain .col-sm-5 {
+    max-width: 100%;
+    -ms-flex: 100%;
+    flex: 100%;
+}
+.yellow_box p {
+    font-size: 21px;
+}
+.yellow_box {
+    width: 112px;
+    height: 115px;
+    padding: 10px;
+}
+.packagesSlider {
+    width: 455px;
+    margin: 0 auto;
+    float: unset;
+}
+.packagesList {
+    min-height: 230px;
+    margin-bottom: 15px;
+}
+.packagesExplored .col-sm-4:last-child .packagesList{
+    margin-bottom: 0;
+}
+.rate_box {
+    padding: 30px 0;
+}
+.rate_box p {
+    font-size: 16px;
+    line-height: 18px;
+}
+.rate_box h2 {
+    font-size: 30px;
+    line-height: 30px;
+    margin-top: 5px;
+}
+.rate_img {
+    min-height: auto;
+}
+.packagesExplored .col-sm-4{
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+}
+.car_box {
+    padding: 70px 0px 60px;
+}
+.loginModal .modal-dialog, .modal .modal-dialog{
+    max-width: 90%;
+    height: auto;
+    margin: 40px auto;
+}
+.loginModal.locationModal .loginRight::after {
+    left: 44%;
+}
+.forgetbox {
+    padding: 0px 10px;
+}
+.loginModalInner {
+    display: block;
+}
+.loginModal .loginLeft {
+    width: 100%;
+    padding-right: 0;
+}
+.loginModal .loginRight {
+    padding-top: 20px;
+    width: 100%;
+    padding-left: 0;
+}
+.loginModal .loginRight::before {
+    width: 100%;
+    height: 1px;
+    top: 20px;
+}
+.loginModal .loginRight::after {
+    top: 9px;
+    left: 48%;
+    padding: 5px 10px;
+    transform: rotate(-0deg);
+}
+.socialConnect{
+    width: 225px;
+    margin: 0 auto;
+}
+.signupform {
+    padding: 0px;
+}
+.add_section img.yellowback {
+    display: none;
+}
+/* Home END  */
+}
+@media(max-width:560px){
+/* Header start  */
+.wrap .loginsearch input {
+    width: 280px;
+}
+.navbar-brand{
+    width: 150px;
+}
+.navbar-expand-md .navbar-collapse {
+    margin-top: 60px;
+}
+.sidenavBtn {
+    top: 8px;
+}
+.menuDropbox.notoficDropbox {
+    width: 270px;
+    padding: 15px 0;
+    overflow-x: scroll;
+    max-height: 350px;
+}
+.notificImg {
+    height: 35px;
+    width: 35px;
+    min-width: 35px;
+    margin-bottom: 7px;
+}
+.notificList{
+    display: block !important;
+}
+.notificList .notificLeft {
+    margin-left: 0;
+}
+.loggedMenu ul li.notificList, .loggedMenu ul li.notificList:first-child {
+    margin-left: 0;
+}
+.loggedMenu ul li .notificImg img{
+    width: 100%;
+}
+.menuDropbox.notoficDropbox.filterbox {
+    width: 308px;
+    left: -200px;
+}
+.check label {
+    line-height: 16px;
+}
+.menuDropbox ul li .btnStyle {
+    padding: 9px 35px;
+}
+/* Header END  */
+/* common  */
+.top_section {
+    margin-top: 62px;
+}
+.btnStyle3 {
+    padding: 8px 20px;
+    font-size: 15px;
+}
+.dashBtn {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.mdtp__wrapper {
+    top: 8%;
+    min-width: 300px;
+}
+/* common END  */
+/* Footer  */
+.footmiddle .footmidArea {
+    padding-right: 0px;
+    width: 100%;
+    display: block;
+}
+.footerall {
+    align-items: initial;
+    padding-bottom: 0;
+}
+.footmiddle ul li {
+    margin-bottom: 0;
+}
+.footerall h4 {
+    padding-bottom: 6px;
+}
+.footerall ul {
+    padding-bottom: 15px;
+}
+.footerBtm{
+    display: block !important;
+    padding: 10px 0;
+}
+.btmleft {
+    width: 100%;
+    text-align: center;
+}
+/* Footer END  */
+/* profile start  */
+.changeProfileImg {
+    margin: 0 auto 25px;
+}
+/* Profile END  */
+/* Rent Form  */
+.rentalform {
+    padding: 20px;
+}
+.pignose-calendar .pignose-calendar-header {
+    margin-top: 10px;
+}
+.pignose-calendar .pignose-calendar-body {
+    padding: 10px;
+}
+.pignose-calendar .pignose-calendar-unit {
+    height: 48px;
+}
+/* Rent Form ENd  */
+/* My Request  */
+.pickDropList li {
+    width: 100%;
+    padding-right: 0;
+}
+.pickDropList .descr_bx {
+    margin: 8px 0px 0;
+}
+.card-body p {
+    font-size: 15px;
+}
+.card_rental h5 {
+    font-size: 16px;
+    margin-bottom: 7px;
+}
+.card-title span.card_side {
+    font-size: 15px;
+    line-height: 18px;
+}
+.card_rental h4 {
+    font-size: 20px;
+}
+.card_rental h4 span .car_symbol {
+    margin: 0 5px 0 0;
+}
+/* My Request END  */
+/* Home Start  */
+.img_home {
+    height: 345px;
+}
+.mustord_box {
+    top: 28px;
+}
+.home_left h2.rental_font {
+    font-size: 95px;
+    line-height: 75px;
+    padding: 15px 0px;
+}
+.home_left h2 {
+    line-height: 68px;
+    font-size: 85px;
+}
+.packagesSlider {
+    width: 360px;
+}
+.packageName h2.headSize2 {
+    font-size: 34px;
+}
+.car_box {
+    padding: 70px 0px 50px;
+}
+.rate_img {
+    min-height: auto;
+}
+.rate_inner {
+    margin-bottom: 15px;
+}
+.rate_box .col-sm-4:last-child .rate_inner {
+    margin-bottom: 0;
+}
+.rate_box h2 {
+    margin-top: 14px;
+}
+.rate_box p {
+    font-size: 18px;
+    line-height: 26px;
+}
+.locDetail {
+    display: block;
+}
+.locationMap, .locCont {
+    width: 100%;
+}
+.locationMap{
+    padding-right: 0;
+    margin-bottom: 15px;
+}
+.modal .modal-body {
+    padding: 20px;
+}
+.add_lft h3 {
+    font-size: 34px;
+    line-height: 45px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+/* Home END  */
+}
+@media(max-width:414px){
+/* Header start  */
+.wrap .loginsearch input {
+    width: 195px;
+}
+.navbar-brand {
+    width: 130px;
+    margin-right: 5px;
+    padding: 0;
+}
+.userLogin .profileImage {
+    height: 28px;
+    width: 28px;
+}
+.loggedMenu ul li{
+    line-height: 24px;
+    margin-left: 8px;
+}
+.loggedMenu ul li img{
+    width: 18px;
+}
+.userLogin .profileName {
+    font-size: 12px;
+    line-height: 12px;
+    margin-left: 6px;
+}
+.userLogin .profileName .dropIcon {
+    margin-left: 5px;
+}
+.userLogin .profileName .dropIcon img{
+    width: 9px;
+}
+.loggedMenu {
+    margin-right: 30px;
+}
+.navIcon, .navIcon::before, .navIcon::after {
+    width: 24px;
+}
+.sidenavBtn {
+    top: 4px;
+}
+.header  .container {
+    padding-right: 9px;
+    padding-left: 9px;
+}
+.navbar-expand-md .navbar-collapse {
+    margin-top: 56px;
+    padding: 10px 9px 0;
+}
+.navbar {
+    padding: 12px 0px;
+}
+.loggedMenu ul li .filterbox li, .loggedMenu ul li .filterbox  li:first-child {
+    margin-left: 0;
+}
+.menuDropbox.notoficDropbox {
+    left: -215px;
+}
+.notoficDropbox, .loginprofile{
+    top: 37px;
+}
+/* Header END  */
+/* Footer Start  */
+.footLogo {
+    width: 165px;
+}
+/* Footer ENd  */
+/* Rent Form  */
+.renta_head a {
+    line-height: 24px;
+    margin: 20px 0px;
+    font-size: 16px;
+}
+.pignose-calendar-wrapper {
+    width: 90%;
+}
+.pignose-calendar .pignose-calendar-header {
+    padding: 0 10px;
+}
+.pignose-calendar .pignose-calendar-header .pignose-calendar-week {
+    font-size: 14px;
+}
+/* Rent Form END  */
+/* Home Start  */
+.home_left:before {
+    top: -6px;
+    left: -12px;
+}
+.home_left {
+    margin-top: 58px;
+    padding-left: 20px;
+}
+.home_left h2.rental_font {
+    font-size: 75px;
+    line-height: 60px;
+    padding: 15px 0px 3px;
+}
+.home_left h2 {
+    line-height: 55px;
+    font-size: 70px;
+}
+.home_left p {
+    margin: 20px 0px 0;
+}
+.packagesSlider {
+    width: 290px;
+}
+.packagesExplored {
+    padding: 15px;
+}
+.packagesList {
+    min-height: 195px;
+}
+.loginBtn a {
+    padding: 7px 20px;
+    font-size: 14px;
+}
+.loginMob {
+    margin-right: 34px;
+}
+.body_outer {
+    height: 260px;
+}
+.chatbox {
+    width: 280px;
+    right: 10px;
+}
+.chat_head  img{
+    width:150px;
+}
+.chat_head .btnStyle {
+    font-size: 13px;
+    padding: 5px 14px;
+}
+.chat_head {
+    justify-content: space-between;
+    padding: 10px 7px;
+}
+.footerchat.chat_head img{
+    width: auto;
+    top: 18px;
+    right: 90px;
+}
+.modal .modalBtn .modalButton, .cartBtn button {
+    padding: 10px 40px;
+}
+.socialConnect li span {
+    height: 40px;
+    width: 40px;
+}
+.socialConnect li .smallContent {
+    line-height: 40px;
+}
+.add_lft h3 {
+    font-size: 30px;
+}
+/* Home END  */
+}

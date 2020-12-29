@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="103" height="102" viewBox="0 0 103 102">
+    <g>
+        <g>
+            <path d="M211 249.987a8.987 8.987 0 1 0 8.987-8.987 9 9 0 0 0-8.987 8.987zm0 0" transform="translate(.376) translate(0 23.514) translate(-168.861 -241)"/>
+            <path d="M183.974 361A17.994 17.994 0 0 0 166 378.974v12.182h35.948v-12.182A17.994 17.994 0 0 0 183.974 361zm0 0" transform="translate(.376) translate(0 23.514) translate(-132.848 -337.035)"/>
+            <path d="M63.974 279.987a8.987 8.987 0 1 0-8.987 8.987 9 9 0 0 0 8.987-8.987zm0 0" transform="translate(.376) translate(0 23.514) translate(-36.813 -265.009)"/>
+            <path d="M393.974 279.987a8.987 8.987 0 1 0-8.987 8.987 9 9 0 0 0 8.987-8.987zm0 0" transform="translate(.376) translate(0 23.514) translate(-300.908 -265.009)"/>
+            <path d="M378.507 391a17.824 17.824 0 0 0-10.6 3.527 23.725 23.725 0 0 1 1.617 8.456v12.182h27.156v-6.191A18.145 18.145 0 0 0 378.507 391zm0 0" transform="translate(.376) translate(0 23.514) translate(-294.428 -361.043)"/>
+            <path d="M0 408.974v6.191h27.161v-12.182a23.725 23.725 0 0 1 1.617-8.456A17.824 17.824 0 0 0 18.174 391 18.145 18.145 0 0 0 0 408.974zm0 0" transform="translate(.376) translate(0 23.514) translate(0 -361.043)"/>
+        </g>
+        <path fill="none" d="M0 0H103V102H0z" transform="translate(.376) translate(-.376)"/>
+    </g>
+</svg>

@@ -1,0 +1,506 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Tentry | My Requests</title>
+        <link href="img/fav.png" rel="icon" type="icon/image">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/media.css" rel="stylesheet">
+    </head>
+    <body>
+         <!-- Header Start -->
+    <section class="header boxs">
+        <div class="container">
+            <nav class="navbar navbar-default">
+                <nav class="navbar navbar-expand-md">
+                    <a class="navbar-brand" href="index.html"><img src="img/logo.svg" class="img-fluid" alt="logo"></a>                        
+                    <div class="navbar-collapse" id="nav">
+                        <div class="headerBox d-flex align-items-center float-right">   
+                            <ul class="navbar-nav">
+                                <li class="nav-item">
+                                    <div class="wrap">
+                                        <div class="search loginsearch">
+                                           <input type="text" class="searchTerm" placeholder="Search here...">
+                                           <button type="submit" class="searchButton">Search
+                                             <!-- <i class="fa fa-search"></i> -->
+                                          </button>
+                                        </div>
+                                     </div>
+                                </li>
+                               
+                            </ul>                          
+                        </div>
+                    </div>
+                  
+                    <div class="loggedMenu">
+                        <ul class="flexBox">
+                            <li class="userLogin menuLogin"><a class="openUserMenu flexBox" href="javascript:void(0)">
+                                <span class="profileName">EN<span class="dropIcon"><img src="img/dropIcon.svg" alt="icon" class="img-fluid"></span></span></a>
+                                <div class="menuDropbox loginDropbox">
+                                    <ul>
+                                        <li> <div class="radio">
+                                            <input id="radio-1" name="radio" type="radio" checked>
+                                            <label for="radio-1" class="radio-label">English</label>
+                                          </div>
+                                        </li>
+                                        <li><div class="radio">
+                                            <input id="radio-2" name="radio" type="radio">
+                                            <label  for="radio-2" class="radio-label">German</label>
+                                          </div>
+                                        </li>
+                                        <li><div class="radio">
+                                            <input id="radio-3" name="radio" type="radio">
+                                            <label  for="radio-3" class="radio-label">French</label>
+                                          </div>
+                                        </li>
+                                        <li><div class="radio">
+                                            <input id="radio-4" name="radio" type="radio">
+                                            <label  for="radio-4" class="radio-label">Italian</label>
+                                          </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="userNotificaton menuLogin"><a class="openUserMenu" href="javascript:void(0)"><img src="img/gpicon.svg" class="img-fluid" alt="icon"></a>
+                                <div class="menuDropbox filterbox notoficDropbox">
+                                   <div class="filter_head boxs text-center">
+                                       <p>Filter <span><a href="javascript:void(0)"><i class="fa fa-times"></i></a></span></p>
+                                   </div>
+                                   <div class="filtermain boxs scrollbar" id="style-3">
+                                        <div class="filter_inner boxs">
+                                            <p>Distance</p>
+                                            <ul>
+                                                    <li> 
+                                                        <div class="check">
+                                                            <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike" checked>
+                                                            <label for="vehicle1" class="check-label">Less than 5 km</label>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="check">
+                                                            <input type="checkbox" id="vehicle2" name="vehicle2" value="Bike">
+                                                            <label for="vehicle2" class="check-label">Between 5-10 Km</label>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="check">
+                                                            <input type="checkbox" id="vehicle3" name="vehicle3" value="Bike">
+                                                            <label for="vehicle3" class="check-label">More than 10 km</label>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                        </div>
+                                        <div class="filter_inner boxs">
+                                            <p>Car Category</p>
+                                            <ul>
+                                                <li> 
+                                                    <div class="check">
+                                                        <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike" checked>
+                                                        <label for="vehicle1" class="check-label">Micro</label>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="check">
+                                                        <input type="checkbox" id="vehicle2" name="vehicle2" value="Bike">
+                                                        <label for="vehicle2" class="check-label">Hatchback</label>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="check">
+                                                        <input type="checkbox" id="vehicle3" name="vehicle3" value="Bike">
+                                                        <label for="vehicle3" class="check-label">Sports</label>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="check">
+                                                        <input type="checkbox" id="vehicle3" name="vehicle3" value="Bike">
+                                                        <label for="vehicle3" class="check-label">Sedan</label>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="check">
+                                                        <input type="checkbox" id="vehicle3" name="vehicle3" value="Bike">
+                                                        <label for="vehicle3" class="check-label">Mini</label>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="filter_inner boxs">
+                                            <p>Car Category</p>
+                                            <ul>
+                                                <li> 
+                                                    <div class="check">
+                                                        <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike" checked>
+                                                        <label for="vehicle1" class="check-label">Micro</label>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="check">
+                                                        <input type="checkbox" id="vehicle2" name="vehicle2" value="Bike">
+                                                        <label for="vehicle2" class="check-label">Hatchback</label>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="check">
+                                                        <input type="checkbox" id="vehicle3" name="vehicle3" value="Bike">
+                                                        <label for="vehicle3" class="check-label">Sports</label>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="check">
+                                                        <input type="checkbox" id="vehicle3" name="vehicle3" value="Bike">
+                                                        <label for="vehicle3" class="check-label">Sedan</label>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="check">
+                                                        <input type="checkbox" id="vehicle3" name="vehicle3" value="Bike">
+                                                        <label for="vehicle3" class="check-label">Mini</label>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        
+                                    </div>
+                                    <div class="button_maib boxs">
+                                        <ul>
+                                            <li><a href="javascript:void(0)" class="btnStyle resetbtn">Reset</a></li>
+                                            <li><a href="javascript:void(0)" class="btnStyle">Apply</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="userNotificaton menuLogin"><a class="openUserMenu" href="javascript:void(0)"><img src="img/bell.svg" class="img-fluid" alt="icon"></a>
+                                <div class="menuDropbox notoficDropbox">
+                                    <ul>
+                                        <li class="notificLists boxs">
+                                            <a class="" href="javascript:void(0)">
+                                                <div class="notificList flexBox">
+                                                    <div class="notificImg"><img src="img/user.png" alt="image" class="img-fluid"></div>
+                                                    <div class="notificLeft">
+                                                        <div class="notificHeading flexBox">
+                                                            <span class="notificName midiumContent">Dr. Naraashima C.R.V</span>
+                                                            <span class="notificTime"><span class="smallFont">3 min</span><img src="img/time.svg" alt="icon" class="img-fluid"></span>
+                                                        </div>
+                                                        <div  class="notoficContet">
+                                                            <p class="smallContent">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li class="notificLists boxs">
+                                            <a class="" href="javascript:void(0)">
+                                                <div class="notificList flexBox">
+                                                    <div class="notificImg"><img src="img/user.png" alt="image" class="img-fluid"></div>
+                                                    <div class="notificLeft">
+                                                        <div class="notificHeading flexBox">
+                                                            <span class="notificName midiumContent">Dr. Naraashima C.R.V</span>
+                                                            <span class="notificTime"><span class="smallFont">3 min</span><img src="img/time.svg" alt="icon" class="img-fluid"></span>
+                                                        </div>
+                                                        <div  class="notoficContet">
+                                                            <p class="smallContent">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li class="notificLists boxs">
+                                            <a class="" href="javascript:void(0)">
+                                                <div class="notificList flexBox">
+                                                    <div class="notificImg"><img src="img/user.png" alt="image" class="img-fluid"></div>
+                                                    <div class="notificLeft">
+                                                        <div class="notificHeading flexBox">
+                                                            <span class="notificName midiumContent">Dr. Naraashima C.R.V</span>
+                                                            <span class="notificTime"><span class="smallFont">3 min</span><img src="img/time.svg" alt="icon" class="img-fluid"></span>
+                                                        </div>
+                                                        <div  class="notoficContet">
+                                                            <p class="smallContent">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li class="notificLists boxs">
+                                            <a class="" href="javascript:void(0)">
+                                                <div class="notificList flexBox">
+                                                    <div class="notificImg"><img src="img/user.png" alt="image" class="img-fluid"></div>
+                                                    <div class="notificLeft">
+                                                        <div class="notificHeading flexBox">
+                                                            <span class="notificName midiumContent">Dr. Naraashima C.R.V</span>
+                                                            <span class="notificTime"><span class="smallFont">3 min</span><img src="img/time.svg" alt="icon" class="img-fluid"></span>
+                                                        </div>
+                                                        <div  class="notoficContet">
+                                                            <p class="smallContent">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="userLogin menuLogin profileUser"><a class="openUserMenu flexBox" href="javascript:void(0)">
+                                <span class="profileImage"><img src="img/user.png" class="img-fluid" alt="icon"></span>
+                                <span class="profileName">Swikriti jaiswal<span class="dropIcon"><img src="img/dropIcon.svg" alt="icon" class="img-fluid"></span></span></a>
+                                <div class="menuDropbox loginDropbox loginprofile">
+                                    <ul>
+                                        <li><a class="openUserMenu openprofile flexBox" href="javascript:void(0)">
+                                            <span class="profileImage"><img src="img/user.png" class="img-fluid" alt="icon"></span>
+                                            <span class="profileName">Swikriti jaiswal <span class="view_prof">View Profile</span></span>
+                                            
+                                        </a></li>
+                                        <li><a class="" href="javascript:void(0)"><span class="viewdrop"><img src="./img/request.svg" alt="img" class="img-fluid"></span> My Requests</a></li>
+                                        <li><a class="" href=""><span class="viewdrop"><img src="./img/rental.svg" alt="img" class="img-fluid"></span>My Rentals</a></li>
+                                        <li><a class="" href="#"><span class="viewdrop"><img src="./img/changepassword.svg" alt="img" class="img-fluid"></span>Change Password</a></li>
+                                        <li><a class="" href="#"><span class="viewdrop"><img src="./img/logout.svg" alt="img" class="img-fluid"></span>Logout</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="sidenavBtn">
+                        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#nav"><span class="navIcon"></span></button> 
+                    </div>
+                </nav>
+            </nav>
+        </div>
+    </section>
+    <!-- Header End -->
+
+   <!-- cars rental start -->
+   <section class="carRental_box requestPage top_section boxs">
+      <div class="container">
+          <div class="renta_head boxs">
+              <a href="javascript:void(0)" class="flexBox"><span><img src="./img/arrowrental.svg" alt="img" class="img-fluid"></span>My Requests</a>
+          </div>
+      <div class="rentalmain boxs">
+        <div class="rental_outer boxs">
+            <div class="row">
+                <div class="col-sm-4" >
+                   <div class="boxs rental_left">
+                        <img src="./img/car.png" alt="img" class="img-fluid">
+                   </div>
+                   <div class="requestBtns boxs">
+                    <button class="btnStyle  btnTransparent btnStyle3 ">Edit</button>
+                    <button class="btnStyle redBtn btnTransparent  ">Remove</button>
+                   </div>
+                </div>
+                <div class="col-sm-8">
+                    <div class="card-body card_rental boxs">
+                        <h4 class="card-title flexBox">
+                            <span class="flexBox">
+                                <div class="car_symbol"><img src="./img/horse.png" alt="img" class="img-fluid"></div>Mustang</span> <span class="card_side">12/12/20 </span></h4>
+                        <h5 class="card-title">Mustang AQ7 <span class="card_side">Prabhat Sahay <b><img src="./img/retaliuser.svg" alt="img" class="img-fluid"></b> </span></h5>
+                        <p class="card-text">CHF 6000</p>
+                        <p class="card_para flexBox reqMax"><span>Security Amount : CHF 300 </span><span class="card_side">Max : 2</span></p>
+                        <ul class="pickDropList">
+                            <li>
+                                <div class="descr_bx boxs">
+                                    <p class="location">Pickup Location Date & Time</p>
+                                    <h5>Outer Ring Road, Chandra Layout <br/>09-Oct-2020, 02:00 PM</h5>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="descr_bx boxs">
+                                    <p class="location">Drop Off Location Date & Time</p>
+                                    <h5>Outer Ring Road, Chandra Layout <br/>09-Oct-2020, 02:00 PM</h5>
+                                </div>
+                            </li>
+                        </ul>
+                      </div>
+                </div>
+            </div>
+        </div>
+        <div class="rental_outer boxs">
+            <div class="row">
+                <div class="col-sm-4" >
+                   <div class="boxs rental_left">
+                        <img src="./img/car.png" alt="img" class="img-fluid">
+                   </div>
+                   <div class="requestBtns boxs">
+                    <button class="btnStyle  btnTransparent btnStyle3 ">Edit</button>
+                    <button class="btnStyle redBtn btnTransparent  ">Remove</button>
+                   </div>
+                </div>
+                <div class="col-sm-8">
+                    <div class="card-body card_rental boxs">
+                        <h4 class="card-title flexBox">
+                            <span class="flexBox">
+                                <div class="car_symbol"><img src="./img/horse.png" alt="img" class="img-fluid"></div>Mustang</span> <span class="card_side">12/12/20 </span></h4>
+                        <h5 class="card-title">Mustang AQ7 <span class="card_side">Prabhat Sahay <b><img src="./img/retaliuser.svg" alt="img" class="img-fluid"></b> </span></h5>
+                        <p class="card-text">CHF 6000</p>
+                        <p class="card_para flexBox reqMax"><span>Security Amount : CHF 300 </span><span class="card_side">Max : 2</span></p>
+                        <ul class="pickDropList">
+                            <li>
+                                <div class="descr_bx boxs">
+                                    <p class="location">Pickup Location Date & Time</p>
+                                    <h5>Outer Ring Road, Chandra Layout <br/>09-Oct-2020, 02:00 PM</h5>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="descr_bx boxs">
+                                    <p class="location">Drop Off Location Date & Time</p>
+                                    <h5>Outer Ring Road, Chandra Layout <br/>09-Oct-2020, 02:00 PM</h5>
+                                </div>
+                            </li>
+                        </ul>
+                      </div>
+                </div>
+            </div>
+        </div>
+        <div class="rental_outer boxs">
+            <div class="row">
+                <div class="col-sm-4" >
+                   <div class="boxs rental_left">
+                        <img src="./img/car.png" alt="img" class="img-fluid">
+                   </div>
+                   <div class="requestBtns boxs">
+                    <button class="btnStyle  btnTransparent btnStyle3 ">Edit</button>
+                    <button class="btnStyle redBtn btnTransparent  ">Remove</button>
+                   </div>
+                </div>
+                <div class="col-sm-8">
+                    <div class="card-body card_rental boxs">
+                        <h4 class="card-title flexBox">
+                            <span class="flexBox">
+                                <div class="car_symbol"><img src="./img/horse.png" alt="img" class="img-fluid"></div>Mustang</span> <span class="card_side">12/12/20 </span></h4>
+                        <h5 class="card-title">Mustang AQ7 <span class="card_side">Prabhat Sahay <b><img src="./img/retaliuser.svg" alt="img" class="img-fluid"></b> </span></h5>
+                        <p class="card-text">CHF 6000</p>
+                        <p class="card_para flexBox reqMax"><span>Security Amount : CHF 300 </span><span class="card_side">Max : 2</span></p>
+                        <ul class="pickDropList">
+                            <li>
+                                <div class="descr_bx boxs">
+                                    <p class="location">Pickup Location Date & Time</p>
+                                    <h5>Outer Ring Road, Chandra Layout <br/>09-Oct-2020, 02:00 PM</h5>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="descr_bx boxs">
+                                    <p class="location">Drop Off Location Date & Time</p>
+                                    <h5>Outer Ring Road, Chandra Layout <br/>09-Oct-2020, 02:00 PM</h5>
+                                </div>
+                            </li>
+                        </ul>
+                      </div>
+                </div>
+            </div>
+        </div>
+        <div class="rental_outer boxs">
+            <div class="row">
+                <div class="col-sm-4" >
+                   <div class="boxs rental_left">
+                        <img src="./img/car.png" alt="img" class="img-fluid">
+                   </div>
+                   <div class="requestBtns boxs">
+                    <button class="btnStyle  btnTransparent btnStyle3 ">Edit</button>
+                    <button class="btnStyle redBtn btnTransparent  ">Remove</button>
+                   </div>
+                </div>
+                <div class="col-sm-8">
+                    <div class="card-body card_rental boxs">
+                        <h4 class="card-title flexBox">
+                            <span class="flexBox">
+                                <div class="car_symbol"><img src="./img/horse.png" alt="img" class="img-fluid"></div>Mustang</span> <span class="card_side">12/12/20 </span></h4>
+                        <h5 class="card-title">Mustang AQ7 <span class="card_side">Prabhat Sahay <b><img src="./img/retaliuser.svg" alt="img" class="img-fluid"></b> </span></h5>
+                        <p class="card-text">CHF 6000</p>
+                        <p class="card_para flexBox reqMax"><span>Security Amount : CHF 300 </span><span class="card_side">Max : 2</span></p>
+                        <ul class="pickDropList">
+                            <li>
+                                <div class="descr_bx boxs">
+                                    <p class="location">Pickup Location Date & Time</p>
+                                    <h5>Outer Ring Road, Chandra Layout <br/>09-Oct-2020, 02:00 PM</h5>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="descr_bx boxs">
+                                    <p class="location">Drop Off Location Date & Time</p>
+                                    <h5>Outer Ring Road, Chandra Layout <br/>09-Oct-2020, 02:00 PM</h5>
+                                </div>
+                            </li>
+                        </ul>
+                      </div>
+                </div>
+            </div>
+        </div>
+      </div>
+      </div>
+   </section>
+   <!-- cars rental end -->
+
+     <!-- footer start -->
+     <section class="footer boxs">
+        <div class="footerBg">
+            <div class="container">
+                <div class="footerall boxs">
+                    <div class="footleft d-inline-block boxs">
+                        <div class="footerLogo boxs">
+                            <a class="footLogo" href="index.html"><img src="img/logo.svg" class="img-fluid" alt="logo"></a>
+                        </div>
+                        <div class="footContent boxs">
+                            <h4 class="contentHeading">Company</h4>
+                            <p class="smallFont">Lorem ipsum dolor sit amet,Stet clita kasdLorem ipsum dolor sit amet,Stet clita <span class="knowMore"><a href="about.html">Know more</a></span></p>
+                        </div>
+                    </div>
+                    <div class="footmiddle boxs">
+                        <div class="footmidArea">
+                            <h4 class="contentHeading">Get to know us</h4>
+                            <ul>
+                                <li><a href="about.html">About us</a></li>
+                            </ul>
+                        </div>
+                        <div class="footmidArea">
+                            <h4 class="contentHeading">Product</h4>
+                            <ul>
+                                <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                                <li><a href="terms.html">Terms & Conditions</a></li>
+                            </ul>
+                        </div>
+                        <div class="footmidArea">
+                            <h4 class="contentHeading">Help</h4>
+                            <ul>
+                                <li><a href="faq.html">FAQ's</a></li>
+                                <li><a href="javascript:void(0)">Support</a></li>
+                                <li><a href="javascript:void(0)">Contact us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="scrollUpMain flexBox">
+                    <a href="javascript:void(0)" class="scrollTop flexBox"><span><i class="fas fa-chevron-up"></i></span></a>
+                    <!-- <div class="scrollContent">
+                        <p>BACK TO TOP</p>
+                    </div> -->
+                </div>
+            </div>
+            <div class="footerBottomMain boxs">
+                <div class="container">
+                    <div class="footerBtm flexBox boxs">
+                        <div class="btmleft ">
+                            <a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a>
+                            <a href="javascript:void(0)"><i class="fab fa-twitter"></i></a>
+                            <a href="javascript:void(0)"><i class="fab fa-instagram"></i></a>
+                        </div>
+                        <div class="copyRight text-center boxs">
+                            <p class="smallFont">© Copyright: 2020 Tentry /All Rights Reserved</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- footer end -->
+
+  
+        <script src="js/jquery2.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/custom.js"></script>
+
+    </body>
+</html>
